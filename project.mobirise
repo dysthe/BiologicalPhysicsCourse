@@ -1,0 +1,2750 @@
+{
+  "settings": {
+    "name": "Biological physics",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.2",
+    "siteFonts": [],
+    "uniqCompNum": 88,
+    "versionPublish": "5.2.0",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-128x82.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": true,
+    "siteUrl": ""
+  },
+  "pages": {
+    "active.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Active Matter",
+        "order": 8,
+        "meta_image": "@PROJECT_PATH@/assets/images/maxresdefault.jpeg"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/V4f_1_r80RY",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Active matter",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-17",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-15"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Active matter is composed of large numbers of active \"agents\", each of which consumes energy in order to move or to exert mechanical forces.[1][2] Due to the energy consumption, these systems are intrinsically out of thermal equilibrium. Examples of active matter are schools of fish, flocks of birds, bacteria, artificial self-propelled particles, and self-organising bio-polymers such as microtubules and actin, both of which are part of the cytoskeleton of living cells. Most examples of active matter are biological in origin; however, a great deal of current experimental work is devoted to synthetic systems. Active matter is a relatively new material classification in soft matter: the most extensively studied model, the Vicsek model, dates from 1995. (Text copied from Wikipedia, new material will come...)</p>",
+          "text2": "<p><b>Papers</b></p><p><a href=\"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226\">Novel Type of Phase Transition in a System of Self-Driven Particles</a></p><p><a href=\"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226\">T Vicsek, A Czirók, E Ben-Jacob, I Cohen, and O Shochet,&nbsp;</a><span style=\"font-size: 1.07rem;\"><a href=\"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.1226\">Phys. Rev. Lett. 75, 1226</a></span></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-16"
+        }
+      ]
+    },
+    "statmech.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Statistical mechanics",
+        "order": 11,
+        "meta_image": "@PROJECT_PATH@/assets/images/13-fall-cystfigurehighresjuliobelmonte-630x315.jpg"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/13-fall-cystfigurehighresjuliobelmonte-630x315.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Statistical mechanics and simple models of complex evolution",
+          "text": "<p>Chapters 6 and 7 in Nelson + papers</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-10"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-y"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Entropic forces</b></p><p><a href=\"/studier/emner/matnat/fys/FYS4715/h19/Course%20material/entropic_handwritten.pdf\" target=\"_blank\">Entropic handwritten notes</a></p><p><a href=\"/studier/emner/matnat/fys/FYS4715/h19/Course%20material/week4.pdf\" target=\"_blank\">Entropic slides</a></p><p><a href=\"/studier/emner/matnat/fys/FYS4715/h19/Course%20material/soh2013_-why_cells_are_microscopic.pdf\" target=\"_blank\">Why cells are microscopic</a>, <a href=\"/studier/emner/matnat/fys/FYS4715/h19/Course%20material/why_cells_are_microscopic_handwritten.pdf\">handwritten notes</a></p><p><br></p><p><br></p><p><br></p>",
+          "text2": "<p><b>Modelling and simulation of multicellular systems using the Cellular Potts model</b></p><p><br></p><p>In this part of the course the students will learn how to model and simulate multicellular and multiscale systems using the cellular Potts model and the software Morpheus: https://morpheus.gitlab.io/  It consists of a 90 minutes lecture followed by two hands-on sessions of 80 minutes each.</p><p>Lecture 14 Oct, 8:30-10:00: Modelling multicellular systems using the cellular Potts model.</p><p>Hands-on sessions 16 Oct 8:30-12:00: Getting Started with Morpheus. Simulation and analysis of simple models.</p><p>Pre-Assignment:</p><p>1) Before the lecture, students should read at least Chapter II.2: The Cellular Potts Model and Biophysical Properties of Cells, Tissues and Morphogenesis</p><p>in this book: https://www.springer.com/gp/book/9783764381011 (free download from UiO)</p><p>I attach to this mail the whole section II of the book, which is all about the cellular Potts model, in case students have time and special interest in the topic.</p><p>2) For the practical sessions, students should install the software Morpheus (https://morpheus.gitlab.io/#download) and Gnuplot (https://sourceforge.net/projects/gnuplot/files/gnuplot/) in their own laptops. In case of problems, contact Alvaro Köhn-Luque (alvaro.kohn-luque@medisin.uio.no)</p><p><br></p><p>Assignment text</p><p>1. Cell sorting</p><p>2. Tumor growth (xml file)</p><p>3. Networks (movie)</p><p><br></p><p>Links about the CPM:</p><p><br></p><p>&nbsp; &nbsp; Original 1992 CPM paper by Graner and Glacier in PRL: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.69.2013</p><p>&nbsp; &nbsp; 1997 paper by Hogeweg extending the CPM to account for chemotaxis and applied to Dictyostelium social life: https://www.sciencedirect.com/science/article/pii/S0022519396902374</p><p>&nbsp; &nbsp; Book including full section about CPM (free download from UiO). In particular, the first two chapters  of that section (Magnetization to morphogenesis and CPM and Biophysical properties of cells) are specially interesting readings for a course in biophysics. https://www.springer.com/gp/book/9783764381011</p><p>&nbsp; &nbsp; Morpheus software: https://morpheus.gitlab.io/, https://academic.oup.com/bioinformatics/article/30/9/1331/234757</p><p>&nbsp; &nbsp; Morpheus tutorial by Walter de Back: https://gitlab.com/wdeback/Workshop-Morpheus/blob/master/tutorial-intro/README.md</p><p>&nbsp; &nbsp; Introductory slides to multicellular models and Morpheus: https://gitlab.com/wdeback/Workshop-Morpheus/tree/master/slides</p><p>&nbsp; &nbsp; CompuCell3D software: http://www.compucell3d.org/FrontPage, https://www.sciencedirect.com/science/article/pii/B9780123884039000138</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-26"
+        }
+      ]
+    },
+    "imagelinks.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Image links",
+        "order": 12
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-t"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Links to images on these web pages",
+          "caption": "<p>https://ellenbrookessentialtherapies.com.au/wp-content/uploads/2017/12/bio.jpg</p><p>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Time_Lapse_confocal_microscopy_of_swarming_Wild-Type_Escherichia_coli_cells_expressing_green_fluorescent_protein_-_pgen.0030154.sv001.ogv/640px--Time_Lapse_confocal_microscopy_of_swarming_Wild-Type_Escherichia_coli_cells_expressing_green_fluorescent_protein_-_pgen.0030154.sv001.ogv.jpg</p><p>http://biomedicalcomputationreview.org/sites/default/files/imagecache/article-inline-image/u6/nelsonbpbookcover.jpg</p><p>http://biomedicalcomputationreview.org/sites/default/files/u4/13-fall-cystfigurehighresjuliobelmonte.jpg</p><p>https://static1.olympus-lifescience.com/data/olympusmicro/galleries/confocal/cells/a10/images/a10exlarge2.jpg?rev=D848</p><p>https://spinoff.com/membranes</p><p>https://altairhyperworks.com/product/FEKO</p><p><a href=\"https://www.sciencedirect.com/science/article/pii/S0896627300000064\" target=\"_blank\">Monitoring Presynaptic Calcium Dynamics in Projection Fibers by In Vivo Loading of a Novel Calcium Indicator</a></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-w"
+        }
+      ]
+    },
+    "notused.html": {
+      "settings": {
+        "main": true,
+        "title": "Not Used",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-y"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "meta_descr": "Biological physics course home",
+        "title": "Biological physics course home",
+        "order": 5,
+        "meta_image": "@PROJECT_PATH@/assets/images/nelson_forsidebilde-1-686x438.png"
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-686x438.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Biological physics",
+          "text": "Autumn semester introductory MSc/PhD course for physicists, mathematicians, chemists and biologists. 10 ECTS.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html#msg-box5-x\" data-toolbar=\"-mbrBtnMove\">Next</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-x",
+          "_styles": {
+            "H3": {
+              "color": "#41a85f"
+            },
+            "P": {
+              "color": "#41a85f"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/q27Jn3h4kpE",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Life at low Reynolds number &amp; active matter",
+          "text": "Fundamentals of motion at microscopic scale and the exciting, new and vibrant field of active matter. <i>Experiment project.</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"brown_reynold_active.html\" data-toolbar=\"-mbrBtnMove\">GO!</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-h"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-j"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/13-fall-cystfigurehighresjuliobelmonte-630x315.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://vimeo.com/239236521",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Statistical mechanics and simple models of complex evolution",
+          "text": "Boltzmann and Gibbs statistics. From the Ising model to the Cellular Potts Model simulating tissue morphogenesis. <i>Simulation project.</i>&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"statmech.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-o"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/membrane-1024x607.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/lm-dAvbl330",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Cells, membranes &amp; self assembly.",
+          "text": "How do amphiphilic molecules organize to liposomes? Properties of liposomes, cells and other membrane separated organelles. <i>Experiment project.</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"membraneSelfAssembly.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-p"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/a10exlarge2-700x500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/lMliGsOqA8k",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Generating forces: active gels to muscles and cell migration",
+          "text": "Active polymers and molecular motors coarse grained to continuum description of actve gels. <i>Simulation project</i>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"generatingForces.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-q"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bioimpedance-700x467.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/726x383-hyperworks-feko-gallery-innovation-726x383.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Bioimpedance",
+          "text": "From passive response at membranes &amp; effects of ion pumps to the Donnan equilibrium and Nernst potential. <i>Experiment project</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"bioimpedance.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-r"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "6",
+            "paddingBottom": "6",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-686x438.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/fHRC8SlLcH0",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Active electric signals: the action potential in heart and brain",
+          "text": "... <i>Simulation project</i>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"actionpotential.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-s"
+        }
+      ]
+    },
+    "brownian.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Brownian",
+        "order": 10,
+        "meta_image": "@PROJECT_PATH@/assets/images/brownian-1154x1100.png"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/gdyo2-390x276.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/cDcprgWiQEY",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Brownian motion and diffusion",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box4-18"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><span style=\"font-size: 1.07rem;\"><b>Teaching material</b></span></p><p><span style=\"font-size: 1.07rem;\">-&nbsp;<a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/virrevandrer_diffusjon.pdf\">Introduction to diffusion and random walks</a></span></p><p>-&nbsp;<a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/Exercise_Diffusion\">Diffusion exercise (RW and molecular dynamics: self- and mutual diffusion)</a></p><p>-&nbsp;<a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS2150/v19/kursmateriell/brownske-bevegelser/\">Brownian motion lab exercise</a></p><p>After receiving reports I redid the experiments and wrote a \"<a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/brownian_bead_test_20190924.pdf\">lab journal/internal report</a>\"</p>",
+          "text2": "<p><b>Papers on Brownian Motion</b></p><p>&nbsp; &nbsp; -&nbsp;<a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/Einstein_1905_tysk.pdf\">Original 1905 paper of Einstein (German)</a></p><p>&nbsp; &nbsp; - <a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/eins_brownian.pdf\">Original 1905 paper of Einstein (English)</a></p><p>&nbsp; &nbsp; - <a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/Langevin_Brownian_1908_eng.pdf\">Langevin's simpler paper (1908)</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1a"
+        }
+      ]
+    },
+    "schedule.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "Schedule",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1j"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/leaf-1600x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Biological physics<br>Schedule",
+          "text": "<p>Autumn semester introductory MSc/PhD course for physicists, mathematicians, chemists and biologists. 10 ECTS.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1k"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem;\">This is a possible schedule in 2020. Possibly we will spend more time on some projects and reduce the number of topics.</b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\">Week 34-35: </b><span style=\"font-size: 1.07rem;\"><a href=\"BrownReynoldActive.html#gallery3-l\">Life at low Reynolds number &amp; active matter</a></span></p><p><span style=\"font-size: 1.07rem;\">Fundamentals of motion at microscopic scale and the exciting, new and vibrant field of active matter. Experiment project.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Week 36-37:</b> <a href=\"statmech.html#gallery3-z\">Statistical mechanics and simple models of complex evolution.</a> Boltzmann and Gibbs statistics. From the Ising model to the Cellular Potts Model simulating tissue morphogenesis. Simulation project.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><b>Week 38-39:</b> Cells, membranes and self assembly. How do amphiphilic molecules organize to liposomes? Properties of liposomes, cells and other membrane separated organelles. Experiment project.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Week 40:</b> No organized classes</span></p><p><span style=\"font-size: 1.07rem;\"><b>Week 41-43:</b> Generating forces: active gels to muscles and cell migration. Active polymers and molecular motors coarse grained to continuum description of actve gels. Simulation project.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Week 44-45:</b> Bioimpedance. From passive response at membranes &amp; effects of ion pumps to the Donnan equilibrium and Nernst potential. Experiment project</span></p><p><span style=\"font-size: 1.07rem;\"><b>Week 46-47:</b> <a href=\"actionpotential.html#header2-1w\">Active electric signals:</a> the action potential in heart and brain. Simulation project.</span></p><p><span style=\"font-size: 1.07rem;\"><b>Week 48:</b> Recap<br></span><br></p><p><br></p>",
+          "text2": "<p><b style=\"font-size: 1.07rem;\">Prerequisites</b></p><p><span style=\"font-size: 1.07rem;\">It is highly recommended to have some prior knowledge of <i>thermodynamics and statistical physics</i>. Students without this background are recommended to follow the lectures of <a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS2160/index-eng.html\">FYS2160</a> during the first 6 weeks of the semester.&nbsp;</span></p><p><b><br></b></p><p><b>How you will learn</b></p><p>You will study the textbook on your own.&nbsp;</p><p>The lectures will use material from the textbook and other material, but grouped together differently to give you the necessary background to start working on the project, Through the project work you enhance your understanding of the subject.</p><p><b><br></b></p><p><b>Textbook</b></p><p>\"Biological Physics -&nbsp;<span style=\"font-size: 1.07rem;\">Energy, Information, Life\",&nbsp;</span><span style=\"font-size: 1.07rem;\">by Philip Nelson,</span><span style=\"font-size: 1.07rem;\">&nbsp;W.H. Freeman and company</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1l",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "aboutthecourse.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "About the course",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1f"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/leaf-1600x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Biological physics",
+          "text": "<p>Autumn semester introductory MSc/PhD course for physicists, mathematicians, chemists and biologists. 10 ECTS.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1g"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><br></p><p><b>Course content</b></p><p>This course will give you an understanding of how properties of biological systems are determined by basic physical laws, and an introduction to physical models for molecular and cellular processes.</p><p><br></p><p><b>After completing this course:</b></p><p>&nbsp; &nbsp; - you will be familiar with a number of processes both on a cellular and organism level where physics increases insight. Examples could be diffusion and active transport, entropic forces and cooperative transitions, excitable cells and how cells move.</p><p>&nbsp; &nbsp; - you will be able to do calculation on physical models for molecular and cellular processes.</p><p>&nbsp; &nbsp; - you will be able to peruse and obtain knowledge from textbooks on biological physics and science articles.</p><p>&nbsp; &nbsp; - you will be able to explain connections between physics, chemistry and biology in the natural Sciences.</p><p><br></p><p><br></p>",
+          "text2": "<p><br></p><p><b>Teaching</b></p><p>4-6 hours of organized teaching per week through the semester.</p><p>The teaching will be a mixture of lectures, colloquias, problem solving, teamwork, small and large projects and laboratory exercises.</p><p>All compulsory tasks must be completed and approved to be eligible for exam.</p><p>There will be 4-6 compulsory projects consisting of laboratory and numerical problems.</p><p>The course may (in case of few students) alternatively be offered as a self-study with limited guidance, that is, no ordinary lectures.</p><p><span style=\"font-size: 1.07rem;\">Active participation in all of the compulsory tasks (including writing a lab journal and/or  oral presentation where required) must be completed and approved to be eligible for the oral exam.</span><br></p><p><br></p><p><b>Textbook</b></p><p>\"Biological Physics -&nbsp;<span style=\"font-size: 1.07rem;\">Energy, Information, Life\",&nbsp;</span><span style=\"font-size: 1.07rem;\">by Philip Nelson,</span><span style=\"font-size: 1.07rem;\">&nbsp;W.H. Freeman and company</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1i"
+        }
+      ]
+    },
+    "reynolds.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Low Reynolds",
+        "order": 9,
+        "meta_image": "@PROJECT_PATH@/assets/images/figures_purcell-1978x961.png"
+      },
+      "components": [
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "51",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/figures-purcellblue-1978x961.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.be/embed/cljq5Hm2rDY",
+              "aspectratio": "4:3",
+              "autoplay": "on",
+              "loop": "on"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Life at low Reynolds number",
+          "text": "<p>Chapters 4 and 5 in Nelson and papers</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box4-1c"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1d"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Can you imagine living in molasses? In a world where it is hard to swim faster than diffusion? How will you know which way to go for food? How should you move to swim?</p><p>This is the world of virus, bacterial and eucaryotic cells...</p>",
+          "text2": "<p><b>Papers</b></p><p>&nbsp; &nbsp; <a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/purcell1977a.pdf\">E. M. Purcell: Life at low Reynolds number (1977)</a></p><p>&nbsp; &nbsp; <a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/berg_purcell1977a.pdf\">H.C. Berg &amp; E.M. Purcell: Physics of chemisorption (1977)</a></p><p>&nbsp; &nbsp; <a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/berg1988_physicslocomotion.pdf\">H.C. Berg: A Physicist Looks at Bacterial Chemotaxis (1988)</a></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1e"
+        }
+      ]
+    },
+    "brown_reynold_active.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Brownian, low Reynolds, active",
+        "order": 13,
+        "meta_image": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480.jpg"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-k"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "4",
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/gdyo2-2-390x276.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gdyo2-2-390x276-340x217.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"brownian.html\">Brownian motion and diffusion</a>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/figures-purcell-1-1978x961.png",
+                "thumb": "@PROJECT_PATH@/assets/images/figures-purcell-1-1978x961-800x494.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"reynolds.html\">Life at low Reynolds number</a>"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/skjermbilde-2019-11-18-kl.-14.36.56-1272x712.png",
+                "thumb": "@PROJECT_PATH@/assets/images/skjermbilde-2019-11-18-kl.-14.36.56-1272x712-800x448.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"brownian.html\">Experiment project</a>",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/confocal-microscopy-of-swarming-wild-type-escherichia-coli-cells-expressing-green-fluorescent-protein-pgen.0030154.sv001.ogv-640x480-640x480.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"active.html\">Active matter</a>",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-l"
+        }
+      ]
+    },
+    "actionpotential.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Action potential",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1v"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/kreitzer2000b2-798x692.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.be/embed/YS_EZeIEO7k",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Active electric signals&nbsp;",
+          "text": "the action potential in nerve cells in the brain",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b style=\"font-size: 1.07rem;\">Nerve cell firing in vivo</b></p><p>We were allowed to follow a fantastic experiment where two-photon fluorescence microscopy was used to image calcium dynamics during nerve cell firing in the visual cortex of a mouse running on a treadmill!!</p><p><b style=\"font-size: 1.07rem;\">Reviews about the two-photon technique in neuroscience:</b><br></p><p><span style=\"font-size: 1.07rem;\">-&nbsp;<a href=\"https://www.sciencedirect.com/science/article/pii/S0896627306004119\" target=\"_blank\">Principles of Two-Photon Excitation Microscopy and Its Applications to Neuroscience</a></span><br></p><p>-&nbsp;<a href=\"https://www.cell.com/neuron/comments/S0896-6273(12)00172-9\" target=\"_blank\">Imaging Calcium in Neurons</a></p><p>-&nbsp;<a href=\"https://www.nature.com/articles/nature12354\" target=\"_blank\">Ultrasensitive fluorescent proteins for imaging neuronal activity</a></p><p><br></p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/fluorescence_microscopy.pdf\" target=\"_blank\">Some slides on fluorescence microscopy</a></p>",
+          "text2": "<p><b>Nerve cell firing in silico</b></p><p>After going through the basic physics of ion pumps charging the cells with ions, generating a membrane potential we studied the Hodgkin-Huxley model for action potential generation. Based on this we simulate nerve cell firing and the associated calcium release into the nerve cells.</p><p>More on the simulations and comparison with experiment below...</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-20"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191113-90610-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191113-90610-2000x2667-800x517.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191113-91709-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191113-91709-2000x2667-800x846.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191113-91715-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191113-91715-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191113-91911-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191113-91911-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191113-91628-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191113-91628-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191113-102402-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191113-102402-2000x2667-800x927.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191113-101118-2000x2667.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191113-101118-2000x2667-800x561.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/max-191103-averaged-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/max-191103-averaged-512x512-512x512.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-22"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Mrz587nxGFU",
+                "image": "@PROJECT_PATH@/assets/images/191101-006averaged-3-1564x1832.png",
+                "thumb": "@PROJECT_PATH@/assets/images/191101-006averaged-3-1564x1832-800x600.png",
+                "alt": "191101-006averaged-3-1564x1832.png",
+                "title": "df",
+                "caption": "Ca imaging video, part of cell",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=wLRJWy9YIZ0",
+                "image": "@PROJECT_PATH@/assets/images/imp-754x876.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imp-754x876-603x452.png",
+                "alt": "",
+                "title": "",
+                "caption": "Ca imaging video, many cells",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=lCIYw5IT_us",
+                "image": "@PROJECT_PATH@/assets/images/191103-averaged-1450x1634.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/191103-averaged-1450x1634-800x600.jpeg",
+                "alt": "",
+                "title": "",
+                "caption": "Ca imaging video, single cell",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-24"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>A simple model of neuronal calcium\ndynamics</b></p><p>In the experiments we saw images of neurons flashing\n when responding to certain visual stimuli. The interpretation of these experiments\nis that: (1) a flash indicated elevations in the intracellular Ca2+ concentration ([Ca2+]) , (2)\nthe [Ca2+] elevation indicated that the neuron fired an action potential, and (3) the action\n potential indicated that the neuron received a sufficiently strong external input to drive it \nabove firing its threshold.&nbsp;</p>",
+          "text2": "<p>In this exercise, we will make a simple model that captures the \nrelationship between the input, the action potential and the [Ca2+] dynamics in a neuron.\n We will use the good old Hodgkin-Huxley (HH) model for action potential generation as a\nstarting point, and Your task is to expand this model to also include a Ca2+ channel and intracellular [Ca2+]\ndynamics.</p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/exercise.pdf\" target=\"_blank\">The simulation exercise</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/exercise_hhca.ipynb\" target=\"_blank\">The Python code</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-23"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/skjermbilde-2019-11-20-kl.-13.33.17-1826x1582.png",
+                "thumb": "@PROJECT_PATH@/assets/images/skjermbilde-2019-11-20-kl.-13.33.17-1826x1582-800x693.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dendrite-intensities-984x766.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dendrite-intensities-984x766-800x623.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/decay-rate-930x610.png",
+                "thumb": "@PROJECT_PATH@/assets/images/decay-rate-930x610-800x525.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/figure-1-1280x960.png",
+                "thumb": "@PROJECT_PATH@/assets/images/figure-1-1280x960-800x600.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-2e"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>In the movie we picked out an area and measured the mean intensity in this area in all images.\nPlotting these intensities we got the intensity peaks above. The blue circles are the largest and best separated peaks. We then plot the normalized\n intensity for the decay of each of these peaks marked with blue circles.&nbsp;</p>",
+          "text2": "<p>One observes that they all have a similar decay rate. The thick, red dashed line is an exponential exp(-t/tau), tau=0.2. Using this decay rate in the simulations&nbsp;<span style=\"font-size: 1.07rem;\">one observes that the simple exponential decay in the model (right hand figure) is now fitted to the\nexperiments.&nbsp;</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2f"
+        }
+      ]
+    },
+    "generatingForces.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "GeneratingForces",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2c"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/a10exlarge2-700x500.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.be/embed/lMliGsOqA8k",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Generating forces: active gels to muscles and cell migration",
+          "text": "Active polymers and molecular motors coarse grained to continuum description of actve gels. <br><br>The chapters 9 and 10 in Nelson were skipped in 2019.<br>There will be an optional simulation project on cell motility or muscle physiology in 2020.<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-2d"
+        }
+      ]
+    },
+    "membraneSelfAssembly.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "MembraneSelfAssembly",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-29"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/membrane-1024x607.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/desert.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.be/embed/lm-dAvbl330",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Cells, membranes &amp; self assembly",
+          "text": "How do amphiphilic molecules organize to liposomes? Properties of liposomes, cells and other membrane separated organelles. Chapter 8 in Nelson. There will be an experiment project.<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-2a"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Biological question:</b></p><p>How can a molecular machine extract useful work?</p><p><b>Physical idea:</b></p><p>Deviations from chemical equilibrium gives rise to a chemical force</p>",
+          "text2": "<p>Resources:</p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS2160/h19/chem_pot_all.pdf\" target=\"_blank\">Recap on chemical potential</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS2160/h19/gibbs_all.pdf\" target=\"_blank\">Recap on Gibbs factor and hemoglobin uptake</a></p><p><a href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/h19/Course%20material/chem_react_self_assembly.pdf\" target=\"_blank\">Handwritten notes</a> following chapter 8.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-2b"
+        }
+      ]
+    },
+    "bioimpedance.html": {
+      "settings": {
+        "meta_descr": "Web Site Maker Description",
+        "title": "Bioimpedance",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"GeneralInfo.html#content6-1i\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">COURSE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aboutthecourse.html\">About the course</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schedule.html#msg-box8-1k\">Schedule</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"page1.html\" aria-expanded=\"false\">TOPICS &amp; PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\" aria-expanded=\"false\">Biological physics home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brown_reynold_active.html\">Life at low Reynolds ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statmech.html\">Stat mech &amp; models ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"membraneSelfAssembly.html\" aria-expanded=\"false\">Membranes ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"generatingForces.html\">Generating forces ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bioimpedance.html\" aria-expanded=\"false\">Bioimpedance ...</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"actionpotential.html#header2-1w\" aria-expanded=\"false\">Electric signals ...</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">WEB PAGE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://dagdysthe.wordpress.com/ \" target=\"_blank\">Teachers</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"imagelinks.html\">Image links<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/nelson-forsidebilde-200x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.uio.no/studier/emner/matnat/fys/FYS4715/index-eng.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">FYS4715@UiO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-27"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            "h3, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bioimpedance-700x467.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/726x383-hyperworks-feko-gallery-innovation-726x383.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Bioimpedance",
+          "text": "This project was not introduced in 2019.<br>In collaboration with the <a href=\"https://www.mn.uio.no/fysikk/english/research/projects/bioimpedance/\" target=\"_blank\">Bioimpedance group</a> we will have an experimental project in 2020.",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-28"
+        }
+      ]
+    }
+  }
+}
