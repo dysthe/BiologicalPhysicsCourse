@@ -79,10 +79,10 @@ def make_movie(D=0.9, n_particles=60, n_frames=300, shape=(512, 512),
 
 def save_png(frames, folder):
     """Save frames as folder/frame0000.png, frame0001.png, ..."""
-    from PIL import Image
+    import imageio.v2 as imageio  # installed with pims
     os.makedirs(folder, exist_ok=True)
     for i, f in enumerate(frames):
-        Image.fromarray(f).save(os.path.join(folder, f'frame{i:04d}.png'))
+        imageio.imwrite(os.path.join(folder, f'frame{i:04d}.png'), f)
 
 
 def track_and_fit(frames, pixel_size, fps, diameter=9, minmass=300, search_range=10, max_lag=30):
