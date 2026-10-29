@@ -1,0 +1,101 @@
+/* Front page only (index.qmd). Images are from the image bank in assets/images/. */
+
+/* Hide Quarto's own title block; the hero replaces it */
+#title-block-header { display: none; }
+
+.hero {
+  position: relative;
+  margin: 0 0 2rem 0;
+  min-height: 340px;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #0b0f0a;
+  background-size: cover;
+  background-position: center 40%;
+  display: flex;
+  align-items: flex-end;
+}
+/* dark gradient so white text is readable on any image */
+.hero::before {
+  content: "";
+  position: absolute; inset: 0;
+  background: linear-gradient(100deg, rgba(0,0,0,.78) 0%, rgba(0,0,0,.45) 55%, rgba(0,0,0,.05) 100%);
+}
+.hero-text {
+  position: relative;
+  padding: 2.2rem 2.4rem;
+  max-width: 640px;
+  color: #f4f7f2;
+}
+.hero-text h1 {
+  color: #fff;
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin: 0 0 .4rem 0;
+  border: none;
+}
+.hero-text .hero-sub {
+  font-size: 1.05rem;
+  color: #c9e7b9;
+  margin-bottom: 1rem;
+  letter-spacing: .02em;
+}
+.hero-text p { color: #e8ede5; margin-bottom: .6rem; }
+
+/* Block cards */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.1rem;
+  margin: 1.5rem 0 2.2rem 0;
+}
+a.tile {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,.12), 0 4px 14px rgba(0,0,0,.06);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+a.tile:hover { transform: translateY(-3px); box-shadow: 0 4px 18px rgba(0,0,0,.18); }
+a.tile .tile-img {
+  height: 150px;
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+}
+a.tile .tile-body { padding: .9rem 1rem 1.1rem 1rem; }
+a.tile .tile-kicker {
+  font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: #6c757d;
+}
+a.tile h3 { font-size: 1.1rem; margin: .2rem 0 .4rem 0; }
+a.tile p { font-size: .92rem; margin: 0; color: #444; }
+
+/* Demo band: image on the right, text on the left */
+.demo-band {
+  display: grid;
+  grid-template-columns: 1.2fr 1fr;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #000;
+  color: #eee;
+  margin: 2rem 0;
+}
+.demo-band .demo-text { padding: 1.8rem 2rem; }
+.demo-band h2 { color: #fff; border: none; margin-top: 0; }
+.demo-band p { color: #ddd; }
+.demo-band a.btn-demo {
+  display: inline-block; margin-top: .5rem; padding: .5rem 1.1rem; border-radius: 6px;
+  background: #7fd36b; color: #0b1a07; font-weight: 600; text-decoration: none;
+}
+.demo-band .demo-img { background-size: cover; background-position: center; min-height: 260px; }
+
+@media (max-width: 700px) {
+  .hero { min-height: 280px; }
+  .hero-text { padding: 1.5rem 1.2rem; }
+  .hero-text h1 { font-size: 2rem; }
+  .demo-band { grid-template-columns: 1fr; }
+  .demo-band .demo-img { min-height: 200px; order: -1; }
+}

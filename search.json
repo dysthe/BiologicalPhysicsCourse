@@ -1,0 +1,666 @@
+[
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule, spring 2027",
+    "section": "",
+    "text": "Tuesdays 10–12 (lab days 10–14) and Thursdays 10–12. Tuesday 12–14 is for project work and supervision when announced. Exercises are due Wednesday 23:59; project reports are due Sunday 23:59."
+  },
+  {
+    "objectID": "schedule.html#block-a-passive-and-active-walkers",
+    "href": "schedule.html#block-a-passive-and-active-walkers",
+    "title": "Schedule, spring 2027",
+    "section": "Block A: Passive and active walkers",
+    "text": "Block A: Passive and active walkers\n\n\n\nWeek\nTuesday\nThursday\nExercise\nProject\n\n\n\n\nW5 (2, 4 Feb)\nIntro: physics of living matter (Nelson Ch. 1–2)\nMicroscopy & image analysis; workshop: LLM-assisted analysis\nE1\nP1 kick-off\n\n\nW6 (9, 11 Feb)\n10–14 Lab: Brownian motion\nRandom walks → diffusion\nE2\nM1\n\n\nW7 (16, 18 Feb)\nDiffusion; 12–14 tracking clinic\nViscous drag, dimensional analysis, Stokes–Einstein\nE3\n\n\n\nW8 (23, 25 Feb)\nLangevin equation; Reynolds number\nStudents present Purcell, Life at low Reynolds number\nE4\nM2\n\n\nW9 (2, 4 Mar)\nActive matter: active Brownian particles, run-and-tumble\nVicsek model + simulation workshop\nE5\nReport Sun 7 Mar"
+  },
+  {
+    "objectID": "schedule.html#block-b-entropy-ions-and-membranes",
+    "href": "schedule.html#block-b-entropy-ions-and-membranes",
+    "title": "Schedule, spring 2027",
+    "section": "Block B: Entropy, ions and membranes",
+    "text": "Block B: Entropy, ions and membranes\n\n\n\n\n\n\n\n\n\n\nWeek\nTuesday\nThursday\nExercise\nProject\n\n\n\n\nW10 (9, 11 Mar)\n10–14 P1 defenses\nEntropy, multiplicity, Boltzmann; elective fair (P2)\nE6\nChoose P2 by Sun\n\n\nW11 (16, 18 Mar)\nFree energy; entropic forces, depletion\nChemical potential; osmosis\nE7\nP2 kick-off, M1\n\n\nW12\nEaster\n\n\n\n\n\nW13 (30 Mar, 1 Apr)\nOsmotic flow\nCharges, screening, Nernst\nE8\n\n\n\nW14 (6, 8 Apr)\nDonnan equilibrium, ion pumps\nResting potential\nE9\n\n\n\nW15 (13, 15 Apr)\n10–14 P2 lab / project work\nBlock C: Active materials shape themselves; elective fair (P3)\nE10\nM2\n\n\nW16 (20, 22 Apr)\nMechanosensing, mechanotransduction; 12–14 P2 supervision\nPhysics of adherent cells; differential adhesion, Cellular Potts model\nE11\nP2 report Sun 25 Apr; choose P3 by Thu"
+  },
+  {
+    "objectID": "schedule.html#block-c-morphogenesis-mechanobiology-and-imaging",
+    "href": "schedule.html#block-c-morphogenesis-mechanobiology-and-imaging",
+    "title": "Schedule, spring 2027",
+    "section": "Block C: Morphogenesis, mechanobiology and imaging",
+    "text": "Block C: Morphogenesis, mechanobiology and imaging\n\n\n\n\n\n\n\n\n\n\nWeek\nTuesday\nThursday\nExercise\nProject\n\n\n\n\nW17 (27, 29 Apr)\n10–14 P2 defenses\nNew microscopy: QPI, light-sheet, quantum-limited imaging\nE12\nP3 kick-off\n\n\nW18 (4 May)\n10–14 P3 lab\nAscension Day\n\nM1\n\n\nW19 (11, 13 May)\nPattern formation: Turing vs Wolpert\nUltrasound and cells\nE13\nM2\n\n\nW20 (18, 20 May)\nCourse recap; 12–14 supervision\nProject work and supervision\n\nP3 report Sun 23 May\n\n\nW21 (25, 27 May)\n10–14 P3 defenses\nCourse evaluation\n\n\n\n\n\nFinal oral exam: W23–W24."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Biological Physics",
+    "section": "",
+    "text": "FYS3715 · Spring 2027 · University of Oslo\n    How does a bacterium find food in a world without inertia? Why does a cell burst in pure water?\n       How can entropy create order? And how do identical cells organise themselves into a tissue with a shape?\nIn this course you use statistical physics, soft matter and mechanics to build quantitative models of living systems on scales from 1 nm to a few hundred micrometres. You test the models against your own measurements and simulations."
+  },
+  {
+    "objectID": "index.html#how-the-course-works",
+    "href": "index.html#how-the-course-works",
+    "title": "Biological Physics",
+    "section": "How the course works",
+    "text": "How the course works\n\nLectures on Tuesdays and Thursdays 10–12 follow the three blocks above.\nA weekly exercise (about 2 h) is due on Wednesday and reviewed on Thursday. Ten of thirteen must be passed.\nThree projects. P1 is the same for everyone. P2 and P3 are chosen from the electives. Each project ends with a report and an oral defense, where you present your result and are questioned on your understanding of it.\nLLMs are expected tools in this course, for analysis and for writing. See Working with LLMs. What is assessed is what you understand, and that is checked orally.\nFinal oral exam in June sets the grade.\n\nThe textbook is Philip Nelson, Biological Physics: Energy, Information, Life, chapters 1–7 and 11.1–11.2. The week-by-week plan is in the schedule.\n\n  \n    See a neuron fire\n    A demo project from earlier years: two-photon calcium imaging of neurons in the brain of a living mouse,\n       and a simulation of the action potential that explains what you see.\n    Open the demo"
+  },
+  {
+    "objectID": "C_morphogenesis/index.html",
+    "href": "C_morphogenesis/index.html",
+    "title": "C: Morphogenesis, mechanobiology and imaging",
+    "section": "",
+    "text": "How do identical cells organise themselves into a tissue with a shape? How do cells feel and respond to forces? We look at active materials that shape themselves, the cytoskeleton and adhesion, the physics of adherent cells, differential adhesion and the Cellular Potts model, Turing patterns versus positional information, and the new microscopy that lets us see living tissue without labels.\nThis block is being moved to the new format."
+  },
+  {
+    "objectID": "A_walkers/lab_brownian.html",
+    "href": "A_walkers/lab_brownian.html",
+    "title": "Lab: Brownian motion",
+    "section": "",
+    "text": "The purpose of this lab is to learn some basic statistical physics, microscopy, imaging and image analysis. The data you take here are the data for Project 1. The theory is in the notes on active and passive motion, sections on random walks, diffusion, viscous drag and the Langevin equation.",
+    "crumbs": [
+      "Lab and project",
+      "Lab: Brownian motion"
+    ]
+  },
+  {
+    "objectID": "A_walkers/lab_brownian.html#background",
+    "href": "A_walkers/lab_brownian.html#background",
+    "title": "Lab: Brownian motion",
+    "section": "Background",
+    "text": "Background\n\nNobel Prize in 2009\nElectronic cameras surround us everywhere and have been used scientifically since they were invented. In 2009, Willard S. Boyle and George E. Smith at Bell Laboratories were awarded the Nobel Prize in Physics “for the invention of an imaging semiconductor circuit, the CCD sensor”.\n\n\nThe optical microscope\nThe microscope is a stable stand that allows small, controlled movements of what you are looking at relative to the light source and the objective. The illumination is at least as important for what you see as the type of objective you use. If the illumination is correct, the resolution of the microscope is set by the numerical aperture (NA) of the objective. The resolution is the radius of the diffraction pattern from point sources, and is at best \\(r=\\lambda/(2\\,\\mathrm{NA})\\), where \\(\\lambda\\) is the wavelength of the light. We have two objectives with NA = 0.4 and NA = 0.65, so the resolutions for green light are \\(D_{20X}=0.7\\) µm and \\(D_{40X}=0.4\\) µm.\n\n\nImaging with electronic cameras\nThe objective sends out an almost parallel beam of rays. This beam must pass through an eyepiece to form an image on the retina, or through an imaging lens to form an image on the sensor of a camera. In an electronic camera, electrons are released where light falls on a semiconductor chip. The chip is divided into many pixels, each of which works as a light sensor.\n\nThe spatial resolution of a camera is set by how many pixels the chip is divided into.\nJust as important is the intensity resolution: how many intensity levels each pixel can distinguish. It depends on the pixel size (larger pixels collect more electrons), the sensor temperature (fewer thermal noise electrons when cold) and the readout noise (usually larger for faster readout). Most simple cameras and image formats use \\(2^8=256\\) levels (8 bit). Good SLR cameras have a raw format with 12 bit (\\(2^{12}=4096\\) levels). Good scientific cameras are cooled to between −80 and −180 °C and have expensive readout electronics giving \\(2^{16}=65536\\) levels. Then each pixel is an accurate, sensitive light meter.\nSquare pixels are an advantage: the conversion from pixels to object size is then the same horizontally and vertically.\nIf you do not need colour information, a greyscale camera is better, because colour filtering costs both spatial and intensity resolution.\nThe last choice is the chip technology, CCD or CMOS.\n\n\n\nImage analysis\n\n\n\n\n\n\nFigure 1: Analysis of an imaged square grid. Top left: monochrome image of a square grid with 50 µm between the lines and 5 µm wide lines. Top right: the same image as a matrix \\(I\\), shown as a colour map. Note that the element \\(I[0,0]\\) is in the upper left corner. Bottom: vertical cross-section I[:, 500] on the left and horizontal cross-section I[500, :] on the right.\n\n\n\nWe only use monochrome cameras here. A monochrome image is a 2D matrix with elements \\(I_{ij}\\), \\(i=1\\ldots N_y\\), \\(j=1\\ldots N_x\\). For an 8-bit image, \\(I_{ij}\\) is between 0 (black) and 255 (white). The pixel coordinates correspond to object coordinates \\(x_j=j s_x\\) and \\(y_i=i s_y\\), where \\(s_x\\) and \\(s_y\\) are the pixel sizes in the object (µm per pixel). One of the first things to do with a new imaging system is to find \\(s_x\\) and \\(s_y\\) by imaging an object of known size and counting how many pixels it covers.\nFigure 1 shows a greyscale image with 1024 × 1280 pixels and intensities between 50 and 240. The positions of the horizontal lines are the 4 minima in the lower left plot, and the positions of the vertical lines are the 5 minima in the lower right plot. Since the lines are 50 µm apart, these minima give \\(s_x\\) and \\(s_y\\).\nIn Python:\nimport numpy as np\nimport matplotlib.pyplot as plt\nfrom PIL import Image\n\nI = np.array(Image.open('grid20x.png').convert('L'))  # greyscale matrix\nplt.imshow(I, cmap='gray'); plt.colorbar()\nplt.figure(); plt.plot(I[:, 500]); plt.plot(I[500, :])",
+    "crumbs": [
+      "Lab and project",
+      "Lab: Brownian motion"
+    ]
+  },
+  {
+    "objectID": "A_walkers/lab_brownian.html#before-the-lab",
+    "href": "A_walkers/lab_brownian.html#before-the-lab",
+    "title": "Lab: Brownian motion",
+    "section": "Before the lab",
+    "text": "Before the lab\n\nInstall Python with numpy, scipy, matplotlib, pandas, trackpy and pims (see Working with LLMs for how to get help with this).\nRun randomwalk_exercise.py a few times. Change timesteps, numpart and stepsize and see how the result changes.\nRun synthetic_brownian.py. It makes a movie of simulated beads with a known \\(D\\), tracks it with trackpy, and prints the true and the fitted \\(D\\). This is the reference you will test your own pipeline against.",
+    "crumbs": [
+      "Lab and project",
+      "Lab: Brownian motion"
+    ]
+  },
+  {
+    "objectID": "A_walkers/lab_brownian.html#in-the-lab",
+    "href": "A_walkers/lab_brownian.html#in-the-lab",
+    "title": "Lab: Brownian motion",
+    "section": "In the lab",
+    "text": "In the lab\n\nImaging quality and calibration\nGet help to place the test slide in the microscope, turn on the light, open the camera program, and set the camera to take pictures continuously and show them on the screen. Never touch the surface of the test slide!\n\nUse the 20X objective, find a field with a square grid, and focus while looking in the eyepiece.\nOpen a window that shows the histogram and a window where you can set the exposure time. The histogram shows how many pixels have each intensity. You should see two peaks, one for the white stripes and one for the black stripes.\nSet a light intensity that is comfortable for the eyes. Then adjust the focus and the exposure time to get the largest possible distance between the two peaks in the histogram. You now have maximum contrast.\nSave a still image of the grid and determine \\(s_x\\) and \\(s_y\\) as in Figure 1.\nRepeat for the 40X objective.\nIs the resolution limited by diffraction or by the camera pixels? Calculate \\(D_{20X}/s_x\\) and \\(D_{40X}/s_x\\) and explain what these ratios tell you.\nOptional: Modulation transfer function (MTF). With the 20X objective, focus on the field with 60 LP/mm (line pairs per millimetre) and optimise contrast. Save an image, plot an intensity profile normal to the stripes, and note \\(I_{\\min}\\) and \\(I_{\\max}\\). Repeat with 380, 500 and 600 LP/mm, and then with the 40X objective. Plot \\(\\mathrm{MTF}(f)=(I_{\\max}(f)-I_{\\min}(f))/(I_{\\max}(60)-I_{\\min}(60))\\) for both objectives.\n\n\n\nBrownian motion\nGet help from a supervisor to prepare a microscope slide with a small volume of liquid containing small particles. Use the 20X objective and normal illumination to find an area with particles. Switch to dark-field illumination if it is difficult to find the particles.\n\nTake one picture of the particles with normal illumination and one with dark-field illumination, with the best contrast you can get. Describe the difference between the two images and how each is produced.\nDetermine the mean particle size in pixels and in micrometres. Compare with the nominal bead size and with the resolution of the objective.\nRecord a 30 s movie at 15 frames per second with the best contrast and focus. Play it a few times (e.g. in ImageJ/Fiji) to see roughly how far the most mobile particles move during the movie.\nBefore you leave: run trackpy.locate on one frame and trackpy.annotate to check that the particles are found (see trackpy_anal.ipynb). It is much easier to fix exposure and focus now than to rescue bad data later.\nRecord a 5 min movie at 15 frames per second with the best possible contrast and focus.\nWrite down: objective, pixel size, frame rate, exposure time, bead size (nominal), temperature in the room, and anything that may cause drift (evaporation, a tilted stage, a warm lamp).\n\n\n\nAfter the lab\nThe analysis is Project 1. A short image sequence from an earlier lab, cropped to 1024 × 1024 pixels, is in src/stack2_crop/ if you want to start testing before you have your own data.",
+    "crumbs": [
+      "Lab and project",
+      "Lab: Brownian motion"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E5_active_vicsek.html",
+    "href": "A_walkers/exercises/E5_active_vicsek.html",
+    "title": "E5: Active Brownian particles and the Vicsek model",
+    "section": "",
+    "text": "About 2–3 hours. Theory: Active matter notes. Code: src/vicsek/ (by Harish).",
+    "crumbs": [
+      "Weekly exercises",
+      "E5: Active Brownian particles and the Vicsek model"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E5_active_vicsek.html#one-active-brownian-particle",
+    "href": "A_walkers/exercises/E5_active_vicsek.html#one-active-brownian-particle",
+    "title": "E5: Active Brownian particles and the Vicsek model",
+    "section": "1. One active Brownian particle",
+    "text": "1. One active Brownian particle\nSimulate 400 independent active Brownian particles with the finite-difference equations in the notes, using \\(v = 1\\), \\(D_T = 0.1\\), \\(D_R = 0.5\\), \\(\\Delta t = 0.01\\) (arbitrary units) and \\(2\\times10^4\\) time steps. Plot the MSD against time on log–log axes.\n\nIdentify the diffusive, ballistic and enhanced-diffusive regimes. At what times do the crossovers happen? Compare with \\(D_T/v^2\\) and \\(\\tau_R = 1/D_R\\).\nCompare the long-time slope with \\(D_{\\rm eff} = D_T + v^2\\tau_R/2\\).",
+    "crumbs": [
+      "Weekly exercises",
+      "E5: Active Brownian particles and the Vicsek model"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E5_active_vicsek.html#the-flocking-transition",
+    "href": "A_walkers/exercises/E5_active_vicsek.html#the-flocking-transition",
+    "title": "E5: Active Brownian particles and the Vicsek model",
+    "section": "2. The flocking transition",
+    "text": "2. The flocking transition\nUse vicsek_model.generate_vicsek_data (see vicsek_model_exercise.py) with \\(N = 400\\), \\(L = 14\\) (density \\(\\approx 2\\)), \\(r = 1\\), \\(v = 0.1\\) and 500 iterations.\n\nFor noise amplitudes \\(\\eta = 0.1, 0.2, \\ldots, 1.0\\), compute the order parameter \\(\\psi = \\frac{1}{N}\\left|\\sum_i \\mathbf v_i / v\\right|\\), averaged over the last 200 iterations. Plot \\(\\psi\\) against \\(\\eta\\).\nWhere is the transition? Run once more at the \\(\\eta\\) closest to the transition. How much does \\(\\psi\\) fluctuate in time there, compared with far from it?\nWhy is \\(\\psi \\approx 1/\\sqrt{N}\\), not 0, in the disordered phase?",
+    "crumbs": [
+      "Weekly exercises",
+      "E5: Active Brownian particles and the Vicsek model"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E3_diffusion.html",
+    "href": "A_walkers/exercises/E3_diffusion.html",
+    "title": "E3: Diffusion and tracking",
+    "section": "",
+    "text": "About 2 hours. This exercise feeds directly into milestone M2 of P1.",
+    "crumbs": [
+      "Weekly exercises",
+      "E3: Diffusion and tracking"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E3_diffusion.html#nelson",
+    "href": "A_walkers/exercises/E3_diffusion.html#nelson",
+    "title": "E3: Diffusion and tracking",
+    "section": "1. Nelson",
+    "text": "1. Nelson\nNelson: Your Turn 4B, 4C, 4D and 4E.",
+    "crumbs": [
+      "Weekly exercises",
+      "E3: Diffusion and tracking"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E3_diffusion.html#diffusion-times-in-the-cell",
+    "href": "A_walkers/exercises/E3_diffusion.html#diffusion-times-in-the-cell",
+    "title": "E3: Diffusion and tracking",
+    "section": "2. Diffusion times in the cell",
+    "text": "2. Diffusion times in the cell\nEstimate the time \\(t\\sim L^2/(2D)\\) it takes to diffuse a distance \\(L\\) for:\n\na protein (\\(D\\approx 10\\) µm²/s) across a bacterium (1 µm) and across a eukaryotic cell (20 µm);\na neurotransmitter (\\(D\\approx 300\\) µm²/s) across a synaptic cleft (20 nm);\nthe same protein along a 1 m long nerve axon.\n\nWhat do the numbers tell you about where cells can rely on diffusion and where they need active transport?",
+    "crumbs": [
+      "Weekly exercises",
+      "E3: Diffusion and tracking"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E3_diffusion.html#test-a-tracking-pipeline-on-synthetic-data",
+    "href": "A_walkers/exercises/E3_diffusion.html#test-a-tracking-pipeline-on-synthetic-data",
+    "title": "E3: Diffusion and tracking",
+    "section": "3. Test a tracking pipeline on synthetic data",
+    "text": "3. Test a tracking pipeline on synthetic data\nRun synthetic_brownian.py. It makes a movie of beads with known \\(D\\), tracks them with trackpy and prints the true and fitted \\(D\\).\n\nRun it with --D 0.5. How close is the fitted value?\nIn track_and_fit, set search_range=5 and run again. What happens to \\(D\\), and why? Estimate the per-axis step in pixels per frame and compare it with the search range.\nSet minmass=None. What happens now, and why?\nIn one sentence: why must you test your own pipeline on synthetic data before you trust it on the lab data?",
+    "crumbs": [
+      "Weekly exercises",
+      "E3: Diffusion and tracking"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html",
+    "href": "A_walkers/exercises/E1_orders_of_magnitude.html",
+    "title": "E1: Orders of magnitude",
+    "section": "",
+    "text": "About 2 hours. Submit one PDF (handwritten and scanned is fine) or a notebook on Canvas. You may use an LLM, but be ready to explain any answer at the board on Thursday.",
+    "crumbs": [
+      "Weekly exercises",
+      "E1: Orders of magnitude"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#nelson",
+    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#nelson",
+    "title": "E1: Orders of magnitude",
+    "section": "1. Nelson",
+    "text": "1. Nelson\nNelson, Biological Physics: Your Turn 1A, Problems 1.3, 2.2 and 2.5.",
+    "crumbs": [
+      "Weekly exercises",
+      "E1: Orders of magnitude"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#the-thermal-energy-scale",
+    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#the-thermal-energy-scale",
+    "title": "E1: Orders of magnitude",
+    "section": "2. The thermal energy scale",
+    "text": "2. The thermal energy scale\nCalculate \\(k_BT\\) at body temperature (37 °C) in J, eV, kJ/mol and pN·nm. Compare it with the energy of one ATP hydrolysis (about 20 \\(k_BT\\) in the cell) and with a covalent C–C bond (about 350 kJ/mol). What does the comparison tell you about which structures in the cell are stable against thermal motion?",
+    "crumbs": [
+      "Weekly exercises",
+      "E1: Orders of magnitude"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#python-warm-up-fit-a-line-with-an-uncertainty",
+    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#python-warm-up-fit-a-line-with-an-uncertainty",
+    "title": "E1: Orders of magnitude",
+    "section": "3. Python warm-up: fit a line with an uncertainty",
+    "text": "3. Python warm-up: fit a line with an uncertainty\nGenerate synthetic data \\(y = a t + b + \\text{noise}\\) with \\(a = 2\\), \\(b = 0.5\\), 30 points for \\(t\\in[0,10]\\) and Gaussian noise with standard deviation 1. Fit a straight line and report \\(a \\pm \\delta a\\). Repeat 1000 times with new noise and compare the spread of the fitted \\(a\\) with the \\(\\delta a\\) from a single fit. Plot one data set with the fit.\nHint: np.polyfit(t, y, 1, cov=True) returns the covariance matrix of the parameters.",
+    "crumbs": [
+      "Weekly exercises",
+      "E1: Orders of magnitude"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html",
+    "href": "A_walkers/activematter.html",
+    "title": "Active matter: lecture notes",
+    "section": "",
+    "text": "Active matter systems consume energy from their environment and use it as fuel to propel themselves and drive themselves far from equilibrium. Examples: living organisms and artificial machines (micro-robots, artificial molecular machines, etc.).\nBecause of their intrinsic activity, these systems can spontaneously show complex patterns of motion, such as swarming or flocking. This is associated with an emergent global order from the self-organization of the constituents of active matter.\nEmergent (self-organized) behaviour occurs at many different scales. Some of these patterns turn out to be robust and universal: they are independent of the type of animal that makes up the swarm.\n\n\n\nSchool of fish\n\nE. coli swarming\n\nCell migration\n\nWe can model the universal swarming behaviour of self-propelled (active) particles with several minimal statistical models.\nIn this lecture we introduce a few minimal models of active particles. If we get to it, we will also discuss different kinds of order (polar versus nematic) that emerge from collective interactions of active particles.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#what-is-active-matter",
+    "href": "A_walkers/activematter.html#what-is-active-matter",
+    "title": "Active matter: lecture notes",
+    "section": "",
+    "text": "Active matter systems consume energy from their environment and use it as fuel to propel themselves and drive themselves far from equilibrium. Examples: living organisms and artificial machines (micro-robots, artificial molecular machines, etc.).\nBecause of their intrinsic activity, these systems can spontaneously show complex patterns of motion, such as swarming or flocking. This is associated with an emergent global order from the self-organization of the constituents of active matter.\nEmergent (self-organized) behaviour occurs at many different scales. Some of these patterns turn out to be robust and universal: they are independent of the type of animal that makes up the swarm.\n\n\n\nSchool of fish\n\nE. coli swarming\n\nCell migration\n\nWe can model the universal swarming behaviour of self-propelled (active) particles with several minimal statistical models.\nIn this lecture we introduce a few minimal models of active particles. If we get to it, we will also discuss different kinds of order (polar versus nematic) that emerge from collective interactions of active particles.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#single-active-particles-self-propelled-brownians",
+    "href": "A_walkers/activematter.html#single-active-particles-self-propelled-brownians",
+    "title": "Active matter: lecture notes",
+    "section": "Single active particles: self-propelled Brownians",
+    "text": "Single active particles: self-propelled Brownians\n\nSelf-propulsion is common in living organisms. It allows a more efficient exploration of the environment when looking for nutrients or running away from toxic substances.\nA paradigmatic example is the swimming of bacteria such as E. coli. It resembles the motion of a passive Brownian particle, but it also has an active component due to self-propulsion.\nWe call them self-propelled Brownians, because they meander but also propel themselves by taking up energy from their environment and converting it into directed motion.\nSelf-propelled Brownians = random meandering + active swimming\n\n\n\n\nSelf-propulsion speed as a function of the size of a microswimmer.\n\n\n\n\n\nRandom trajectory of a run-and-tumble particle (RTP) versus an active Brownian particle (ABP).\n\n\n\nActive Brownian particles\nThis is like an overdamped (no inertia) Brownian particle with two kinds of motion:\n\nrandom meandering like a passive Brownian particle, with a noise amplitude set by the translational diffusivity \\(D_T\\);\nself-propulsion with a constant speed \\(v\\), but in a random direction \\(\\theta\\). The randomness in the orientation of the self-propulsion has a noise amplitude set by the rotational diffusivity \\(D_R\\).\n\nFor motion confined to the \\(xy\\)-plane, the active Brownian particle is modelled by 3 dynamical variables \\((x(t),y(t),\\theta(t))\\): its position and the angle of the self-propulsion velocity. The dynamical equations for these variables are\n\\[\n\\begin{aligned}\n\\dot x &= v\\cos\\theta +\\sqrt{2D_T}\\,\\xi_x, \\quad \\langle\\xi_x\\rangle = 0,\\quad \\langle\\xi_x(t)\\xi_x(t')\\rangle =\\delta(t-t')\\\\\n\\dot y &= v\\sin\\theta +\\sqrt{2D_T}\\,\\xi_y, \\quad \\langle\\xi_y\\rangle = 0,\\quad \\langle\\xi_y(t)\\xi_y(t')\\rangle =\\delta(t-t')\\\\\n\\dot \\theta &= \\sqrt{2D_R}\\,\\xi_\\theta, \\quad \\langle\\xi_\\theta\\rangle = 0,\\quad \\langle\\xi_\\theta(t)\\xi_\\theta(t')\\rangle =\\delta(t-t')\n\\end{aligned}\n\\tag{1}\\]\n\nOverdamped motion\nWe can rewrite the equations of motion in vector form. Then it becomes clearer that this is overdamped motion, with drag coefficient \\(\\gamma\\):\n\\[\n\\gamma\\dot{\\mathbf r} = F\\hat{\\mathbf e} +\\boldsymbol{\\xi}\n\\]\n\n\nFinite-difference equations\nThese equations are usually solved numerically in discrete time, with \\(\\Delta t\\) the time increment between successive times, \\(t_{n+1} = t_n+\\Delta t\\). The corresponding finite-difference equations are\n\\[\n\\begin{aligned}\nx_{n+1} &= x_n+v\\cos\\theta_n\\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{x,n}\\\\\ny_{n+1} &= y_n+v\\sin\\theta_n\\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{y,n}\\\\\n\\theta_{n+1} &= \\theta_n+\\sqrt{2D_R \\Delta t}\\,W_{\\theta,n}\n\\end{aligned}\n\\tag{2}\\]\nwhere \\(W_{x}, W_{y}, W_\\theta\\) are Gaussian random numbers with zero mean and unit standard deviation, drawn independently at each time step.\n\n\n\nRun-and-tumble\nThe run-and-tumble model was inspired by chemotaxis of bacteria, that is, how bacteria move towards or away from a food source.\n\n\n\nRun and tumble modes.\n\n\nThe particle alternates between an active state, where it moves with constant speed \\(v\\) in a given direction (“run”), and a passive state, where its position stays the same but its orientation keeps changing (“tumble”). The change in direction is taken as instantaneous and occurs with a given rate \\(\\lambda/\\Delta t\\), so that the particle moves along a straight line between successive tumbles. The “run” state is punctuated at random times by an instantaneous “tumble” (reorientation). This is modelled as a Poisson point process, characterised by the Poisson distribution\n\\[\nP_\\lambda(n) = \\frac{\\lambda^n}{n!}e^{-\\lambda},\n\\]\nwhere \\(n= 0,1,2,\\ldots\\) is the number of tumbling events observed in a time interval \\(\\Delta t\\), and \\(\\lambda\\) is the average number of tumbling events expected in \\(\\Delta t\\).\nNotice that \\(P(n=0) = e^{-\\lambda}\\) is the probability of no tumbling in a time interval \\(\\Delta t\\). We therefore introduce the probability of tumbling in a time interval \\(\\Delta t\\) as \\(P_{\\rm tumble} = 1-e^{-\\lambda}\\), and the probability of running as \\(P_{\\rm run} = P(n=0) = e^{-\\lambda}\\).\nNow we can model the motion of a single bacterium in the plane with 4 dynamical variables \\((x,y,\\theta,\\rho)\\). The additional variable \\(\\rho\\) keeps track of the state of the bacterium (1: run, 0: tumble).\nThe finite-difference evolution equations for these variables are\n\\[\n\\begin{aligned}\nx_{n+1}&= x_n+\\rho_n v\\cos\\theta_n \\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{x,n}\\\\\ny_{n+1}&= y_n+\\rho_n v\\sin\\theta_n \\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{y,n}\\\\\n\\theta_{n+1}&= \\theta_n+(1-\\rho_n)\\Delta \\theta_n\\\\\n\\rho_{n+1} &= \\begin{cases} 0 & \\text{with probability } 1-e^{-\\lambda} \\\\\n1 & \\text{with probability } e^{-\\lambda}\n\\end{cases}\n\\end{aligned}\n\\tag{3}\\]\nwhere \\(W_{x}, W_{y}\\) are Gaussian random numbers with zero mean and unit standard deviation, drawn independently at each time step, and \\(\\Delta\\theta_n\\) is the random reorientation during a tumble.\n\n\nDiffusive behaviour of self-propelled Brownians\nLet us introduce the characteristic time scale of rotational diffusion (meandering), \\(\\tau_R = 1/D_R\\). On time scales much longer than \\(\\tau_R\\), the self-propelled Brownian particle diffuses with an effective diffusivity that is larger than the thermal diffusivity:\n\\[\nD_{\\rm eff} = D_T+ \\frac{v^2\\tau_R}{2}\n\\tag{4}\\]\n\n\n\nThe mean square displacement as a function of time has three characteristic regimes: (i) passive diffusion on very short time scales, (ii) an intermediate ballistic regime, and (iii) diffusion with enhanced diffusivity on long time scales.\n\n\n\\[\n\\begin{aligned}\n\\langle(\\Delta r)^2\\rangle (t)&= \\langle(\\Delta x)^2\\rangle(t)+\\langle(\\Delta y)^2\\rangle(t)\\\\\n\\langle(\\Delta r)^2\\rangle (t)&= \\begin{cases}\n4D_T t+v^2t^2, & t\\ll \\tau_R\\\\\n(4D_T +2v^2\\tau_R)\\,t, & t\\gg \\tau_R\n\\end{cases}\n\\end{aligned}\n\\tag{5}\\]\nThe effective diffusion coefficient is\n\\[\nD_{\\rm eff}= \\lim_{t\\rightarrow\\infty}\\frac{\\langle|\\Delta r|^2\\rangle}{4t} = D_T+\\frac{v^2 \\tau_R}{2}\n\\]",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#interacting-self-propelled-brownians-the-vicsek-model-for-swarming",
+    "href": "A_walkers/activematter.html#interacting-self-propelled-brownians-the-vicsek-model-for-swarming",
+    "title": "Active matter: lecture notes",
+    "section": "Interacting self-propelled Brownians: the Vicsek model for swarming",
+    "text": "Interacting self-propelled Brownians: the Vicsek model for swarming\nVicsek et al. (1995) published a minimal model for flocking due to alignment interactions between neighbouring particles.\nFor simplicity, consider active particles moving in the plane. Each of them is described by its coordinates \\((x^{(i)}, y^{(i)})\\) and its orientation of motion \\(\\theta^{(i)}\\), where \\(i\\) is the particle label.\n\n\n\nReorientation in the Vicsek model.\n\n\n\nFinite-difference equations\nThe finite-difference evolution equations for particle \\(i\\) are\n\\[\n\\begin{aligned}\nx_{n+1}^{(i)} &= x_n^{(i)}+v\\cos\\theta^{(i)}_n\\Delta t\\\\\ny_{n+1}^{(i)} &= y_n^{(i)}+v\\sin\\theta^{(i)}_n\\Delta t\\\\\n\\theta_{n+1}^{(i)} &= \\langle\\theta_n^{(j)}\\rangle_{S_i}+\\sqrt{2D_R\\Delta t}\\, W_{\\theta^{(i)},n}\n\\end{aligned}\n\\tag{6}\\]\nwhere \\(\\langle\\theta_n^{(j)}\\rangle_{S_i}\\) is the average orientation of all the active particles in the neighbourhood \\(S_i\\) of the \\(i\\)-th particle (see the illustration above). In the original paper the noise is uniform, \\(\\eta\\,U(-\\pi,\\pi)\\); the code we use in the lab follows the paper.\n\n\nNumerical examples showing the emergence of polar order (flocking)\n\nVicsek model with interaction radius \\(R_1 = 0.1 L\\) and higher noise.\n\nVicsek model with a larger interaction radius \\(R_2 = 0.2 L\\) and higher noise.\n\nVicsek model with \\(R_1\\) and lower noise.\n\nVicsek model with \\(R_2\\) and higher noise.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#emergent-nematic-order-in-bacterial-colonies",
+    "href": "A_walkers/activematter.html#emergent-nematic-order-in-bacterial-colonies",
+    "title": "Active matter: lecture notes",
+    "section": "Emergent nematic order in bacterial colonies",
+    "text": "Emergent nematic order in bacterial colonies\nBacteria are elongated particles with rod-like shapes. When they are closely packed, they tend to align their principal axes along a preferred orientation. In doing so, they break rotational symmetry (all directions equally accessible) and form an ordered state with a preferred orientation. This is called nematic order.\n\n\n\nSnapshots of a growing bacterial colony in which bacteria self-organise and align their orientation in a preferred direction.\n\n\nNematic order is commonly found in passive systems known as liquid crystals. By analogy, active matter with nematic order is often called an active liquid crystal.\nPolar versus nematic order:\n\n\n\nPolar versus nematic order.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#polar-ordering-of-epithelial-cell-layers",
+    "href": "A_walkers/activematter.html#polar-ordering-of-epithelial-cell-layers",
+    "title": "Active matter: lecture notes",
+    "section": "Polar ordering of epithelial cell layers",
+    "text": "Polar ordering of epithelial cell layers\n\nEpithelial cells\nFrom Wikipedia: a thin, continuous, protective layer of compactly packed cells with little intercellular matrix. Epithelial tissues line the outer surfaces of organs and blood vessels throughout the body, as well as the inner surfaces of cavities in many internal organs.\n\n\n\nTypes of epithelium (Wikimedia Commons).\n\n\n\n\n\nTopological defects\n\n\n\nTypical topological defects observed in a liquid crystal sample. Each defect has a topological charge \\(s\\), defined as the number of times the vector field winds around a loop encircling the defect once in the anticlockwise sense. Hence (a) and (b) have \\(s = +1\\), (c) \\(s = -1\\), (d) \\(s = +1/2\\), (e) \\(s=-1/2\\).\n\n\n\n\nFlow and polar ordering\nInteger topological defect annihilations drive polar ordering of epithelial monolayers, Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Dommersnes, Stig Ove Bøe.\n\n\n\nFrom Lång et al.\n\n\n\na: Time evolution of polar ordering. The colour map represents the angle of the local velocity field relative to the \\(x\\)-axis. The surface of a whole circular monolayer is shown. Scale bar, 1 mm.\nb: Detection and mapping of ±1 topological defects.\nh: Time series showing annihilation of a ±1 topological defect pair. Scale bar, 100 µm.\n\n\n\nActive elastic solid model\n\\[\n\\begin{aligned}\n\\dot{\\mathbf R}_i&=V_c\\mathbf P_i+\\frac{1}{\\xi}\\mathbf F_i\\\\\n\\dot{\\mathbf P}_i&=\\gamma(\\mathbf P_i\\times\\dot{\\mathbf R}_i)\\times\\mathbf P_i\n\\end{aligned}\n\\tag{7}\\]\nHere \\(\\mathbf R_i\\) is the position of cell \\(i\\) and \\(\\mathbf P_i\\) the polarity of cell propulsion (the direction of propulsion). \\(V_c\\) is the cell propulsion speed in the absence of elastic forces, \\(\\mathbf F_i\\) the elastic force on the cell, and \\(\\xi\\) the substrate friction. The first equation expresses the balance of forces. The second gives the polar ordering effect: the direction of propulsion turns towards the direction of motion with rate constant \\(\\gamma\\).",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#suggested-further-reading",
+    "href": "A_walkers/activematter.html#suggested-further-reading",
+    "title": "Active matter: lecture notes",
+    "section": "Suggested further reading",
+    "text": "Suggested further reading\n\nInteger topological defect annihilations drive polar ordering of epithelial monolayers, Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Dommersnes, Stig Ove Bøe.\nThe statistical physics of active matter: from self-catalytic colloids to living cells (2018), Étienne Fodor and M. Cristina Marchetti.\nThe mechanics and statistics of active matter (2010), Sriram Ramaswamy.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html",
+    "href": "A_walkers/P1_brownian.html",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "",
+    "text": "In 1908 Jean Perrin used Brownian motion to measure Avogadro’s number, and with it Boltzmann’s constant. You will do the same with beads in water, a microscope and a camera. Your question is:\n\nHow well can you determine \\(k_B\\) from the Brownian motion of beads, and what limits the accuracy?\n\nThe physics is in the notes on active and passive motion: random walks, the diffusion equation, Stokes drag, the Langevin equation and the Einstein relation \\(\\xi D = k_BT\\). The data come from the Brownian motion lab.",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#the-question",
+    "href": "A_walkers/P1_brownian.html#the-question",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "",
+    "text": "In 1908 Jean Perrin used Brownian motion to measure Avogadro’s number, and with it Boltzmann’s constant. You will do the same with beads in water, a microscope and a camera. Your question is:\n\nHow well can you determine \\(k_B\\) from the Brownian motion of beads, and what limits the accuracy?\n\nThe physics is in the notes on active and passive motion: random walks, the diffusion equation, Stokes drag, the Langevin equation and the Einstein relation \\(\\xi D = k_BT\\). The data come from the Brownian motion lab.",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#what-you-deliver",
+    "href": "A_walkers/P1_brownian.html#what-you-deliver",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "What you deliver",
+    "text": "What you deliver\n\nA report (one PDF) with your result, how you got it, and why you believe it. LLM help with writing is allowed and expected. Keep it short: the figures and the argument matter, not the prose.\nAn LLM log as an appendix (one page is enough): what you used an LLM for, where it was wrong or misleading, and how you found out.\nAn oral defense on Tue 9 March: 5 min presentation of your core result, then about 10 min of questions (see below).",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#milestones",
+    "href": "A_walkers/P1_brownian.html#milestones",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "Milestones",
+    "text": "Milestones\n\n\n\n\n\n\n\n\n\nWhen\nWhat you show\n\n\n\n\nM1\nTue 9 Feb (W6, lab)\nYour own image sequence, and particles found in one frame with trackpy.locate\n\n\nM2\nThu 25 Feb (W8)\nValidated core figure: MSD against lag time with a fitted \\(D \\pm \\delta D\\), the same pipeline on a synthetic movie recovering the known \\(D\\), and a first value of \\(k_B\\)\n\n\nM3\nSun 7 Mar\nReport and LLM log submitted on Canvas\n\n\nM4\nTue 9 Mar (W10)\nOral defense",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#what-the-project-should-contain",
+    "href": "A_walkers/P1_brownian.html#what-the-project-should-contain",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "What the project should contain",
+    "text": "What the project should contain\n\n1. Measurement\n\nTrack the beads in your 5 min movie: locate, link, filter out short tracks and stuck particles, and subtract drift.\nPlot the ensemble MSD \\(\\langle \\Delta x^2 + \\Delta y^2\\rangle\\) against lag time on linear axes and fit a straight line. Explain what the slope and the intercept mean.\nFrom the slope get \\(D\\). Then use the Einstein relation with Stokes drag, \\(D = k_BT/(6\\pi\\eta r)\\), to get \\(k_B\\), with an uncertainty.\n\n\n\n2. Three checks that the result is right\nGetting trackpy to give a number is easy, with or without an LLM. Showing that the number is right is the project. Include all three checks:\n\nSynthetic ground truth. Make a synthetic movie with known \\(D\\) and the same pixel size, frame rate, particle size and contrast as your data (use synthetic_brownian.py, or write your own and explain it). Run exactly your pipeline on it. Do you get back the \\(D\\) you put in? If not, your pipeline is wrong on the real data too.\nPhysical expectation. Before you trust a fit, calculate the \\(D\\) you expect from the nominal bead size, the viscosity of water at the lab temperature and the known \\(k_B\\). Is your measured value close? If not, why?\nSensitivity. Show how \\(D\\) changes when you vary the key parameters: minmass, search_range, the minimum track length and the range of lag times in the fit. Argue why your chosen values are defensible.\n\n\n\n3. Model comparison\nCompare with a random-walk simulation (for example randomwalk_exercise.py). What step length and time step must the random walk have to match your experiment? Why does the mass of the bead not appear in the result?\n\n\n4. Physics and biology\n\nShow that the beads are at low Reynolds number and that inertia is irrelevant on the time scale of your frames.\nDiscuss one biological consequence of diffusion, for example how long it takes a protein to cross a cell, or the oxygen supply limit for a bacterium.",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#working-with-an-llm-on-this-project",
+    "href": "A_walkers/P1_brownian.html#working-with-an-llm-on-this-project",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "Working with an LLM on this project",
+    "text": "Working with an LLM on this project\nMany students have struggled to get reasonable results from trackpy. You are now expected to use an LLM to help you through that: to set up Python, to write and debug the pipeline, and to understand what the parameters do. Read Working with LLMs first. Three habits make the difference:\n\nGive it the physics. Tell the LLM the pixel size, frame rate, bead size and expected \\(D\\). Then it can help you choose diameter and search_range sensibly, instead of guessing.\nAsk it to explain, not only to write. For every function call in your pipeline you should be able to say what it does and why that parameter value. You will be asked in the defense.\nTest, don’t trust. The synthetic movie is the test. An LLM can produce code that runs without errors and still gives a \\(D\\) that is wrong by a factor of two.",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#sec-defense",
+    "href": "A_walkers/P1_brownian.html#sec-defense",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "The oral defense",
+    "text": "The oral defense\nAbout 15 min per student, in groups of 3–4 so that you hear each other’s questions. Bring your report on a laptop. Typical questions:\n\nDerive \\(\\langle x^2\\rangle = 2Dt\\) from the random walk, or from the diffusion equation.\nWhere does \\(\\xi D = k_BT\\) come from? What does the Langevin equation assume?\nWhat does search_range do? What happens to \\(D\\) if it is too small? Too large?\nYour MSD fit has an intercept. What does it mean physically?\nWhich check convinced you most that your result is right? What did the LLM get wrong?\nIf you repeated the experiment with beads twice as large in glycerol–water, what would change?\n\nThe defense is passed when you can explain your own result and the physics behind it. “The LLM wrote that part” is not an answer to “what does this line do?”. If the defense is not passed, you get one new attempt.",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/diffusion_friction.html",
+    "href": "A_walkers/diffusion_friction.html",
+    "title": "Physics of active and passive motion in biology",
+    "section": "",
+    "text": "Make sure to read chapters 3 and 4 in Nelson! The lab and the project that go with these notes are Lab: Brownian motion and P1: Measuring Boltzmann’s constant with a microscope.",
+    "crumbs": [
+      "Notes",
+      "Physics of active and passive motion in biology"
+    ]
+  },
+  {
+    "objectID": "A_walkers/diffusion_friction.html#sec-randomwalk",
+    "href": "A_walkers/diffusion_friction.html#sec-randomwalk",
+    "title": "Physics of active and passive motion in biology",
+    "section": "Random walks",
+    "text": "Random walks\nA random walk is a model of a fundamental physical process in which a random walker (a particle, an atom, a measurement, an individual) moves in random steps. A typical example is the Brownian motion of small particles due to the thermal motion of atoms. Another example is the spreading of an atom throughout a fluid.\nA random walker in 1D moves \\(N\\) steps back and forth and has random probability of moving left or right. None of the steps are correlated, the step length is \\(d\\) and the \\(i\\)-th step is thus \\(u_i=\\pm d\\). The position after \\(n\\) steps is thus\n\\[\nx_n=x_0+\\sum_{i=1}^n u_i\n\\tag{1}\\]\nThe ensemble average of the displacement over a large number of walkers is\n\\[\n\\langle x_n-x_0\\rangle=\\Big\\langle \\sum_{i=1}^n u_i\\Big\\rangle=\\sum_{i=1}^n\\langle u_i\\rangle=0.\n\\tag{2}\\]\nThe mean square displacement (MSD) is\n\\[\n\\langle (x_n-x_0)^2\\rangle=\\Big\\langle \\Big(\\sum_{i=1}^n u_i\\Big)^2\\Big\\rangle\n=\\Big\\langle \\sum_{i=1}^n u_i\\sum_{j=1}^n u_j\\Big\\rangle\n= \\sum_{i=1}^n\\langle u_i^2 \\rangle+ \\sum_{i=1}^n\\sum_{j\\neq i}\\langle u_iu_j\\rangle=nd^2.\n\\tag{3}\\]\nThe last sum equals zero because the steps are uncorrelated. This equation says that the mean square displacement increases linearly with the number of steps \\(n\\) and that the slope of this linear relation is \\(d^2\\).\nTwo Python scripts go with this section:\n\nrandomwalk_1d.py is a 1D random walk simulation. It shows the position distribution and the cumulative position distribution at the final time step, and the mean square displacement of the walkers.\nrandomwalk_exercise.py is a very simple random walk in the \\(xy\\)-plane. Walkers are placed randomly in part of the plane and then moved in a random direction, with a normally distributed step length, over a given number of time steps. The step length is chosen so that the simulation resembles what you see in the microscope in the lab. The MSD shown at the end is calculated from about 4 times as many particles as those shown in the box. The positions of the particles in the box are also stored, and this list has the same structure as the list of particle positions you will get from the lab experiment.",
+    "crumbs": [
+      "Notes",
+      "Physics of active and passive motion in biology"
+    ]
+  },
+  {
+    "objectID": "A_walkers/diffusion_friction.html#diffusion",
+    "href": "A_walkers/diffusion_friction.html#diffusion",
+    "title": "Physics of active and passive motion in biology",
+    "section": "Diffusion",
+    "text": "Diffusion\nDiffusion is the mixing of a substance that is unevenly distributed in a medium (gas, liquid or solid). The diffusion equation (here in one dimension) states that the flux \\(J\\) of the substance is proportional to the gradient of the local density, or concentration \\(\\rho=n/V\\), of the substance:\n\\[\nJ=-D\\frac{\\partial \\rho}{\\partial x},\n\\tag{4}\\]\nwhere the diffusion coefficient \\(D\\) is the proportionality constant. The conservation of matter (matter cannot appear or disappear) is expressed by the continuity equation:\n\\[\n\\frac{\\partial \\rho}{\\partial t}+\\frac{\\partial J}{\\partial x}=0\n\\tag{5}\\]\nCombine the two to get the partial differential equation for diffusion:\n\\[\n\\frac{\\partial \\rho}{\\partial t}=D\\frac{\\partial^2 \\rho}{\\partial x^2}\n\\tag{6}\\]\nStart with all particles at \\(x=0\\) at time \\(t=0\\): \\(\\rho(t=0,x)=\\delta(x)\\), where \\(\\delta\\) is the Dirac delta function. Then the diffusion equation has the solution (you may easily verify this)\n\\[\n\\rho(t,x)= \\frac{1}{\\sqrt{4\\pi Dt}}\\exp\\left(-\\frac{x^2}{4Dt}\\right)\n\\tag{7}\\]\nThis is a Gaussian distribution with mean \\(x=0\\) and standard deviation \\(\\sqrt{2Dt}\\). Thus the width of the distribution is proportional to the square root of the diffusion coefficient. When data are sparse and noisy, one always gets a more precise estimate of the width by integrating over all the data. The second moment of the distribution is\n\\[\n\\langle x^2\\rangle=\\int_{-\\infty}^{\\infty}x^2\\rho(t,x)\\,dx= 2Dt,\n\\tag{8}\\]\nwhere I have used that\n\\[\n\\int_{-\\infty}^{\\infty}x^2e^{-x^2/a}\\,dx= \\frac{\\sqrt{\\pi}}{2}a^{3/2}.\n\\]\n\n\n\n\n\n\nImportant\n\n\n\nThis result, that the mean square displacement \\(\\langle x^2\\rangle=2Dt\\), shows how the random walk and Brownian motion are linked to diffusion. In \\(d\\) dimensions, \\(\\langle r^2\\rangle=2dDt\\); in the microscope we measure in 2D, so \\(\\langle x^2+y^2\\rangle=4Dt\\).",
+    "crumbs": [
+      "Notes",
+      "Physics of active and passive motion in biology"
+    ]
+  },
+  {
+    "objectID": "A_walkers/diffusion_friction.html#viscous-drag",
+    "href": "A_walkers/diffusion_friction.html#viscous-drag",
+    "title": "Physics of active and passive motion in biology",
+    "section": "Viscous drag",
+    "text": "Viscous drag\n\nViscosity\nWhat is viscosity?\n\n\n\n\n\n\nFigure 2: Viscosity.\n\n\n\n\n\nViscous drag on a particle\nDrag is the force \\(F_d\\) from the fluid on a body moving with velocity \\(v\\). You can also think of \\(F_d\\) as the force you need to pull on the particle to keep it at a constant velocity \\(v\\). When biking on a flat road, the force you put into your pedals to keep a constant speed is almost equal to the drag force of the air on your body.\n\n\n\n\n\n\nFigure 3: Drag.\n\n\n\nWhat physical quantities are important?\n\nThe drag force: \\(F_d\\), \\([F_d]=M L T^{-2}\\)\nThe velocity with respect to the fluid far away: \\(v\\), \\([v]=L T^{-1}\\)\nThe size of the body: \\(r\\), \\([r]=L\\)\nThe fluid density: \\(\\rho\\), \\([\\rho]=M L^{-3}\\)\nThe fluid viscosity: \\(\\eta\\), \\([\\eta]=M L^{-1}T^{-1}\\)\n\n\n\nDimensional analysis of drag on a particle\nAll physical quantities have dimensions. In addition we have measurement units, like the SI units, for all these quantities.\n\n\n\n\n\n\nFigure 4: Physical quantities, dimensions and SI units.\n\n\n\n\n\n\n\n\n\nNoteBuckingham’s Π theorem\n\n\n\nThe number of independent dimensionless parameters necessary to describe a system is the number of physical quantities minus the number of independent dimensions.\n\n\nIn our case this gives \\(5-3=2\\) dimensionless quantities that govern the behaviour of the system.\nLet us use the other quantities to make a dimensionless parameter with \\(F_d\\), starting with \\(\\rho\\): \\([F_d/\\rho]=T^{-2}L^4\\). Then remove the dimension \\(T\\): \\([F_d/\\rho v^2]=L^2\\), and then \\(L\\):\n\\[\nC_{R}=\\frac{F_d}{\\rho v^2r^2}.\n\\tag{9}\\]\n\\(C_{R}\\) is a dimensionless number that we will call the R drag coefficient.\nBut we may also use \\(\\eta\\) to remove the mass dimension from \\(F_d\\): \\([F_d/\\eta]=L^2T^{-1}\\). Then we use \\(v\\) to remove the time, \\([F_d/\\eta v]=L\\), and then the length:\n\\[\nC_{S}=\\frac{F_d}{\\eta v r}.\n\\tag{10}\\]\n\\(C_{S}\\) is a dimensionless number that we will call the S drag coefficient. The two drag coefficients are pure numbers that depend on the shape of the body. According to Buckingham’s Π theorem we have now found the two dimensionless numbers that are needed to describe the system.\n\n\nStokes and Reynolds drag\nBut these two dimensionless numbers correspond to two very different drag forces. How can they both describe the same physical phenomenon? They describe two different ways the fluid can react to the moving body: either flowing smoothly as a laminar flow around the body, or whirling turbulently in the wake of the body. Let us look at the ratio between the two drag forces:\n\\[\n\\frac{F_{dR}}{F_{dS}}=\\frac{C_R\\rho v^2r^2}{C_S\\eta v r}=\\frac{C_R\\rho vr}{C_S\\eta}\\approx \\frac{\\rho vr}{\\eta}=Re\n\\tag{11}\\]\nThe ratio \\(F_{dR}/F_{dS}\\) is the ratio between the inertial and viscous drag forces. It is called the Reynolds number \\(Re\\). When \\(Re\\gg 1\\) the inertial (Rayleigh) drag force \\(F_{dR}\\) dominates. This is the case when the fluid accelerates a lot and becomes turbulent. When \\(Re\\ll 1\\) the viscous (Stokes) drag force \\(F_{dS}\\) dominates. This is true when the flow is laminar. Stokes drag for a sphere is \\(F_{dS}=C_S\\eta vr=6\\pi\\eta vr\\).\nWhat is the Reynolds number of the Brownian particles in our experiment? \\(Re=\\rho vr/\\eta\\approx 10^3\\cdot 10^{-6}\\cdot 10^{-6}/10^{-3}=10^{-6}\\). They are clearly in the Stokes, low Reynolds number regime.\nSometimes we also use the viscous friction coefficient \\(\\xi\\), defined as the ratio between the drag force and the velocity:\n\\[\n\\xi=\\frac{F_d}{v}\n\\tag{12}\\]\nThe viscous friction coefficient in the Stokes regime (\\(Re\\ll 1\\)) for a sphere is \\(\\xi=6\\pi\\eta r\\).",
+    "crumbs": [
+      "Notes",
+      "Physics of active and passive motion in biology"
+    ]
+  },
+  {
+    "objectID": "A_walkers/diffusion_friction.html#theory-of-brownian-motion",
+    "href": "A_walkers/diffusion_friction.html#theory-of-brownian-motion",
+    "title": "Physics of active and passive motion in biology",
+    "section": "Theory of Brownian motion",
+    "text": "Theory of Brownian motion\n\nThe childhood of statistical physics\nIn the early 1900s it became increasingly clear to physicists that the “molecular-kinetic theory”, which described a statistical microscopic basis for thermodynamics, had to prevail. One of the final nails in the coffin for those who opposed it was one of Einstein’s 1905 articles, Investigations on the theory of the Brownian movement. Einstein had been made aware of microscopic observations by the biologist Brown, where small pollen particles in a liquid moved around randomly. Einstein used this as a basis and created a quantitative model where measurable quantities could be compared. It did not take many years before experimentalists were able to measure the different quantities independently. They thus confirmed Einstein’s model, and with it the microscopic theory of heat that we take for granted today.\n\n\nThe Langevin equation: fluctuating forces and fluid friction\nIn 1908 Langevin published a simpler and more elegant derivation of the model of Brownian motion, Sur la théorie du mouvement brownien. Molecular motion and the equipartition principle are fundamental to the microscopic theory of heat:\n\n\n\n\n\n\nNoteThe equipartition principle\n\n\n\nThe mean kinetic energy of every quadratic degree of freedom of motion is \\(kT/2\\).\n\n\nHere \\(k\\) is the Boltzmann constant and \\(T\\) the temperature. For the translational velocity \\(v_x=dx/dt\\) of a molecule in the \\(x\\)-direction the kinetic energy is\n\\[\n\\frac{1}{2}m\\langle v_x^2\\rangle=\\frac{1}{2}kT,\n\\tag{13}\\]\nwhere \\(\\langle\\ldots\\rangle\\) means the “ensemble average”, the average over many molecules.\n\nViscous damping\nFor particles that are much larger than the average distance between the liquid molecules, the liquid can be treated as a continuum and the hydrodynamic damping of the particle motion can be studied. The fluid resistance for a sphere in a viscous liquid at low Reynolds numbers is, as shown above,\n\\[\nF_d=6\\pi\\eta v_xr,\n\\]\nwhere \\(\\eta\\) is the shear viscosity of the fluid and \\(r\\) is the radius of the sphere.\n\n\nThe Langevin equation\nThe macroscopic particles are subject to a rapidly varying random force \\(F_r\\) due to the thermal motion of the liquid molecules, and a slowly varying damping force \\(F_d\\) due to the viscosity of the liquid. Langevin combined these forces into an equation of motion for the particles:\n\\[\nm\\frac{d^2x}{dt^2}=F_r-F_d=F_r-6\\pi\\eta r\\frac{dx}{dt}.\n\\tag{14}\\]\nAn equation of motion for a system where the force can be divided into a fast-varying and a slowly varying part is called a Langevin equation. By multiplying both sides with \\(x\\) and using the chain rule, Eq. 14 can be written as\n\\[\n\\frac{1}{2}m\\left(\\frac{d^2x^2}{dt^2}-2v_x^2\\right)=xF_r-3\\pi\\eta r\\frac{dx^2}{dt}.\n\\tag{15}\\]\n\n\nTake the ensemble average and solve the equation\nIf one takes the ensemble average of Eq. 15, the direct contribution from \\(F_r\\) disappears, \\(\\langle xF_r\\rangle=0\\), because the random force is not correlated with the position of the particle. Using Eq. 13, Eq. 15 can now be written as\n\\[\n\\frac{1}{2}m\\frac{d^2\\langle x^2\\rangle}{dt^2}-kT=-3\\pi\\eta r\\frac{d\\langle x^2\\rangle}{dt}.\n\\tag{16}\\]\nThis equation can be solved:\n\\[\n\\frac{d\\langle x^2\\rangle}{dt}=\\frac{kT}{3\\pi\\eta r}+Ce^{-6\\pi\\eta r t/m},\n\\tag{17}\\]\nwhere the last term disappears when \\(t\\gg m/6\\pi\\eta r\\sim10^{-8}\\) s. This means that if we track the positions of many particles and calculate the mean square displacement per unit time, and we know the viscosity and radius of the particles, we can determine Boltzmann’s constant \\(k\\). Such a determination of \\(k\\), and its comparison with other methods of determining \\(k\\), was the first test of Einstein’s model for Brownian motion.\n\n\nThe Einstein relation\nSince \\(2D=d\\langle x^2\\rangle/dt\\) and \\(\\xi=6\\pi\\eta r\\), Eq. 17 gives \\(d\\langle x^2\\rangle/dt=kT/(\\xi/2)\\), and we get the\n\n\n\n\n\n\nImportantEinstein relation\n\n\n\n\\[\n\\xi D=kT\n\\tag{18}\\]",
+    "crumbs": [
+      "Notes",
+      "Physics of active and passive motion in biology"
+    ]
+  },
+  {
+    "objectID": "A_walkers/diffusion_friction.html#life-at-low-reynolds-number",
+    "href": "A_walkers/diffusion_friction.html#life-at-low-reynolds-number",
+    "title": "Physics of active and passive motion in biology",
+    "section": "Life at low Reynolds number",
+    "text": "Life at low Reynolds number\nWe will read the beautiful paper Life at low Reynolds number by E. M. Purcell.",
+    "crumbs": [
+      "Notes",
+      "Physics of active and passive motion in biology"
+    ]
+  },
+  {
+    "objectID": "A_walkers/diffusion_friction.html#biological-relevance-of-diffusion",
+    "href": "A_walkers/diffusion_friction.html#biological-relevance-of-diffusion",
+    "title": "Physics of active and passive motion in biology",
+    "section": "Biological relevance of diffusion",
+    "text": "Biological relevance of diffusion\n\nPermeation through a membrane\n\n\n\n\n\n\nFigure 5: Permeation through a membrane.\n\n\n\nThe flux (flow rate per unit area) is \\(J_i=\\frac{1}{A}\\frac{\\Delta N_i}{\\Delta t}\\).\nHow does \\(c_i\\) change with time, when \\(c_0\\) is constant?\n\\[\n\\frac{\\partial c_i}{\\partial t}=-\\frac{\\partial\\Delta c}{\\partial t}=\\frac{1}{V}\\frac{\\partial N_i}{\\partial t}=\\frac{3}{r}J_i\n\\]\nbecause \\(A=4\\pi r^2\\), \\(V=\\frac{4}{3}\\pi r^3\\), \\(V/A=r/3\\). The permeability \\(P\\) is defined by \\(J=P\\Delta c\\). We can enter this into the above equation and solve:\n\\[\n\\begin{aligned}\n-\\frac{d\\Delta c}{dt}&=\\frac{3}{r}P\\Delta c\\\\\n\\int_{\\Delta c_0}^{\\Delta c}\\frac{d\\Delta c}{\\Delta c}&=-\\frac{3P}{r}\\int_0^t dt\\\\\n\\ln\\Delta c-\\ln\\Delta c_0&=-\\frac{3P}{r}t\\\\\n\\frac{\\Delta c}{\\Delta c_0}&=e^{-t/\\tau}, \\qquad \\tau=\\frac{r}{3P}.\n\\end{aligned}\n\\]\n\n\n\n\n\n\nFigure 6: Diffusion through a membrane with low partition coefficient.\n\n\n\nPermeation is diffusion through the membrane plus resistance to entry and exit. The partition coefficient \\(B\\) is\n\\[\nB=\\frac{\\text{solubility in oil}}{\\text{solubility in water}}\n\\]\nDiffusion in the membrane gives\n\\[\nJ=-D\\frac{dc}{dx}=\\frac{DB\\Delta c}{L}=P\\Delta c\n\\quad \\Rightarrow \\quad P=\\frac{DB}{L}\n\\]\nThen the time constant can be written\n\\[\n\\tau=\\frac{rL}{3DB}\n\\]\nSome numbers:\n\nPartition coefficient of water in a lipid bilayer membrane: \\(B=4.2\\cdot 10^{-5}\\) (A. Finkelstein, J. Gen. Physiol. 68, 127 (1976)).\nThickness of the cell membrane: \\(L=7.5\\)–\\(10\\) nm (BioNumbers).\nThis gives a permeability of \\(P=10^{-9}\\cdot 4\\cdot 10^{-5}/10^{-8}\\) m/s \\(\\approx 4\\) µm/s.\nAnd a time constant for permeation of water into a cell with radius 10 µm of \\(\\tau=r/(3P)\\approx 1\\) s. That’s pretty fast!\nThe partition coefficient of monovalent ions is \\(B\\approx 10^{-60}\\). That’s why cells need ion channels.\n\n\n\nOxygen diffusion limit on microbial metabolism\nSee Nelson 4.6.2, p. 138.\n\nOxygen is consumed by the microbe.\nOxygen is transported from outside:\n\nlakes, ocean: turbulent flow\nECM, ponds: diffusion\n\nAssume instant uptake at the microbial surface.\n\n\n\n\n\n\n\nFigure 7: In steady state the same current flows through spheres of all radii.\n\n\n\n\\[\n\\begin{aligned}\nJ(r)=\\frac{I}{4\\pi r^2}&=-D\\frac{dc}{dr}\\\\\n-\\frac{I\\, dr}{4\\pi r^2}&=D\\, dc\\\\\n\\frac{I}{4\\pi }\\left.\\frac{1}{r}\\right|_{r_0}^\\infty&=D \\left. c\\right|_{0}^{c_\\infty}\\\\\n\\frac{I}{4\\pi}\\frac{1}{r_0}&=Dc_\\infty\\\\\nI&=4\\pi Dc_\\infty r_0\n\\end{aligned}\n\\]\nThis is the maximum rate at which O\\(_2\\) can be consumed by any bacterium whatsoever.\n\n\n\n\n\n\nFigure 8: Concentration distribution around a consuming bacterium.\n\n\n\nSo the maximum O\\(_2\\) diffusion rate scales linearly with the radius \\(r\\) of the microbe. How does the consumption rate scale with the size of the organism? A first guess would be \\(I\\propto r^3\\). But there is an empirical relationship called Kleiber’s law, shown to be valid all the way down to microbe size: \\(I\\propto M^{0.75}\\), where \\(M\\) is the mass of the organism. Since \\(M\\propto r^3\\), the scaling is \\(I\\propto r^{9/4}=r^{2.25}\\) (T. E. Riedel, W. M. Berelson, K. H. Nealson, S. E. Finkel, Appl. Environ. Microbiol. 79, 4921 (2013)).\n\n\n\n\n\n\nFigure 9: Scaling of consumption and transport rate with bacterium size.\n\n\n\nPlotting the scaling of consumption and transport rate against microbe size, one finds that there must be an upper limit to the size \\(r_{\\rm max}\\) of a microbe that does not swim or live in a turbulent world.\n\n\nSize of eukaryotes and prokaryotes\nHere is another nice and simple paper to analyse.",
+    "crumbs": [
+      "Notes",
+      "Physics of active and passive motion in biology"
+    ]
+  },
+  {
+    "objectID": "A_walkers/diffusion_friction.html#active-matter",
+    "href": "A_walkers/diffusion_friction.html#active-matter",
+    "title": "Physics of active and passive motion in biology",
+    "section": "Active matter",
+    "text": "Active matter\nContinue with the notes on active matter.",
+    "crumbs": [
+      "Notes",
+      "Physics of active and passive motion in biology"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E2_random_walk.html",
+    "href": "A_walkers/exercises/E2_random_walk.html",
+    "title": "E2: Random walks",
+    "section": "",
+    "text": "About 2 hours. Theory: Random walks.",
+    "crumbs": [
+      "Weekly exercises",
+      "E2: Random walks"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E2_random_walk.html#a-biased-random-walk",
+    "href": "A_walkers/exercises/E2_random_walk.html#a-biased-random-walk",
+    "title": "E2: Random walks",
+    "section": "1. A biased random walk",
+    "text": "1. A biased random walk\nA walker in 1D takes \\(n\\) steps of length \\(d\\): to the right with probability \\(p\\), to the left with probability \\(1-p\\). The steps are independent.\n\nShow that \\(\\langle x_n - x_0\\rangle = n d (2p-1)\\).\nShow that the variance is \\(\\langle (x_n - x_0)^2\\rangle - \\langle x_n - x_0\\rangle^2 = 4np(1-p)d^2\\).\nCheck that you recover \\(\\langle (x_n-x_0)^2\\rangle = nd^2\\) for \\(p = 1/2\\). What kind of motion does a bias correspond to physically?",
+    "crumbs": [
+      "Weekly exercises",
+      "E2: Random walks"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E2_random_walk.html#from-steps-to-a-diffusion-coefficient",
+    "href": "A_walkers/exercises/E2_random_walk.html#from-steps-to-a-diffusion-coefficient",
+    "title": "E2: Random walks",
+    "section": "2. From steps to a diffusion coefficient",
+    "text": "2. From steps to a diffusion coefficient\nA random walker takes a step of length \\(d\\) in a random direction every \\(\\Delta t\\). Show that in 1D this corresponds to \\(D = d^2/(2\\Delta t)\\). A 0.5 µm bead in water has \\(D\\approx 0.9\\) µm²/s. What step length corresponds to \\(\\Delta t = 1/15\\) s (one video frame)? Is the bead really taking steps of this size?",
+    "crumbs": [
+      "Weekly exercises",
+      "E2: Random walks"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E2_random_walk.html#simulation",
+    "href": "A_walkers/exercises/E2_random_walk.html#simulation",
+    "title": "E2: Random walks",
+    "section": "3. Simulation",
+    "text": "3. Simulation\nRun randomwalk_exercise.py.\n\nWhat slopes do you expect for the three MSD curves (in units of stepsize²)? Why?\nChange numpart and timesteps so that the statistics are similar to your experiment (about 50 particles visible, 300–4500 frames). How large is the scatter of the fitted slope between runs?",
+    "crumbs": [
+      "Weekly exercises",
+      "E2: Random walks"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html",
+    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html",
+    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "section": "",
+    "text": "About 2 hours. Theory: Viscous drag and Theory of Brownian motion. Read Purcell’s Life at low Reynolds number before Thursday 25 Feb.",
+    "crumbs": [
+      "Weekly exercises",
+      "E4: Drag, Reynolds number and the Langevin equation"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#nelson",
+    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#nelson",
+    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "section": "1. Nelson",
+    "text": "1. Nelson\nNelson: Your Turn 5A, 5B and 5C.",
+    "crumbs": [
+      "Weekly exercises",
+      "E4: Drag, Reynolds number and the Langevin equation"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#swimming-e.-coli",
+    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#swimming-e.-coli",
+    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "section": "2. Swimming E. coli",
+    "text": "2. Swimming E. coli\nAn E. coli bacterium (treat it as a sphere of radius \\(a = 1\\) µm, density \\(\\approx 10^3\\) kg/m³) swims at \\(v = 30\\) µm/s in water.\n\nCalculate its Reynolds number. Compare with you swimming (1 m, 1 m/s).\nCalculate the Stokes drag force and the power needed to swim. Express the power in \\(k_BT\\) per second.\nThe motor stops. Estimate how far the bacterium coasts. (Hint: the velocity relaxes with time constant \\(m/\\xi\\).)",
+    "crumbs": [
+      "Weekly exercises",
+      "E4: Drag, Reynolds number and the Langevin equation"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#the-langevin-equation-for-your-beads",
+    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#the-langevin-equation-for-your-beads",
+    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "section": "3. The Langevin equation for your beads",
+    "text": "3. The Langevin equation for your beads\n\nFor a 0.51 µm polystyrene bead (density 1050 kg/m³) in water, calculate the relaxation time \\(m/(6\\pi\\eta r)\\) in the solution of the Langevin equation. Compare it with the time between frames in the lab. Why can we drop the inertial term?\nShow that the solution of the Langevin equation, with the transient dropped, gives \\(\\langle x^2\\rangle = 2Dt\\) with \\(D = k_BT/(6\\pi\\eta r)\\).\nCalculate the expected \\(D\\) for the beads at 20 °C and at 25 °C (\\(\\eta = 1.00\\) and \\(0.89\\) mPa·s). How precisely must you know the temperature to measure \\(k_B\\) to 5 %?",
+    "crumbs": [
+      "Weekly exercises",
+      "E4: Drag, Reynolds number and the Langevin equation"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html",
+    "href": "A_walkers/index.html",
+    "title": "A: Passive and active walkers",
+    "section": "",
+    "text": "How do molecules, beads and bacteria move in water? We start from random walks and diffusion, add viscous drag and the Langevin equation, find out why life at low Reynolds number is so different from ours, and end with active particles that propel themselves and flock.",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html#reading",
+    "href": "A_walkers/index.html#reading",
+    "title": "A: Passive and active walkers",
+    "section": "Reading",
+    "text": "Reading\n\nNelson, chapters 1–5\nPhysics of active and passive motion in biology (lecture notes)\nActive matter (lecture notes)\nE. M. Purcell, Life at low Reynolds number (1977)\nT. Vicsek et al., Novel type of phase transition in a system of self-driven particles (1995)\nBackground, not curriculum: Einstein 1905, Langevin 1908",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html#lab-and-project",
+    "href": "A_walkers/index.html#lab-and-project",
+    "title": "A: Passive and active walkers",
+    "section": "Lab and project",
+    "text": "Lab and project\n\nLab: Brownian motion, Tuesday 9 Feb 10–14\nP1: Measuring Boltzmann’s constant with a microscope, report due Sunday 7 Mar, defense Tuesday 9 Mar",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html#weekly-exercises",
+    "href": "A_walkers/index.html#weekly-exercises",
+    "title": "A: Passive and active walkers",
+    "section": "Weekly exercises",
+    "text": "Weekly exercises\n\n\n\n\nTopic\nDue\n\n\n\n\nE1\nOrders of magnitude; Python warm-up\nWed 10 Feb\n\n\nE2\nRandom walks\nWed 17 Feb\n\n\nE3\nDiffusion and tracking on synthetic data\nWed 24 Feb\n\n\nE4\nDrag, Reynolds number, Langevin equation\nWed 3 Mar\n\n\nE5\nActive Brownian particles, Vicsek model\nWed 10 Mar",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html#code",
+    "href": "A_walkers/index.html#code",
+    "title": "A: Passive and active walkers",
+    "section": "Code",
+    "text": "Code\n\nrandomwalk_1d.py, randomwalk_exercise.py: random-walk simulations\nsynthetic_brownian.py: synthetic Brownian movies with known \\(D\\), and a reference tracking pipeline\ntrackpy_anal.ipynb: first steps with trackpy\nvicsek/: Vicsek model simulation",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "B_entropy/index.html",
+    "href": "B_entropy/index.html",
+    "title": "B: Entropy, ions and membranes",
+    "section": "",
+    "text": "Why does a cell burst in pure water? How can entropy create forces and order? Why is there a voltage across every cell membrane, and why does it cost the cell so much energy to keep it? We build up from multiplicity and the Boltzmann distribution to free energy, entropic forces, osmosis, the Nernst potential, Donnan equilibrium and ion pumps."
+  },
+  {
+    "objectID": "B_entropy/index.html#reading",
+    "href": "B_entropy/index.html#reading",
+    "title": "B: Entropy, ions and membranes",
+    "section": "Reading",
+    "text": "Reading\n\nNelson, chapters 6–7 and 11.1–11.2\nLecture notes: Entropy and entropic forces, Processes at membranes, Membrane potentials, Thermodynamics summary (coming)\n\nThis block is being moved to the new format."
+  },
+  {
+    "objectID": "electives/index.html",
+    "href": "electives/index.html",
+    "title": "Elective projects",
+    "section": "",
+    "text": "After the common project P1, you choose one elective in each round. Every elective follows the same four milestones as P1 (running, validated core figure, report with LLM log, oral defense). Each one has its own validation step: a way of showing that your result is right."
+  },
+  {
+    "objectID": "electives/index.html#round-1-p2-weeks-1117",
+    "href": "electives/index.html#round-1-p2-weeks-1117",
+    "title": "Elective projects",
+    "section": "Round 1 (P2): weeks 11–17",
+    "text": "Round 1 (P2): weeks 11–17\nChoose by Sunday 14 March. Report due Sunday 25 April, defense Tuesday 27 April.\n2A Freezing cells: the physics of cryopreservation. Osmosis, freezing-point depression and water flow through the membrane during cooling. Find the cooling rate that avoids both ice inside the cell and damage from concentrated solution. Possibly with a wet-lab measurement of cell volume against osmolarity.\n2B Nerve signals: from Nernst to Hodgkin–Huxley. From the resting potential to the action potential and neuronal calcium dynamics, compared with two-photon calcium imaging in mouse cortex.\n2C Active cell layers: from Vicsek to epithelia. Map the flocking transition in the Vicsek model, then measure cell shape, orientation and nematic order in quantitative-phase images of epithelial monolayers, tested against null models."
+  },
+  {
+    "objectID": "electives/index.html#round-2-p3-weeks-1721",
+    "href": "electives/index.html#round-2-p3-weeks-1721",
+    "title": "Elective projects",
+    "section": "Round 2 (P3): weeks 17–21",
+    "text": "Round 2 (P3): weeks 17–21\nChoose by Thursday 22 April. Report due Sunday 23 May, defense Tuesday 25 May.\n3A Cell sorting and tissue shape with the Cellular Potts model. Reproduce sorting, engulfment and mosaic patterns from contact energies and map the phase diagram.\n3B Mechanics of epithelial monolayers (wet lab). Grow epithelial monolayers, image them live, and measure velocity fields and correlation lengths.\n3C Imaging at the physical limits. Label-free quantitative phase imaging: from phase to dry mass, calibrated on beads and applied to cells. How do shot noise and photodamage limit what we can see, and what could squeezed light gain?\nDetailed project texts will be posted before each elective fair."
+  },
+  {
+    "objectID": "llm-guide.html",
+    "href": "llm-guide.html",
+    "title": "Working with LLMs",
+    "section": "",
+    "text": "In this course you are expected to use large language models (LLMs) such as GPT UiO: for setting up Python, writing and debugging analysis code, understanding methods, and writing reports. This is how much research and technical work is done today. What the course assesses is your own understanding, and that is checked in the oral defenses and the final exam."
+  },
+  {
+    "objectID": "llm-guide.html#what-an-llm-is-good-and-bad-at-here",
+    "href": "llm-guide.html#what-an-llm-is-good-and-bad-at-here",
+    "title": "Working with LLMs",
+    "section": "What an LLM is good and bad at here",
+    "text": "What an LLM is good and bad at here\nGood at: installing packages and fixing error messages, writing first versions of analysis code, explaining what a function or a parameter does, suggesting how to plot or fit something, and turning your notes into readable text.\nBad at: knowing what your data look like, knowing whether a number is physically reasonable, and noticing when code runs but gives the wrong answer. It will often answer confidently when it is wrong."
+  },
+  {
+    "objectID": "llm-guide.html#five-habits",
+    "href": "llm-guide.html#five-habits",
+    "title": "Working with LLMs",
+    "section": "Five habits",
+    "text": "Five habits\n\nGive it the physics and the numbers. “Beads of 0.51 µm, 0.1837 µm per pixel, 15 fps, I expect D ≈ 0.9 µm²/s” gets you far better help than “how do I use trackpy?”.\nAsk it to explain, not only to write. For every step, ask why. If you cannot explain a line of your code, you do not yet own it.\nTest on data with a known answer. Synthetic data, a limiting case, a simple estimate. If the method fails there, it fails on your data too.\nEstimate before you compute. Know the order of magnitude you expect before you look at the result.\nKeep a log. Note what you asked, what went wrong and how you found out. It becomes the LLM log in your report and good material for the defense."
+  },
+  {
+    "objectID": "llm-guide.html#the-llm-log-in-your-reports",
+    "href": "llm-guide.html#the-llm-log-in-your-reports",
+    "title": "Working with LLMs",
+    "section": "The LLM log in your reports",
+    "text": "The LLM log in your reports\nOne page appended to each report:\n\nWhat you used an LLM for (code, debugging, explanations, writing).\nAt least one example where it was wrong, misleading or incomplete, and how you found out.\nWhat you checked yourself, and how.\n\nThe log is not graded on how much or how little you used an LLM. It shows that you know where the result comes from."
+  },
+  {
+    "objectID": "llm-guide.html#data-and-privacy",
+    "href": "llm-guide.html#data-and-privacy",
+    "title": "Working with LLMs",
+    "section": "Data and privacy",
+    "text": "Data and privacy\nUse GPT UiO or another tool approved by UiO for anything that includes data or text that is not yours to share. Do not paste personal information into any LLM."
+  }
+]
