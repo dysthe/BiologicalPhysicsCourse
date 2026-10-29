@@ -129,18 +129,56 @@ ul.task-list li input[type="checkbox"] {
   </li>  
     </ul>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="./B_entropy/index.html"> 
-<span class="menu-text">B: Entropy</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-b-entropy" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">B: Entropy</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-b-entropy">    
+        <li>
+    <a class="dropdown-item" href="./B_entropy/index.html">
+ <span class="dropdown-text">B: Entropy, ions and membranes</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./B_entropy/entropy.html">
+ <span class="dropdown-text">Entropy, free energy and entropic forces</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./B_entropy/membranes.html">
+ <span class="dropdown-text">Processes at membranes</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./B_entropy/membrane_potential.html">
+ <span class="dropdown-text">Membrane potentials and ion pumps</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./C_morphogenesis/index.html"> 
 <span class="menu-text">C: Morphogenesis</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./electives/index.html"> 
-<span class="menu-text">Electives</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-electives" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Electives</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-electives">    
+        <li>
+    <a class="dropdown-item" href="./electives/index.html">
+ <span class="dropdown-text">Elective projects</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./electives/2A_freezing.html">
+ <span class="dropdown-text">2A: Freezing cells, the physics of cryopreservation</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./electives/2B_nerve.html">
+ <span class="dropdown-text">2B: Nerve signals, from Nernst to Hodgkin–Huxley</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./electives/2C_active_layers.html">
+ <span class="dropdown-text">2C: Active cell layers, from Vicsek to epithelia</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="./llm-guide.html"> 
 <span class="menu-text">Working with LLMs</span></a>
@@ -250,13 +288,6 @@ ul.task-list li input[type="checkbox"] {
 <section id="block-b-entropy-ions-and-membranes" class="level2">
 <h2 class="anchored" data-anchor-id="block-b-entropy-ions-and-membranes">Block B: Entropy, ions and membranes</h2>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-<col style="width: 20%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Week</th>
@@ -270,16 +301,16 @@ ul.task-list li input[type="checkbox"] {
 <tr class="odd">
 <td>W10 (9, 11 Mar)</td>
 <td><strong>10–14 P1 defenses</strong></td>
-<td>Entropy, multiplicity, Boltzmann; elective fair (P2)</td>
-<td>E6</td>
-<td>Choose P2 by Sun</td>
+<td><a href="./B_entropy/entropy.html">Entropy</a>, multiplicity, Boltzmann; <a href="./electives/index.html">elective fair</a> (P2)</td>
+<td><a href="./B_entropy/exercises/E6_free_energy.html">E6</a></td>
+<td>Choose P2 by Sun 14 Mar</td>
 </tr>
 <tr class="even">
 <td>W11 (16, 18 Mar)</td>
 <td>Free energy; entropic forces, depletion</td>
-<td>Chemical potential; osmosis</td>
-<td>E7</td>
-<td>P2 kick-off, M1</td>
+<td>Chemical potential; <a href="./B_entropy/membranes.html">osmosis</a></td>
+<td><a href="./B_entropy/exercises/E7_depletion_osmosis.html">E7</a></td>
+<td>P2 kick-off</td>
 </tr>
 <tr class="odd">
 <td>W12</td>
@@ -290,24 +321,24 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 <tr class="even">
 <td>W13 (30 Mar, 1 Apr)</td>
-<td>Osmotic flow</td>
+<td>Osmotic flow; 12–14 P2 supervision</td>
 <td>Charges, screening, Nernst</td>
-<td>E8</td>
-<td></td>
+<td><a href="./B_entropy/exercises/E8_cell_volume_debye.html">E8</a></td>
+<td>M1 Tue</td>
 </tr>
 <tr class="odd">
 <td>W14 (6, 8 Apr)</td>
-<td>Donnan equilibrium, ion pumps</td>
-<td>Resting potential</td>
-<td>E9</td>
+<td>Donnan equilibrium, <a href="./B_entropy/membrane_potential.html">ion pumps</a></td>
+<td>Resting potential; nerve simulation instructions (2B)</td>
+<td><a href="./B_entropy/exercises/E9_donnan_pumps.html">E9</a></td>
 <td></td>
 </tr>
 <tr class="even">
 <td>W15 (13, 15 Apr)</td>
 <td><strong>10–14 P2 lab / project work</strong></td>
 <td>Block C: Active materials shape themselves; elective fair (P3)</td>
-<td>E10</td>
-<td>M2</td>
+<td><a href="./B_entropy/exercises/E10_recap.html">E10</a></td>
+<td>M2 Tue</td>
 </tr>
 <tr class="odd">
 <td>W16 (20, 22 Apr)</td>
@@ -341,7 +372,7 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>W17 (27, 29 Apr)</td>
-<td><strong>10–14 P2 defenses</strong></td>
+<td><strong>10–14 P2 defenses</strong> (M4)</td>
 <td>New microscopy: QPI, light-sheet, quantum-limited imaging</td>
 <td>E12</td>
 <td>P3 kick-off</td>
@@ -786,13 +817,19 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      &nbsp;
-    </div>   
+<p>Dag Kristian Dysthe, Department of Physics, University of Oslo</p>
+</div>   
     <div class="nav-footer-center">
-<p>Dag Kristian Dysthe, Department of Physics, University of Oslo · <a href="imagelinks.html">Image credits</a></p>
-</div>
-    <div class="nav-footer-right">
       &nbsp;
+    </div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./imagelinks.html">
+<p>Image credits</p>
+</a>
+  </li>  
+</ul>
     </div>
   </div>
 </footer>

@@ -18,14 +18,14 @@
     "href": "schedule.html#block-b-entropy-ions-and-membranes",
     "title": "Schedule, spring 2027",
     "section": "Block B: Entropy, ions and membranes",
-    "text": "Block B: Entropy, ions and membranes\n\n\n\n\n\n\n\n\n\n\nWeek\nTuesday\nThursday\nExercise\nProject\n\n\n\n\nW10 (9, 11 Mar)\n10–14 P1 defenses\nEntropy, multiplicity, Boltzmann; elective fair (P2)\nE6\nChoose P2 by Sun\n\n\nW11 (16, 18 Mar)\nFree energy; entropic forces, depletion\nChemical potential; osmosis\nE7\nP2 kick-off, M1\n\n\nW12\nEaster\n\n\n\n\n\nW13 (30 Mar, 1 Apr)\nOsmotic flow\nCharges, screening, Nernst\nE8\n\n\n\nW14 (6, 8 Apr)\nDonnan equilibrium, ion pumps\nResting potential\nE9\n\n\n\nW15 (13, 15 Apr)\n10–14 P2 lab / project work\nBlock C: Active materials shape themselves; elective fair (P3)\nE10\nM2\n\n\nW16 (20, 22 Apr)\nMechanosensing, mechanotransduction; 12–14 P2 supervision\nPhysics of adherent cells; differential adhesion, Cellular Potts model\nE11\nP2 report Sun 25 Apr; choose P3 by Thu"
+    "text": "Block B: Entropy, ions and membranes\n\n\n\nWeek\nTuesday\nThursday\nExercise\nProject\n\n\n\n\nW10 (9, 11 Mar)\n10–14 P1 defenses\nEntropy, multiplicity, Boltzmann; elective fair (P2)\nE6\nChoose P2 by Sun 14 Mar\n\n\nW11 (16, 18 Mar)\nFree energy; entropic forces, depletion\nChemical potential; osmosis\nE7\nP2 kick-off\n\n\nW12\nEaster\n\n\n\n\n\nW13 (30 Mar, 1 Apr)\nOsmotic flow; 12–14 P2 supervision\nCharges, screening, Nernst\nE8\nM1 Tue\n\n\nW14 (6, 8 Apr)\nDonnan equilibrium, ion pumps\nResting potential; nerve simulation instructions (2B)\nE9\n\n\n\nW15 (13, 15 Apr)\n10–14 P2 lab / project work\nBlock C: Active materials shape themselves; elective fair (P3)\nE10\nM2 Tue\n\n\nW16 (20, 22 Apr)\nMechanosensing, mechanotransduction; 12–14 P2 supervision\nPhysics of adherent cells; differential adhesion, Cellular Potts model\nE11\nP2 report Sun 25 Apr; choose P3 by Thu"
   },
   {
     "objectID": "schedule.html#block-c-morphogenesis-mechanobiology-and-imaging",
     "href": "schedule.html#block-c-morphogenesis-mechanobiology-and-imaging",
     "title": "Schedule, spring 2027",
     "section": "Block C: Morphogenesis, mechanobiology and imaging",
-    "text": "Block C: Morphogenesis, mechanobiology and imaging\n\n\n\n\n\n\n\n\n\n\nWeek\nTuesday\nThursday\nExercise\nProject\n\n\n\n\nW17 (27, 29 Apr)\n10–14 P2 defenses\nNew microscopy: QPI, light-sheet, quantum-limited imaging\nE12\nP3 kick-off\n\n\nW18 (4 May)\n10–14 P3 lab\nAscension Day\n\nM1\n\n\nW19 (11, 13 May)\nPattern formation: Turing vs Wolpert\nUltrasound and cells\nE13\nM2\n\n\nW20 (18, 20 May)\nCourse recap; 12–14 supervision\nProject work and supervision\n\nP3 report Sun 23 May\n\n\nW21 (25, 27 May)\n10–14 P3 defenses\nCourse evaluation\n\n\n\n\n\nFinal oral exam: W23–W24."
+    "text": "Block C: Morphogenesis, mechanobiology and imaging\n\n\n\n\n\n\n\n\n\n\nWeek\nTuesday\nThursday\nExercise\nProject\n\n\n\n\nW17 (27, 29 Apr)\n10–14 P2 defenses (M4)\nNew microscopy: QPI, light-sheet, quantum-limited imaging\nE12\nP3 kick-off\n\n\nW18 (4 May)\n10–14 P3 lab\nAscension Day\n\nM1\n\n\nW19 (11, 13 May)\nPattern formation: Turing vs Wolpert\nUltrasound and cells\nE13\nM2\n\n\nW20 (18, 20 May)\nCourse recap; 12–14 supervision\nProject work and supervision\n\nP3 report Sun 23 May\n\n\nW21 (25, 27 May)\n10–14 P3 defenses\nCourse evaluation\n\n\n\n\n\nFinal oral exam: W23–W24."
   },
   {
     "objectID": "index.html",
@@ -42,329 +42,588 @@
     "text": "How the course works\n\nLectures on Tuesdays and Thursdays 10–12 follow the three blocks above.\nA weekly exercise (about 2 h) is due on Wednesday and reviewed on Thursday. Ten of thirteen must be passed.\nThree projects on current research problems using real research tools. P1 is the same for everyone. P2 and P3 are chosen from the electives. Each project ends with a report and an oral defense, where you present your result and are questioned on your understanding of it.\nLLMs are expected tools in this course, for analysis and for writing. See Working with LLMs. What is assessed is what you understand, and that is checked orally.\nFinal oral exam in June sets the grade.\n\nThe textbook is Philip Nelson, Biological Physics: Energy, Information, Life, chapters 1–7 and 11.1–11.2. The week-by-week plan is in the schedule.\n\n  \n    See a neuron fire\n    A demo project from earlier years: two-photon calcium imaging of neurons in the brain of a living mouse,\n       and a simulation of the action potential that explains what you see.\n    Open the demo"
   },
   {
-    "objectID": "C_morphogenesis/index.html",
-    "href": "C_morphogenesis/index.html",
-    "title": "C: Morphogenesis, mechanobiology and imaging",
+    "objectID": "electives/2C_active_layers.html",
+    "href": "electives/2C_active_layers.html",
+    "title": "2C: Active cell layers, from Vicsek to epithelia",
     "section": "",
-    "text": "How do identical cells organise themselves into a tissue with a shape? How do cells feel and respond to forces? We look at active materials that shape themselves, the cytoskeleton and adhesion, the physics of adherent cells, differential adhesion and the Cellular Potts model, Turing patterns versus positional information, and the new microscopy that lets us see living tissue without labels.\nThis block is being moved to the new format."
+    "text": "Epithelial cells, the cells that line our organs, form dense layers in which they push, crawl and align with their neighbours. Physicists describe such layers as active matter, the same class as the flocks of the Vicsek model. Images of real cell layers often seem to show regions of aligned cells. But a pattern that looks ordered to the eye can also arise by chance. Your question is:\n\nDo the cells in an epithelial monolayer align with each other, beyond what chance would give?\n\nYou will first map the order–disorder transition in the Vicsek model, where you know the answer, and use it to build and test your tools. Then you apply the same tools to quantitative phase images of MDCK epithelial monolayers from our group.",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2C: Active cell layers, from Vicsek to epithelia"
+    ]
   },
   {
-    "objectID": "A_walkers/lab_brownian.html",
-    "href": "A_walkers/lab_brownian.html",
-    "title": "Lab: Brownian motion",
+    "objectID": "electives/2C_active_layers.html#the-question",
+    "href": "electives/2C_active_layers.html#the-question",
+    "title": "2C: Active cell layers, from Vicsek to epithelia",
     "section": "",
-    "text": "The purpose of this lab is to learn some basic statistical physics, microscopy, imaging and image analysis. The data you take here are the data for Project 1. The theory is in the notes on active and passive motion, sections on random walks, diffusion, viscous drag and the Langevin equation.",
+    "text": "Epithelial cells, the cells that line our organs, form dense layers in which they push, crawl and align with their neighbours. Physicists describe such layers as active matter, the same class as the flocks of the Vicsek model. Images of real cell layers often seem to show regions of aligned cells. But a pattern that looks ordered to the eye can also arise by chance. Your question is:\n\nDo the cells in an epithelial monolayer align with each other, beyond what chance would give?\n\nYou will first map the order–disorder transition in the Vicsek model, where you know the answer, and use it to build and test your tools. Then you apply the same tools to quantitative phase images of MDCK epithelial monolayers from our group.",
     "crumbs": [
-      "Lab and project",
-      "Lab: Brownian motion"
+      "Round 1 (P2)",
+      "2C: Active cell layers, from Vicsek to epithelia"
     ]
   },
   {
-    "objectID": "A_walkers/lab_brownian.html#background",
-    "href": "A_walkers/lab_brownian.html#background",
-    "title": "Lab: Brownian motion",
-    "section": "Background",
-    "text": "Background\n\nNobel Prize in 2009\nElectronic cameras surround us everywhere and have been used scientifically since they were invented. In 2009, Willard S. Boyle and George E. Smith at Bell Laboratories were awarded the Nobel Prize in Physics “for the invention of an imaging semiconductor circuit, the CCD sensor”.\n\n\nThe optical microscope\nThe microscope is a stable stand that allows small, controlled movements of what you are looking at relative to the light source and the objective. The illumination is at least as important for what you see as the type of objective you use. If the illumination is correct, the resolution of the microscope is set by the numerical aperture (NA) of the objective. The resolution is the radius of the diffraction pattern from point sources, and is at best \\(r=\\lambda/(2\\,\\mathrm{NA})\\), where \\(\\lambda\\) is the wavelength of the light. We have two objectives with NA = 0.4 and NA = 0.65, so the resolutions for green light are \\(D_{20X}=0.7\\) µm and \\(D_{40X}=0.4\\) µm.\n\n\nImaging with electronic cameras\nThe objective sends out an almost parallel beam of rays. This beam must pass through an eyepiece to form an image on the retina, or through an imaging lens to form an image on the sensor of a camera. In an electronic camera, electrons are released where light falls on a semiconductor chip. The chip is divided into many pixels, each of which works as a light sensor.\n\nThe spatial resolution of a camera is set by how many pixels the chip is divided into.\nJust as important is the intensity resolution: how many intensity levels each pixel can distinguish. It depends on the pixel size (larger pixels collect more electrons), the sensor temperature (fewer thermal noise electrons when cold) and the readout noise (usually larger for faster readout). Most simple cameras and image formats use \\(2^8=256\\) levels (8 bit). Good SLR cameras have a raw format with 12 bit (\\(2^{12}=4096\\) levels). Good scientific cameras are cooled to between −80 and −180 °C and have expensive readout electronics giving \\(2^{16}=65536\\) levels. Then each pixel is an accurate, sensitive light meter.\nSquare pixels are an advantage: the conversion from pixels to object size is then the same horizontally and vertically.\nIf you do not need colour information, a greyscale camera is better, because colour filtering costs both spatial and intensity resolution.\nThe last choice is the chip technology, CCD or CMOS.\n\n\n\nImage analysis\n\n\n\n\n\n\nFigure 1: Analysis of an imaged square grid. Top left: monochrome image of a square grid with 50 µm between the lines and 5 µm wide lines. Top right: the same image as a matrix \\(I\\), shown as a colour map. Note that the element \\(I[0,0]\\) is in the upper left corner. Bottom: vertical cross-section I[:, 500] on the left and horizontal cross-section I[500, :] on the right.\n\n\n\nWe only use monochrome cameras here. A monochrome image is a 2D matrix with elements \\(I_{ij}\\), \\(i=1\\ldots N_y\\), \\(j=1\\ldots N_x\\). For an 8-bit image, \\(I_{ij}\\) is between 0 (black) and 255 (white). The pixel coordinates correspond to object coordinates \\(x_j=j s_x\\) and \\(y_i=i s_y\\), where \\(s_x\\) and \\(s_y\\) are the pixel sizes in the object (µm per pixel). One of the first things to do with a new imaging system is to find \\(s_x\\) and \\(s_y\\) by imaging an object of known size and counting how many pixels it covers.\nFigure 1 shows a greyscale image with 1024 × 1280 pixels and intensities between 50 and 240. The positions of the horizontal lines are the 4 minima in the lower left plot, and the positions of the vertical lines are the 5 minima in the lower right plot. Since the lines are 50 µm apart, these minima give \\(s_x\\) and \\(s_y\\).\nIn Python:\nimport matplotlib.pyplot as plt\nimport pims\n\nI = pims.as_gray(pims.open('grid20x.png'))[0]  # greyscale matrix\nplt.imshow(I, cmap='gray'); plt.colorbar()\nplt.figure(); plt.plot(I[:, 500]); plt.plot(I[500, :])\ntrackpy does not read images itself. It uses PIMS, which we use here too, so the calibration image and the movie are read the same way. pims.open reads a single image, a folder of images ('stack/*.png') or a video file, and returns a list of frames. pims.as_gray converts colour frames to greyscale and leaves greyscale frames as they are.",
+    "objectID": "electives/2C_active_layers.html#material",
+    "href": "electives/2C_active_layers.html#material",
+    "title": "2C: Active cell layers, from Vicsek to epithelia",
+    "section": "Material",
+    "text": "Material\n\nThe Vicsek code from Block A: vicsek_model.py, and your own solution to E5\nsegment_mdck_holomonitor.ipynb: segmentation of cells in quantitative phase (Holomonitor) images, from cell height maps to labelled cell areas\nA set of MDCK monolayer images at different cell densities (handed out at the kick-off)",
     "crumbs": [
-      "Lab and project",
-      "Lab: Brownian motion"
+      "Round 1 (P2)",
+      "2C: Active cell layers, from Vicsek to epithelia"
     ]
   },
   {
-    "objectID": "A_walkers/lab_brownian.html#before-the-lab",
-    "href": "A_walkers/lab_brownian.html#before-the-lab",
-    "title": "Lab: Brownian motion",
-    "section": "Before the lab",
-    "text": "Before the lab\n\nInstall Python with numpy, scipy, matplotlib, pandas, trackpy and pims (see Working with LLMs for how to get help with this).\nRun randomwalk_exercise.py a few times. Change timesteps, numpart and stepsize and see how the result changes.\nRun synthetic_brownian.py. It makes a movie of simulated beads with a known \\(D\\), tracks it with trackpy, and prints the true and the fitted \\(D\\). This is the reference you will test your own pipeline against.",
-    "crumbs": [
-      "Lab and project",
-      "Lab: Brownian motion"
-    ]
-  },
-  {
-    "objectID": "A_walkers/lab_brownian.html#in-the-lab",
-    "href": "A_walkers/lab_brownian.html#in-the-lab",
-    "title": "Lab: Brownian motion",
-    "section": "In the lab",
-    "text": "In the lab\n\nImaging quality and calibration\nGet help to place the test slide in the microscope, turn on the light, open the camera program, and set the camera to take pictures continuously and show them on the screen. Never touch the surface of the test slide!\n\nUse the 20X objective, find a field with a square grid, and focus while looking in the eyepiece.\nOpen a window that shows the histogram and a window where you can set the exposure time. The histogram shows how many pixels have each intensity. You should see two peaks, one for the white stripes and one for the black stripes.\nSet a light intensity that is comfortable for the eyes. Then adjust the focus and the exposure time to get the largest possible distance between the two peaks in the histogram. You now have maximum contrast.\nSave a still image of the grid and determine \\(s_x\\) and \\(s_y\\) as in Figure 1.\nRepeat for the 40X objective.\nIs the resolution limited by diffraction or by the camera pixels? Calculate \\(D_{20X}/s_x\\) and \\(D_{40X}/s_x\\) and explain what these ratios tell you.\nOptional: Modulation transfer function (MTF). With the 20X objective, focus on the field with 60 LP/mm (line pairs per millimetre) and optimise contrast. Save an image, plot an intensity profile normal to the stripes, and note \\(I_{\\min}\\) and \\(I_{\\max}\\). Repeat with 380, 500 and 600 LP/mm, and then with the 40X objective. Plot \\(\\mathrm{MTF}(f)=(I_{\\max}(f)-I_{\\min}(f))/(I_{\\max}(60)-I_{\\min}(60))\\) for both objectives.\n\n\n\nBrownian motion\nGet help from a supervisor to prepare a microscope slide with a small volume of liquid containing small particles. Use the 20X objective and normal illumination to find an area with particles. Switch to dark-field illumination if it is difficult to find the particles.\n\nTake one picture of the particles with normal illumination and one with dark-field illumination, with the best contrast you can get. Describe the difference between the two images and how each is produced.\nDetermine the mean particle size in pixels and in micrometres. Compare with the nominal bead size and with the resolution of the objective.\nRecord a 30 s movie at 15 frames per second with the best contrast and focus. Play it a few times (e.g. in ImageJ/Fiji) to see roughly how far the most mobile particles move during the movie.\nBefore you leave: run trackpy.locate on one frame and trackpy.annotate to check that the particles are found (see trackpy_anal.ipynb). It is much easier to fix exposure and focus now than to rescue bad data later.\nRecord a 5 min movie at 15 frames per second with the best possible contrast and focus.\nWrite down: objective, pixel size, frame rate, exposure time, bead size (nominal), temperature in the room, and anything that may cause drift (evaporation, a tilted stage, a warm lamp).\n\n\n\nAfter the lab\nThe analysis is Project 1. A short image sequence from an earlier lab, cropped to 1024 × 1024 pixels, is in src/stack2_crop/ if you want to start testing before you have your own data.",
-    "crumbs": [
-      "Lab and project",
-      "Lab: Brownian motion"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E5_active_vicsek.html",
-    "href": "A_walkers/exercises/E5_active_vicsek.html",
-    "title": "E5: Active Brownian particles and the Vicsek model",
-    "section": "",
-    "text": "About 2–3 hours. Theory: Active matter notes. Code: src/vicsek/ (by Harish).",
-    "crumbs": [
-      "Weekly exercises",
-      "E5: Active Brownian particles and the Vicsek model"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E5_active_vicsek.html#one-active-brownian-particle",
-    "href": "A_walkers/exercises/E5_active_vicsek.html#one-active-brownian-particle",
-    "title": "E5: Active Brownian particles and the Vicsek model",
-    "section": "1. One active Brownian particle",
-    "text": "1. One active Brownian particle\nSimulate 400 independent active Brownian particles with the finite-difference equations in the notes, using \\(v = 1\\), \\(D_T = 0.1\\), \\(D_R = 0.5\\), \\(\\Delta t = 0.01\\) (arbitrary units) and \\(2\\times10^4\\) time steps. Plot the MSD against time on log–log axes.\n\nIdentify the diffusive, ballistic and enhanced-diffusive regimes. At what times do the crossovers happen? Compare with \\(D_T/v^2\\) and \\(\\tau_R = 1/D_R\\).\nCompare the long-time slope with \\(D_{\\rm eff} = D_T + v^2\\tau_R/2\\).",
-    "crumbs": [
-      "Weekly exercises",
-      "E5: Active Brownian particles and the Vicsek model"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E5_active_vicsek.html#the-flocking-transition",
-    "href": "A_walkers/exercises/E5_active_vicsek.html#the-flocking-transition",
-    "title": "E5: Active Brownian particles and the Vicsek model",
-    "section": "2. The flocking transition",
-    "text": "2. The flocking transition\nUse vicsek_model.generate_vicsek_data (see vicsek_model_exercise.py) with \\(N = 400\\), \\(L = 14\\) (density \\(\\approx 2\\)), \\(r = 1\\), \\(v = 0.1\\) and 500 iterations.\n\nFor noise amplitudes \\(\\eta = 0.1, 0.2, \\ldots, 1.0\\), compute the order parameter \\(\\psi = \\frac{1}{N}\\left|\\sum_i \\mathbf v_i / v\\right|\\), averaged over the last 200 iterations. Plot \\(\\psi\\) against \\(\\eta\\).\nWhere is the transition? Run once more at the \\(\\eta\\) closest to the transition. How much does \\(\\psi\\) fluctuate in time there, compared with far from it?\nWhy is \\(\\psi \\approx 1/\\sqrt{N}\\), not 0, in the disordered phase?",
-    "crumbs": [
-      "Weekly exercises",
-      "E5: Active Brownian particles and the Vicsek model"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E3_diffusion.html",
-    "href": "A_walkers/exercises/E3_diffusion.html",
-    "title": "E3: Diffusion and tracking",
-    "section": "",
-    "text": "About 2 hours. This exercise feeds directly into milestone M2 of P1.",
-    "crumbs": [
-      "Weekly exercises",
-      "E3: Diffusion and tracking"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E3_diffusion.html#nelson",
-    "href": "A_walkers/exercises/E3_diffusion.html#nelson",
-    "title": "E3: Diffusion and tracking",
-    "section": "1. Nelson",
-    "text": "1. Nelson\nNelson: Your Turn 4b, 4c, 4d and 4e.",
-    "crumbs": [
-      "Weekly exercises",
-      "E3: Diffusion and tracking"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E3_diffusion.html#diffusion-times-in-the-cell",
-    "href": "A_walkers/exercises/E3_diffusion.html#diffusion-times-in-the-cell",
-    "title": "E3: Diffusion and tracking",
-    "section": "2. Diffusion times in the cell",
-    "text": "2. Diffusion times in the cell\nEstimate the time \\(t\\sim L^2/(2D)\\) it takes to diffuse a distance \\(L\\) for:\n\na protein (\\(D\\approx 10\\) µm²/s) across a bacterium (1 µm) and across a eukaryotic cell (20 µm);\na neurotransmitter (\\(D\\approx 300\\) µm²/s) across a synaptic cleft (20 nm);\nthe same protein along a 1 m long nerve axon.\n\nWhat do the numbers tell you about where cells can rely on diffusion and where they need active transport?",
-    "crumbs": [
-      "Weekly exercises",
-      "E3: Diffusion and tracking"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E3_diffusion.html#test-a-tracking-pipeline-on-synthetic-data",
-    "href": "A_walkers/exercises/E3_diffusion.html#test-a-tracking-pipeline-on-synthetic-data",
-    "title": "E3: Diffusion and tracking",
-    "section": "3. Test a tracking pipeline on synthetic data",
-    "text": "3. Test a tracking pipeline on synthetic data\nRun synthetic_brownian.py. It makes a movie of beads with known \\(D\\), tracks them with trackpy and prints the true and fitted \\(D\\).\n\nRun it with --D 0.5. How close is the fitted value?\nIn track_and_fit, set search_range=5 and run again. What happens to \\(D\\), and why? Estimate the per-axis step in pixels per frame and compare it with the search range.\nSet minmass=None. What happens now, and why?\nIn one sentence: why must you test your own pipeline on synthetic data before you trust it on the lab data?",
-    "crumbs": [
-      "Weekly exercises",
-      "E3: Diffusion and tracking"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html",
-    "href": "A_walkers/exercises/E1_orders_of_magnitude.html",
-    "title": "E1: Orders of magnitude",
-    "section": "",
-    "text": "About 2 hours. Submit one PDF (handwritten and scanned is fine) or a notebook on Canvas. You may use an LLM, but be ready to explain any answer at the board on Thursday.",
-    "crumbs": [
-      "Weekly exercises",
-      "E1: Orders of magnitude"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#nelson",
-    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#nelson",
-    "title": "E1: Orders of magnitude",
-    "section": "1. Nelson",
-    "text": "1. Nelson\nNelson, Biological Physics: Your Turn 1a, Problems 1.3, 2.2 and 2.5.\nThe software and web sites named in Problems 2.2 and 2.5 are from 2002 and mostly gone. Use these instead:\n\n2.2: open each structure in the browser at https://www.rcsb.org/3d-view/&lt;code&gt;, for example rcsb.org/3d-view/1MBN. This is the Mol* viewer. To measure a distance, turn on selection mode, click two atoms, and open Measurements. For the rhinovirus (4rhv), choose the biological assembly, not the asymmetric unit.\n2.5: skip part (a); the micelle file is no longer online. Instead, estimate the radius of a spherical micelle of 65 dodecyl (C12) surfactants. Each tail has volume 0.35 nm³ and is at most 1.67 nm long. For part (b), download the 128-lipid DPPC bilayer (dppc.tar.gz) from the CHARMM-GUI lipid archive and open dppc_n128.pdb in the Mol* viewer (Open Files). Measure the bilayer thickness between the phosphorus atoms of the two leaflets. The simulation box is 6.4 nm × 6.4 nm, with 64 lipids per leaflet: what is the area per lipid?",
-    "crumbs": [
-      "Weekly exercises",
-      "E1: Orders of magnitude"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#the-thermal-energy-scale",
-    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#the-thermal-energy-scale",
-    "title": "E1: Orders of magnitude",
-    "section": "2. The thermal energy scale",
-    "text": "2. The thermal energy scale\nCalculate \\(k_BT\\) at body temperature (37 °C) in J, eV, kJ/mol and pN·nm. Compare it with the energy of one ATP hydrolysis (about 20 \\(k_BT\\) in the cell) and with a covalent C–C bond (about 350 kJ/mol). What does the comparison tell you about which structures in the cell are stable against thermal motion?",
-    "crumbs": [
-      "Weekly exercises",
-      "E1: Orders of magnitude"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#python-warm-up-fit-a-line-with-an-uncertainty",
-    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#python-warm-up-fit-a-line-with-an-uncertainty",
-    "title": "E1: Orders of magnitude",
-    "section": "3. Python warm-up: fit a line with an uncertainty",
-    "text": "3. Python warm-up: fit a line with an uncertainty\nGenerate synthetic data \\(y = a t + b + \\text{noise}\\) with \\(a = 2\\), \\(b = 0.5\\), 30 points for \\(t\\in[0,10]\\) and Gaussian noise with standard deviation 1. Fit a straight line and report \\(a \\pm \\delta a\\). Repeat 1000 times with new noise and compare the spread of the fitted \\(a\\) with the \\(\\delta a\\) from a single fit. Plot one data set with the fit.\nHint: np.polyfit(t, y, 1, cov=True) returns the covariance matrix of the parameters.",
-    "crumbs": [
-      "Weekly exercises",
-      "E1: Orders of magnitude"
-    ]
-  },
-  {
-    "objectID": "A_walkers/activematter.html",
-    "href": "A_walkers/activematter.html",
-    "title": "Active matter: lecture notes",
-    "section": "",
-    "text": "Active matter systems consume energy from their environment and use it as fuel to propel themselves and drive themselves far from equilibrium. Examples: living organisms and artificial machines (micro-robots, artificial molecular machines, etc.).\nBecause of their intrinsic activity, these systems can spontaneously show complex patterns of motion, such as swarming or flocking. This is associated with an emergent global order from the self-organization of the constituents of active matter.\nEmergent (self-organized) behaviour occurs at many different scales. Some of these patterns turn out to be robust and universal: they are independent of the type of animal that makes up the swarm.\n\n\n\nSchool of fish\n\nE. coli swarming\n\nCell migration\n\nWe can model the universal swarming behaviour of self-propelled (active) particles with several minimal statistical models.\nIn this lecture we introduce a few minimal models of active particles. If we get to it, we will also discuss different kinds of order (polar versus nematic) that emerge from collective interactions of active particles.",
-    "crumbs": [
-      "Notes",
-      "Active matter: lecture notes"
-    ]
-  },
-  {
-    "objectID": "A_walkers/activematter.html#what-is-active-matter",
-    "href": "A_walkers/activematter.html#what-is-active-matter",
-    "title": "Active matter: lecture notes",
-    "section": "",
-    "text": "Active matter systems consume energy from their environment and use it as fuel to propel themselves and drive themselves far from equilibrium. Examples: living organisms and artificial machines (micro-robots, artificial molecular machines, etc.).\nBecause of their intrinsic activity, these systems can spontaneously show complex patterns of motion, such as swarming or flocking. This is associated with an emergent global order from the self-organization of the constituents of active matter.\nEmergent (self-organized) behaviour occurs at many different scales. Some of these patterns turn out to be robust and universal: they are independent of the type of animal that makes up the swarm.\n\n\n\nSchool of fish\n\nE. coli swarming\n\nCell migration\n\nWe can model the universal swarming behaviour of self-propelled (active) particles with several minimal statistical models.\nIn this lecture we introduce a few minimal models of active particles. If we get to it, we will also discuss different kinds of order (polar versus nematic) that emerge from collective interactions of active particles.",
-    "crumbs": [
-      "Notes",
-      "Active matter: lecture notes"
-    ]
-  },
-  {
-    "objectID": "A_walkers/activematter.html#single-active-particles-self-propelled-brownians",
-    "href": "A_walkers/activematter.html#single-active-particles-self-propelled-brownians",
-    "title": "Active matter: lecture notes",
-    "section": "Single active particles: self-propelled Brownians",
-    "text": "Single active particles: self-propelled Brownians\n\nSelf-propulsion is common in living organisms. It allows a more efficient exploration of the environment when looking for nutrients or running away from toxic substances.\nA paradigmatic example is the swimming of bacteria such as E. coli. It resembles the motion of a passive Brownian particle, but it also has an active component due to self-propulsion.\nWe call them self-propelled Brownians, because they meander but also propel themselves by taking up energy from their environment and converting it into directed motion.\nSelf-propelled Brownians = random meandering + active swimming\n\n\n\n\nSelf-propulsion speed as a function of the size of a microswimmer.\n\n\n\n\n\nRandom trajectory of a run-and-tumble particle (RTP) versus an active Brownian particle (ABP).\n\n\n\nActive Brownian particles\nThis is like an overdamped (no inertia) Brownian particle with two kinds of motion:\n\nrandom meandering like a passive Brownian particle, with a noise amplitude set by the translational diffusivity \\(D_T\\);\nself-propulsion with a constant speed \\(v\\), but in a random direction \\(\\theta\\). The randomness in the orientation of the self-propulsion has a noise amplitude set by the rotational diffusivity \\(D_R\\).\n\nFor motion confined to the \\(xy\\)-plane, the active Brownian particle is modelled by 3 dynamical variables \\((x(t),y(t),\\theta(t))\\): its position and the angle of the self-propulsion velocity. The dynamical equations for these variables are\n\\[\n\\begin{aligned}\n\\dot x &= v\\cos\\theta +\\sqrt{2D_T}\\,\\xi_x, \\quad \\langle\\xi_x\\rangle = 0,\\quad \\langle\\xi_x(t)\\xi_x(t')\\rangle =\\delta(t-t')\\\\\n\\dot y &= v\\sin\\theta +\\sqrt{2D_T}\\,\\xi_y, \\quad \\langle\\xi_y\\rangle = 0,\\quad \\langle\\xi_y(t)\\xi_y(t')\\rangle =\\delta(t-t')\\\\\n\\dot \\theta &= \\sqrt{2D_R}\\,\\xi_\\theta, \\quad \\langle\\xi_\\theta\\rangle = 0,\\quad \\langle\\xi_\\theta(t)\\xi_\\theta(t')\\rangle =\\delta(t-t')\n\\end{aligned}\n\\tag{1}\\]\n\nOverdamped motion\nWe can rewrite the equations of motion in vector form. Then it becomes clearer that this is overdamped motion, with drag coefficient \\(\\gamma\\):\n\\[\n\\gamma\\dot{\\mathbf r} = F\\hat{\\mathbf e} +\\boldsymbol{\\xi}\n\\]\n\n\nFinite-difference equations\nThese equations are usually solved numerically in discrete time, with \\(\\Delta t\\) the time increment between successive times, \\(t_{n+1} = t_n+\\Delta t\\). The corresponding finite-difference equations are\n\\[\n\\begin{aligned}\nx_{n+1} &= x_n+v\\cos\\theta_n\\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{x,n}\\\\\ny_{n+1} &= y_n+v\\sin\\theta_n\\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{y,n}\\\\\n\\theta_{n+1} &= \\theta_n+\\sqrt{2D_R \\Delta t}\\,W_{\\theta,n}\n\\end{aligned}\n\\tag{2}\\]\nwhere \\(W_{x}, W_{y}, W_\\theta\\) are Gaussian random numbers with zero mean and unit standard deviation, drawn independently at each time step.\n\n\n\nRun-and-tumble\nThe run-and-tumble model was inspired by chemotaxis of bacteria, that is, how bacteria move towards or away from a food source.\n\n\n\nRun and tumble modes.\n\n\nThe particle alternates between an active state, where it moves with constant speed \\(v\\) in a given direction (“run”), and a passive state, where its position stays the same but its orientation keeps changing (“tumble”). The change in direction is taken as instantaneous and occurs with a given rate \\(\\lambda/\\Delta t\\), so that the particle moves along a straight line between successive tumbles. The “run” state is punctuated at random times by an instantaneous “tumble” (reorientation). This is modelled as a Poisson point process, characterised by the Poisson distribution\n\\[\nP_\\lambda(n) = \\frac{\\lambda^n}{n!}e^{-\\lambda},\n\\]\nwhere \\(n= 0,1,2,\\ldots\\) is the number of tumbling events observed in a time interval \\(\\Delta t\\), and \\(\\lambda\\) is the average number of tumbling events expected in \\(\\Delta t\\).\nNotice that \\(P(n=0) = e^{-\\lambda}\\) is the probability of no tumbling in a time interval \\(\\Delta t\\). We therefore introduce the probability of tumbling in a time interval \\(\\Delta t\\) as \\(P_{\\rm tumble} = 1-e^{-\\lambda}\\), and the probability of running as \\(P_{\\rm run} = P(n=0) = e^{-\\lambda}\\).\nNow we can model the motion of a single bacterium in the plane with 4 dynamical variables \\((x,y,\\theta,\\rho)\\). The additional variable \\(\\rho\\) keeps track of the state of the bacterium (1: run, 0: tumble).\nThe finite-difference evolution equations for these variables are\n\\[\n\\begin{aligned}\nx_{n+1}&= x_n+\\rho_n v\\cos\\theta_n \\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{x,n}\\\\\ny_{n+1}&= y_n+\\rho_n v\\sin\\theta_n \\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{y,n}\\\\\n\\theta_{n+1}&= \\theta_n+(1-\\rho_n)\\Delta \\theta_n\\\\\n\\rho_{n+1} &= \\begin{cases} 0 & \\text{with probability } 1-e^{-\\lambda} \\\\\n1 & \\text{with probability } e^{-\\lambda}\n\\end{cases}\n\\end{aligned}\n\\tag{3}\\]\nwhere \\(W_{x}, W_{y}\\) are Gaussian random numbers with zero mean and unit standard deviation, drawn independently at each time step, and \\(\\Delta\\theta_n\\) is the random reorientation during a tumble.\n\n\nDiffusive behaviour of self-propelled Brownians\nLet us introduce the characteristic time scale of rotational diffusion (meandering), \\(\\tau_R = 1/D_R\\). \\(D_R\\) has units rad²/s, and since the radian is dimensionless, \\(\\tau_R\\) is a time and \\(v^2\\tau_R\\) has the units of a diffusion coefficient. On time scales much longer than \\(\\tau_R\\), the self-propelled Brownian particle diffuses with an effective diffusivity that is larger than the thermal diffusivity:\n\\[\nD_{\\rm eff} = D_T+ \\frac{v^2\\tau_R}{2}\n\\tag{4}\\]\n\n\n\nThe mean square displacement as a function of time has three characteristic regimes: (i) passive diffusion on very short time scales, (ii) an intermediate ballistic regime, and (iii) diffusion with enhanced diffusivity on long time scales.\n\n\n\\[\n\\begin{aligned}\n\\langle(\\Delta r)^2\\rangle (t)&= \\langle(\\Delta x)^2\\rangle(t)+\\langle(\\Delta y)^2\\rangle(t)\\\\\n\\langle(\\Delta r)^2\\rangle (t)&= \\begin{cases}\n4D_T t+v^2t^2, & t\\ll \\tau_R\\\\\n(4D_T +2v^2\\tau_R)\\,t, & t\\gg \\tau_R\n\\end{cases}\n\\end{aligned}\n\\tag{5}\\]\nThe effective diffusion coefficient is\n\\[\nD_{\\rm eff}= \\lim_{t\\rightarrow\\infty}\\frac{\\langle|\\Delta r|^2\\rangle}{4t} = D_T+\\frac{v^2 \\tau_R}{2}\n\\]",
-    "crumbs": [
-      "Notes",
-      "Active matter: lecture notes"
-    ]
-  },
-  {
-    "objectID": "A_walkers/activematter.html#interacting-self-propelled-brownians-the-vicsek-model-for-swarming",
-    "href": "A_walkers/activematter.html#interacting-self-propelled-brownians-the-vicsek-model-for-swarming",
-    "title": "Active matter: lecture notes",
-    "section": "Interacting self-propelled Brownians: the Vicsek model for swarming",
-    "text": "Interacting self-propelled Brownians: the Vicsek model for swarming\nVicsek et al. (1995) published a minimal model for flocking due to alignment interactions between neighbouring particles.\nFor simplicity, consider active particles moving in the plane. Each of them is described by its coordinates \\((x^{(i)}, y^{(i)})\\) and its orientation of motion \\(\\theta^{(i)}\\), where \\(i\\) is the particle label.\n\n\n\nReorientation in the Vicsek model.\n\n\n\nFinite-difference equations\nThe finite-difference evolution equations for particle \\(i\\) are\n\\[\n\\begin{aligned}\nx_{n+1}^{(i)} &= x_n^{(i)}+v\\cos\\theta^{(i)}_n\\Delta t\\\\\ny_{n+1}^{(i)} &= y_n^{(i)}+v\\sin\\theta^{(i)}_n\\Delta t\\\\\n\\theta_{n+1}^{(i)} &= \\langle\\theta_n^{(j)}\\rangle_{S_i}+\\sqrt{2D_R\\Delta t}\\, W_{\\theta^{(i)},n}\n\\end{aligned}\n\\tag{6}\\]\nwhere \\(\\langle\\theta_n^{(j)}\\rangle_{S_i}\\) is the average orientation of all the active particles in the neighbourhood \\(S_i\\) of the \\(i\\)-th particle (see the illustration above). In the original paper the noise is uniform, \\(\\eta\\,U(-\\pi,\\pi)\\); the code we use in the lab follows the paper.\n\n\nNumerical examples showing the emergence of polar order (flocking)\n\nVicsek model with interaction radius \\(R_1 = 0.1 L\\) and higher noise.\n\nVicsek model with a larger interaction radius \\(R_2 = 0.2 L\\) and higher noise.\n\nVicsek model with \\(R_1\\) and lower noise.\n\nVicsek model with \\(R_2\\) and higher noise.",
-    "crumbs": [
-      "Notes",
-      "Active matter: lecture notes"
-    ]
-  },
-  {
-    "objectID": "A_walkers/activematter.html#emergent-nematic-order-in-bacterial-colonies",
-    "href": "A_walkers/activematter.html#emergent-nematic-order-in-bacterial-colonies",
-    "title": "Active matter: lecture notes",
-    "section": "Emergent nematic order in bacterial colonies",
-    "text": "Emergent nematic order in bacterial colonies\nBacteria are elongated particles with rod-like shapes. When they are closely packed, they tend to align their principal axes along a preferred orientation. In doing so, they break rotational symmetry (all directions equally accessible) and form an ordered state with a preferred orientation. This is called nematic order.\n\n\n\nSnapshots of a growing bacterial colony in which bacteria self-organise and align their orientation in a preferred direction.\n\n\nNematic order is commonly found in passive systems known as liquid crystals. By analogy, active matter with nematic order is often called an active liquid crystal.\nPolar versus nematic order:\n\n\n\nPolar versus nematic order.",
-    "crumbs": [
-      "Notes",
-      "Active matter: lecture notes"
-    ]
-  },
-  {
-    "objectID": "A_walkers/activematter.html#polar-ordering-of-epithelial-cell-layers",
-    "href": "A_walkers/activematter.html#polar-ordering-of-epithelial-cell-layers",
-    "title": "Active matter: lecture notes",
-    "section": "Polar ordering of epithelial cell layers",
-    "text": "Polar ordering of epithelial cell layers\n\nEpithelial cells\nFrom Wikipedia: a thin, continuous, protective layer of compactly packed cells with little intercellular matrix. Epithelial tissues line the outer surfaces of organs and blood vessels throughout the body, as well as the inner surfaces of cavities in many internal organs.\n\n\n\nTypes of epithelium (Wikimedia Commons).\n\n\n\n\n\nTopological defects\n\n\n\nTypical topological defects observed in a liquid crystal sample. Each defect has a topological charge \\(s\\), defined as the number of times the vector field winds around a loop encircling the defect once in the anticlockwise sense. Hence (a) and (b) have \\(s = +1\\), (c) \\(s = -1\\), (d) \\(s = +1/2\\), (e) \\(s=-1/2\\).\n\n\n\n\nFlow and polar ordering\nInteger topological defect annihilations drive polar ordering of epithelial monolayers, Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Dommersnes, Stig Ove Bøe.\n\n\n\nFrom Lång et al.\n\n\n\na: Time evolution of polar ordering. The colour map represents the angle of the local velocity field relative to the \\(x\\)-axis. The surface of a whole circular monolayer is shown. Scale bar, 1 mm.\nb: Detection and mapping of ±1 topological defects.\nh: Time series showing annihilation of a ±1 topological defect pair. Scale bar, 100 µm.\n\n\n\nActive elastic solid model\n\\[\n\\begin{aligned}\n\\dot{\\mathbf R}_i&=V_c\\mathbf P_i+\\frac{1}{\\xi}\\mathbf F_i\\\\\n\\dot{\\mathbf P}_i&=\\gamma(\\mathbf P_i\\times\\dot{\\mathbf R}_i)\\times\\mathbf P_i\n\\end{aligned}\n\\tag{7}\\]\nHere \\(\\mathbf R_i\\) is the position of cell \\(i\\) and \\(\\mathbf P_i\\) the polarity of cell propulsion (the direction of propulsion). \\(V_c\\) is the cell propulsion speed in the absence of elastic forces, \\(\\mathbf F_i\\) the elastic force on the cell, and \\(\\xi\\) the substrate friction. The first equation expresses the balance of forces. The second gives the polar ordering effect: the direction of propulsion turns towards the direction of motion with rate constant \\(\\gamma\\).",
-    "crumbs": [
-      "Notes",
-      "Active matter: lecture notes"
-    ]
-  },
-  {
-    "objectID": "A_walkers/activematter.html#suggested-further-reading",
-    "href": "A_walkers/activematter.html#suggested-further-reading",
-    "title": "Active matter: lecture notes",
-    "section": "Suggested further reading",
-    "text": "Suggested further reading\n\nInteger topological defect annihilations drive polar ordering of epithelial monolayers, Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Dommersnes, Stig Ove Bøe.\nThe statistical physics of active matter: from self-catalytic colloids to living cells (2018), Étienne Fodor and M. Cristina Marchetti.\nThe mechanics and statistics of active matter (2010), Sriram Ramaswamy.",
-    "crumbs": [
-      "Notes",
-      "Active matter: lecture notes"
-    ]
-  },
-  {
-    "objectID": "A_walkers/P1_brownian.html",
-    "href": "A_walkers/P1_brownian.html",
-    "title": "P1: Measuring Boltzmann’s constant with a microscope",
-    "section": "",
-    "text": "In 1908 Jean Perrin used Brownian motion to measure Avogadro’s number, and with it Boltzmann’s constant. You will do the same with beads in water, a microscope and a camera. Your question is:\n\nHow well can you determine \\(k_B\\) from the Brownian motion of beads, and what limits the accuracy?\n\nThe physics is in the notes on active and passive motion: random walks, the diffusion equation, Stokes drag, the Langevin equation and the Einstein relation \\(\\xi D = k_BT\\). The data come from the Brownian motion lab.",
-    "crumbs": [
-      "Lab and project",
-      "P1: Measuring Boltzmann's constant with a microscope"
-    ]
-  },
-  {
-    "objectID": "A_walkers/P1_brownian.html#the-question",
-    "href": "A_walkers/P1_brownian.html#the-question",
-    "title": "P1: Measuring Boltzmann’s constant with a microscope",
-    "section": "",
-    "text": "In 1908 Jean Perrin used Brownian motion to measure Avogadro’s number, and with it Boltzmann’s constant. You will do the same with beads in water, a microscope and a camera. Your question is:\n\nHow well can you determine \\(k_B\\) from the Brownian motion of beads, and what limits the accuracy?\n\nThe physics is in the notes on active and passive motion: random walks, the diffusion equation, Stokes drag, the Langevin equation and the Einstein relation \\(\\xi D = k_BT\\). The data come from the Brownian motion lab.",
-    "crumbs": [
-      "Lab and project",
-      "P1: Measuring Boltzmann's constant with a microscope"
-    ]
-  },
-  {
-    "objectID": "A_walkers/P1_brownian.html#what-you-deliver",
-    "href": "A_walkers/P1_brownian.html#what-you-deliver",
-    "title": "P1: Measuring Boltzmann’s constant with a microscope",
-    "section": "What you deliver",
-    "text": "What you deliver\n\nA report (one PDF) with your result, how you got it, and why you believe it. LLM help with writing is allowed and expected. Keep it short: the figures and the argument matter, not the prose.\nAn LLM log as an appendix (one page is enough): what you used an LLM for, where it was wrong or misleading, and how you found out.\nAn oral defense on Tue 9 March: 5 min presentation of your core result, then about 10 min of questions (see below).",
-    "crumbs": [
-      "Lab and project",
-      "P1: Measuring Boltzmann's constant with a microscope"
-    ]
-  },
-  {
-    "objectID": "A_walkers/P1_brownian.html#milestones",
-    "href": "A_walkers/P1_brownian.html#milestones",
-    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "objectID": "electives/2C_active_layers.html#milestones",
+    "href": "electives/2C_active_layers.html#milestones",
+    "title": "2C: Active cell layers, from Vicsek to epithelia",
     "section": "Milestones",
-    "text": "Milestones\n\n\n\n\n\n\n\n\n\nWhen\nWhat you show\n\n\n\n\nM1\nTue 9 Feb (W6, lab)\nYour own image sequence, and particles found in one frame with trackpy.locate\n\n\nM2\nThu 25 Feb (W8)\nValidated core figure: MSD against lag time with a fitted \\(D \\pm \\delta D\\), the same pipeline on a synthetic movie recovering the known \\(D\\), and a first value of \\(k_B\\)\n\n\nM3\nSun 7 Mar\nReport and LLM log submitted on Canvas\n\n\nM4\nTue 9 Mar (W10)\nOral defense",
+    "text": "Milestones\n\n\n\n\n\n\n\n\n\nWhen\nWhat you show\n\n\n\n\nM1\nTue 30 Mar (W13)\nVicsek order parameter against noise for at least two densities, and the MDCK images segmented\n\n\nM2\nTue 13 Apr (W15)\nValidated core figure: nematic order of the cells against window size, compared with a null model, with the method first tested on simulated data where the answer is known\n\n\nM3\nSun 25 Apr\nReport and LLM log on Canvas\n\n\nM4\nTue 27 Apr (W17)\nOral defense",
     "crumbs": [
-      "Lab and project",
-      "P1: Measuring Boltzmann's constant with a microscope"
+      "Round 1 (P2)",
+      "2C: Active cell layers, from Vicsek to epithelia"
     ]
   },
   {
-    "objectID": "A_walkers/P1_brownian.html#what-the-project-should-contain",
-    "href": "A_walkers/P1_brownian.html#what-the-project-should-contain",
-    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "objectID": "electives/2C_active_layers.html#what-the-project-should-contain",
+    "href": "electives/2C_active_layers.html#what-the-project-should-contain",
+    "title": "2C: Active cell layers, from Vicsek to epithelia",
     "section": "What the project should contain",
-    "text": "What the project should contain\n\n1. Measurement\n\nTrack the beads in your 5 min movie: locate, link, filter out short tracks and stuck particles, and subtract drift.\nPlot the ensemble MSD \\(\\langle \\Delta x^2 + \\Delta y^2\\rangle\\) against lag time on linear axes and fit a straight line. Explain what the slope and the intercept mean.\nFrom the slope get \\(D\\). Then use the Einstein relation with Stokes drag, \\(D = k_BT/(6\\pi\\eta r)\\), to get \\(k_B\\), with an uncertainty.\n\n\n\n2. Three checks that the result is right\nGetting trackpy to give a number is easy, with or without an LLM. Showing that the number is right is the project. Include all three checks:\n\nSynthetic ground truth. Make a synthetic movie with known \\(D\\) and the same pixel size, frame rate, particle size and contrast as your data (use synthetic_brownian.py, or write your own and explain it). Run exactly your pipeline on it. Do you get back the \\(D\\) you put in? If not, your pipeline is wrong on the real data too.\nPhysical expectation. Before you trust a fit, calculate the \\(D\\) you expect from the nominal bead size, the viscosity of water at the lab temperature and the known \\(k_B\\). Is your measured value close? If not, why?\nSensitivity. Show how \\(D\\) changes when you vary the key parameters: minmass, search_range, the minimum track length and the range of lag times in the fit. Argue why your chosen values are defensible.\n\n\n\n3. Model comparison\nCompare with a random-walk simulation (for example randomwalk_exercise.py). What step length and time step must the random walk have to match your experiment? Why does the mass of the bead not appear in the result?\n\n\n4. Physics and biology\n\nShow that the beads are at low Reynolds number and that inertia is irrelevant on the time scale of your frames.\nDiscuss one biological consequence of diffusion, for example how long it takes a protein to cross a cell, or the oxygen supply limit for a bacterium.",
+    "text": "What the project should contain\n\n1. The flocking transition\n\nRun the Vicsek model for a grid of noise amplitudes \\(\\eta\\) and densities \\(\\rho = Nr^2/L^2\\). Plot the polar order parameter \\(\\varphi = \\left|\\frac1N\\sum_j e^{i\\theta_j}\\right|\\) in the steady state against \\(\\eta\\) for each density.\nHow do you know the simulation has reached a steady state? How large are the fluctuations of \\(\\varphi\\)?\nFinite-size check. For fully random orientations, \\(\\varphi\\) is not zero but of order \\(1/\\sqrt N\\). Show this, and use it to decide when a measured \\(\\varphi\\) means order.\n\n\n\n2. Cell shape and orientation in the monolayer\n\nSegment the cells with the notebook. Check the segmentation by eye on a part of the image, and estimate how often it splits or merges cells.\nFor each cell, compute the area, the aspect ratio and the orientation of the long axis from the second moments of its shape. Cell orientation is a nematic quantity: a cell pointing at \\(\\theta\\) is the same as one pointing at \\(\\theta + \\pi\\).\nPlot the distributions of area and aspect ratio, and how they change with cell density.\n\n\n\n3. Is there nematic order?\n\nDefine the nematic order parameter in a window of radius \\(R\\), \\(S(R) = \\left|\\langle e^{2i\\theta_j}\\rangle_{j\\in R}\\right|\\), averaged over many windows, and plot it against \\(R\\).\nNull model. Keep the positions and shapes of the cells, but shuffle the orientations randomly between cells. Repeat many times to get the distribution of \\(S(R)\\) for a layer with no correlations. With \\(n\\) cells in a window, a random layer gives \\(S\\approx\\sqrt{\\pi/(4n)}\\). Is the measured \\(S(R)\\) outside the null distribution? At which \\(R\\)?\nTest on known data. Before you trust part 3 on cells, apply exactly the same analysis to a Vicsek simulation (use \\(e^{2i\\theta}\\) of the particle directions) at low and at high noise. The method must find order where there is order, and none where there is none.\n\n\n\n4. Discussion\nWhat does your result say about whether an epithelial layer behaves like a Vicsek flock? What would you need to measure to tell them apart: polar or nematic order, motion or shape?",
     "crumbs": [
-      "Lab and project",
-      "P1: Measuring Boltzmann's constant with a microscope"
+      "Round 1 (P2)",
+      "2C: Active cell layers, from Vicsek to epithelia"
     ]
   },
   {
-    "objectID": "A_walkers/P1_brownian.html#working-with-an-llm-on-this-project",
-    "href": "A_walkers/P1_brownian.html#working-with-an-llm-on-this-project",
-    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "objectID": "electives/2C_active_layers.html#working-with-an-llm-on-this-project",
+    "href": "electives/2C_active_layers.html#working-with-an-llm-on-this-project",
+    "title": "2C: Active cell layers, from Vicsek to epithelia",
     "section": "Working with an LLM on this project",
-    "text": "Working with an LLM on this project\nMany students have struggled to get reasonable results from trackpy. You are now expected to use an LLM to help you through that: to set up Python, to write and debug the pipeline, and to understand what the parameters do. Read Working with LLMs first. Three habits make the difference:\n\nGive it the physics. Tell the LLM the pixel size, frame rate, bead size and expected \\(D\\). Then it can help you choose diameter and search_range sensibly, instead of guessing.\nAsk it to explain, not only to write. For every function call in your pipeline you should be able to say what it does and why that parameter value. You will be asked in the defense.\nTest, don’t trust. The synthetic movie is the test. An LLM can produce code that runs without errors and still gives a \\(D\\) that is wrong by a factor of two.",
+    "text": "Working with an LLM on this project\nImage analysis invites a lot of LLM-written code, and it is easy to get impressive-looking orientation maps. Insist on the null model: every statistic you report must be compared with what the same analysis gives for random data. An LLM will rarely suggest that on its own.",
     "crumbs": [
-      "Lab and project",
-      "P1: Measuring Boltzmann's constant with a microscope"
+      "Round 1 (P2)",
+      "2C: Active cell layers, from Vicsek to epithelia"
     ]
   },
   {
-    "objectID": "A_walkers/P1_brownian.html#sec-defense",
-    "href": "A_walkers/P1_brownian.html#sec-defense",
-    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "objectID": "electives/2C_active_layers.html#the-oral-defense",
+    "href": "electives/2C_active_layers.html#the-oral-defense",
+    "title": "2C: Active cell layers, from Vicsek to epithelia",
     "section": "The oral defense",
-    "text": "The oral defense\nAbout 15 min per student, in groups of 3–4 so that you hear each other’s questions. Bring your report on a laptop. Typical questions:\n\nDerive \\(\\langle x^2\\rangle = 2Dt\\) from the random walk, or from the diffusion equation.\nWhere does \\(\\xi D = k_BT\\) come from? What does the Langevin equation assume?\nWhat does search_range do? What happens to \\(D\\) if it is too small? Too large?\nYour MSD fit has an intercept. What does it mean physically?\nWhich check convinced you most that your result is right? What did the LLM get wrong?\nIf you repeated the experiment with beads twice as large in glycerol–water, what would change?\n\nThe defense is passed when you can explain your own result and the physics behind it. “The LLM wrote that part” is not an answer to “what does this line do?”. If the defense is not passed, you get one new attempt.",
+    "text": "The oral defense\nAbout 15 min per student. Typical questions:\n\nExplain the Vicsek model. What are the control parameters, and what is the order parameter?\nWhy is the order parameter of a random system not zero? How does it scale with the number of particles?\nWhat is the difference between polar and nematic order? Which one is right for cell shapes, and why?\nExplain your null model. What does it keep, and what does it destroy?\nWhat does a quantitative phase image measure, and how is that turned into a cell outline?\nWhat did the LLM get wrong?",
     "crumbs": [
-      "Lab and project",
-      "P1: Measuring Boltzmann's constant with a microscope"
+      "Round 1 (P2)",
+      "2C: Active cell layers, from Vicsek to epithelia"
+    ]
+  },
+  {
+    "objectID": "electives/2A_freezing.html",
+    "href": "electives/2A_freezing.html",
+    "title": "2A: Freezing cells, the physics of cryopreservation",
+    "section": "",
+    "text": "Almost every life-science lab keeps cells in liquid nitrogen at −196 °C, and thaws them again to use them. Many cells do not survive. When ice forms inside a cell, it is almost always fatal. The standard way to avoid that is to cool slowly, so that ice forms outside first and pulls water out of the cell by osmosis. But a cell that loses too much water sits for a long time in concentrated salt, which also kills it. Your question is:\n\nWhy is there an optimal cooling rate for freezing cells, and what sets it?\n\nThe physics is from Block B: the chemical potential of water and ice, osmosis, freezing point depression and water permeation through the membrane (Processes at membranes, E8). Background reading: A. Fowler and M. Toner, Cryo-injury and biopreservation, Ann. N.Y. Acad. Sci. (2006), and P. Mazur, Kinetics of water loss from cells at subzero temperatures, J. Gen. Physiol. (1963).\n\n\n\nA cell in saline. Water can cross the membrane, ions cannot. If the outside is more concentrated, water leaves and the cell shrinks; if the inside is, the cell swells and may burst.",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2A: Freezing cells, the physics of cryopreservation"
+    ]
+  },
+  {
+    "objectID": "electives/2A_freezing.html#the-question",
+    "href": "electives/2A_freezing.html#the-question",
+    "title": "2A: Freezing cells, the physics of cryopreservation",
+    "section": "",
+    "text": "Almost every life-science lab keeps cells in liquid nitrogen at −196 °C, and thaws them again to use them. Many cells do not survive. When ice forms inside a cell, it is almost always fatal. The standard way to avoid that is to cool slowly, so that ice forms outside first and pulls water out of the cell by osmosis. But a cell that loses too much water sits for a long time in concentrated salt, which also kills it. Your question is:\n\nWhy is there an optimal cooling rate for freezing cells, and what sets it?\n\nThe physics is from Block B: the chemical potential of water and ice, osmosis, freezing point depression and water permeation through the membrane (Processes at membranes, E8). Background reading: A. Fowler and M. Toner, Cryo-injury and biopreservation, Ann. N.Y. Acad. Sci. (2006), and P. Mazur, Kinetics of water loss from cells at subzero temperatures, J. Gen. Physiol. (1963).\n\n\n\nA cell in saline. Water can cross the membrane, ions cannot. If the outside is more concentrated, water leaves and the cell shrinks; if the inside is, the cell swells and may burst.",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2A: Freezing cells, the physics of cryopreservation"
+    ]
+  },
+  {
+    "objectID": "electives/2A_freezing.html#milestones",
+    "href": "electives/2A_freezing.html#milestones",
+    "title": "2A: Freezing cells, the physics of cryopreservation",
+    "section": "Milestones",
+    "text": "Milestones\n\n\n\n\n\n\n\n\n\nWhen\nWhat you show\n\n\n\n\nM1\nTue 30 Mar (W13)\nThe equilibrium theory: water–ice chemical potential, the equilibrium cell volume against temperature, and your model equations written down\n\n\nM2\nTue 13 Apr (W15)\nValidated core figure: cell volume and intracellular supercooling against temperature for a range of cooling rates, with the slow and fast limits checked against the analytical results\n\n\nM3\nSun 25 Apr\nReport and LLM log on Canvas\n\n\nM4\nTue 27 Apr (W17)\nOral defense",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2A: Freezing cells, the physics of cryopreservation"
+    ]
+  },
+  {
+    "objectID": "electives/2A_freezing.html#what-the-project-should-contain",
+    "href": "electives/2A_freezing.html#what-the-project-should-contain",
+    "title": "2A: Freezing cells, the physics of cryopreservation",
+    "section": "What the project should contain",
+    "text": "What the project should contain\n\n1. Equilibrium: how much water does ice pull out?\n\nUse the Gibbs free energy of water and ice to show that below the melting point \\(T_m\\) their chemical potentials differ by \\(\\Delta\\mu\\approx -\\Delta h_m\\,\\Delta T/T_m\\) per molecule, where \\(\\Delta h_m\\) is the latent heat of melting per molecule and \\(\\Delta T = T - T_m &lt; 0\\).\nUse the Gibbs–Duhem relation to find the solute concentration of a liquid in equilibrium with ice at temperature \\(T\\), the freezing point depression. What is the freezing point of a cell at physiological osmolarity (300 mM)?\nCombine with the Boyle–van ’t Hoff relation (E8) to get the equilibrium cell volume against temperature down to −40 °C. Where does the dilute-solution theory stop being trustworthy?\n\n\n\n2. Kinetics: how fast can water leave?\nWater leaves through the membrane with a volume flux proportional to the osmotic imbalance. For a cell of area \\(A\\) and water volume \\(W\\),\n\\[\n\\frac{dW}{dt} = -A\\,P_f\\,v_w\\left[c_\\text{out}(T) - c_\\text{in}(W)\\right],\n\\]\nwhere \\(P_f\\) is the osmotic water permeability, \\(v_w\\) the molar volume of water, \\(c_\\text{out}(T)\\) the concentration of the unfrozen solution outside (set by the ice) and \\(c_\\text{in}\\) the concentration inside. \\(P_f\\) falls steeply with temperature, typically with an Arrhenius law with an activation energy of tens of kJ/mol.\n\nDerive the time constant for the cell to adjust its volume. For a cell of radius 10 µm, what is it at room temperature and at −10 °C?\nSolve the equation for cooling at a constant rate \\(B\\) (from 0.1 to 1000 K/min) and plot the cell volume against temperature.\nThe intracellular solution is supercooled by the difference between its own freezing point and \\(T\\). Plot the supercooling against temperature for each rate.\n\nChoose parameter values for one real cell type (for example a mouse oocyte, a red blood cell or a stem cell) from the literature. Give your sources, and say which numbers you are least sure of.\n\n\n3. Validation\n\nSlow limit. For \\(B\\to0\\) the volume must follow the equilibrium curve from part 1. Show that it does.\nFast limit. For \\(B\\to\\infty\\) the cell has no time to lose water. Its volume must stay at the initial value, and the supercooling must equal the full \\(T_m - T\\) minus the freezing point depression.\nNumerics. Show that your result does not change when you halve the time step or tighten the solver tolerance.\n\n\n\n4. The optimal cooling rate\nUse your results to explain the “two-factor hypothesis”: slow cooling kills by long exposure to concentrated solution, fast cooling by intracellular ice. Define a criterion for each kind of damage (for example, a maximum tolerated supercooling and a maximum time above a given concentration), and find the cooling rate between them. How does the optimum depend on cell size and on \\(P_f\\)? Compare with cooling rates used in practice (about 1 K/min for many mammalian cells).\n\n\nPossible wet-lab addition (Tue 13 Apr, to be confirmed)\nMeasure the volume of cells in solutions of different osmolarity in the microscope, and make a Boyle–van ’t Hoff plot to find the osmotically inactive volume of your cells. Use it in your model.",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2A: Freezing cells, the physics of cryopreservation"
+    ]
+  },
+  {
+    "objectID": "electives/2A_freezing.html#working-with-an-llm-on-this-project",
+    "href": "electives/2A_freezing.html#working-with-an-llm-on-this-project",
+    "title": "2A: Freezing cells, the physics of cryopreservation",
+    "section": "Working with an LLM on this project",
+    "text": "Working with an LLM on this project\nAn LLM can write the ODE solver in minutes. It will also confidently give you parameter values, and some of them will be wrong or for the wrong cell type. Use it to understand and to code, then check every parameter against a source you have opened yourself. The analytical limits in part 3 are your test that the code is right.",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2A: Freezing cells, the physics of cryopreservation"
+    ]
+  },
+  {
+    "objectID": "electives/2A_freezing.html#the-oral-defense",
+    "href": "electives/2A_freezing.html#the-oral-defense",
+    "title": "2A: Freezing cells, the physics of cryopreservation",
+    "section": "The oral defense",
+    "text": "The oral defense\nAbout 15 min per student. Typical questions:\n\nWhy is the chemical potential of water, and not its concentration, what decides whether water leaves the cell?\nDerive the freezing point depression. Why does a 150 mM NaCl solution freeze at about −0.56 °C?\nWhy does the time constant of water loss scale with the cell radius?\nWhat happens to the optimal cooling rate for a cell twice as large? With a membrane twice as permeable?\nWhich of your parameters affects the result most, and how do you know?\nWhat did the LLM get wrong?",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2A: Freezing cells, the physics of cryopreservation"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membranes.html",
+    "href": "B_entropy/membranes.html",
+    "title": "Processes at membranes",
+    "section": "",
+    "text": "Throughout, \\(\\Delta X = X_\\text{in} - X_\\text{out}\\) is the difference across a membrane (inside minus outside), and concentrations \\(c\\) are number densities unless they are given in mM. With molar concentrations, replace \\(k_B\\) by the gas constant \\(R = N_Ak_B\\).",
+    "crumbs": [
+      "Notes",
+      "Processes at membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membranes.html#sec-osmosis",
+    "href": "B_entropy/membranes.html#sec-osmosis",
+    "title": "Processes at membranes",
+    "section": "Osmosis",
+    "text": "Osmosis\n\n\n\nA box divided by a semipermeable membrane. The black (solvent) particles can cross it; the red (solute) particles are confined to the left.\n\n\nA box of fixed volume is divided in two by a membrane that only the solvent (black) can cross. The red solute particles are stuck on the left, and they are few: \\(N_2\\ll N_1\\). In a cell, the black particles are water and the red ones are ions, sugars and proteins.\n\nWhat happens? How do the water molecules distribute between left and right?\nIf the solution is dilute, the solute particles hardly interact with each other. They move around in the water like the molecules of an ideal gas move around in empty space.\nSo the solute exerts its own “ideal gas” pressure on the membrane, which it cannot cross. The water does not care: it can move freely across.\n\nThe extra pressure on the side with solute is then\n\\[\n\\Delta P = c_2 k_BT, \\qquad c_2 = \\frac{N_2}{V_L}.\n\\]\nCan such a simple argument be right? Section 3 shows that it is, for dilute solutions, from a general thermodynamic argument.\n\nThe van ’t Hoff relation\n\\[\n\\Delta P = k_BT\\sum_i \\phi_i\\, \\Delta c_i \\qquad\\text{or, in molar units,}\\qquad \\Delta P = RT\\sum_i \\phi_i\\,\\Delta c_i ,\n\\tag{1}\\]\nwhere \\(\\phi_i\\) is the number of independently moving particles that one molecule of solute \\(i\\) gives in solution. It is the number of “ideal gas” particles that counts, not their size or chemistry:\n\nNaCl → Na⁺ + Cl⁻: \\(\\phi=2\\)\nglucose → glucose: \\(\\phi = 1\\)\ncarboxylic acid → dimers: \\(\\phi = 1/2\\)\n\n\n\n\nTwo carboxylic acid molecules bind with two hydrogen bonds and move as one particle.\n\n\n\n\nNumbers\n\n\n\nPhysiological saline: 9 g NaCl per litre.\n\n\nPhysiological saline contains 9 g NaCl per litre. With the molar mass \\(23 + 35.5 = 58.5\\) g/mol this is \\(c = 0.15\\) mol/L \\(= 150\\) mol/m³. If a cell with this salt content were put in pure water and could not swell, the pressure would be\n\\[\n\\Delta P = 2cRT = 2\\cdot 150\\cdot 8.3\\cdot 300\\ \\text{Pa} \\approx 7.5\\times10^5\\ \\text{Pa} = 7.5\\ \\text{bar},\n\\]\nmore than in the tyres of a racing bike. A cell membrane withstands a few kPa at most. This is why cells burst in pure water.",
+    "crumbs": [
+      "Notes",
+      "Processes at membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membranes.html#chemical-potential-and-the-gibbsduhem-relation",
+    "href": "B_entropy/membranes.html#chemical-potential-and-the-gibbsduhem-relation",
+    "title": "Processes at membranes",
+    "section": "Chemical potential and the Gibbs–Duhem relation",
+    "text": "Chemical potential and the Gibbs–Duhem relation\nEquilibrium with respect to particle exchange is equality of chemical potential, not of concentration. At fixed \\(T\\) and \\(P\\), the relevant definition is\n\\[\n\\mu_i = \\left(\\frac{\\partial G}{\\partial N_i}\\right)_{T,P,N_{j\\neq i}} .\n\\]\nAdding particles at fixed \\(T\\), \\(P\\) and composition does not change any \\(\\mu_i\\), and each added particle of type \\(i\\) increases \\(G\\) by \\(\\mu_i\\). Since \\(G\\) is extensive,\n\\[\nG = \\sum_i N_i\\mu_i .\n\\]\nThe total differential of this expression is \\(dG = \\sum_i\\mu_i\\, dN_i + \\sum_i N_i\\, d\\mu_i\\). Comparing with the thermodynamic identity \\(dG = -S\\,dT + V\\,dP + \\sum_i\\mu_i\\, dN_i\\) gives the Gibbs–Duhem relation:\n\\[\n\\sum_i N_i\\, d\\mu_i = -S\\,dT + V\\,dP \\qquad\\Rightarrow\\qquad \\sum_i c_i\\, d\\mu_i = dP \\quad (T \\text{ constant}).\n\\tag{2}\\]\nThe chemical potentials of the components cannot all change independently: with \\(I\\) components only \\(I-1\\) of them are independent.\nIdeal (dilute) solutions have no volume change and no heat of mixing, and\n\\[\n\\mu_i = \\mu_i^0(P,T) + k_BT\\ln c_i\n\\]\n(see Entropy and entropic forces). External fields add the potential energy of each particle, \\(\\mu_\\text{tot} = \\mu_\\text{int} + U_\\text{ext}\\). For an ion with charge \\(q = ze\\) in an electric potential \\(\\mathcal V\\), \\(U_\\text{ext} = q\\mathcal V\\).",
+    "crumbs": [
+      "Notes",
+      "Processes at membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membranes.html#sec-osmotic-flow",
+    "href": "B_entropy/membranes.html#sec-osmotic-flow",
+    "title": "Processes at membranes",
+    "section": "Osmotic flow",
+    "text": "Osmotic flow\nThe argument at the start only gave the pressure in equilibrium. How do the flux of water and the pressure develop in time, if the two sides start at the same pressure?\n\nLinear irreversible thermodynamics\nClose to equilibrium, fluxes are linear in the thermodynamic driving forces, the gradients of chemical potential and temperature:\n\\[\n\\begin{aligned}\nJ_1 &= -l_{11}\\nabla\\mu_1 - l_{12}\\nabla\\mu_2 - l_{1q}\\nabla T\\\\\nJ_2 &= -l_{21}\\nabla\\mu_1 - l_{22}\\nabla\\mu_2 - l_{2q}\\nabla T\\\\\nJ_q &= -l_{q1}\\nabla\\mu_1 - l_{q2}\\nabla\\mu_2 - l_{qq}\\nabla T\n\\end{aligned}\n\\]\nThe \\(l_{ij}\\) are the linear transport coefficients. Comparing \\(J_1 = -l_{11}(\\partial\\mu_1/\\partial c_1)\\nabla c_1\\) with Fick’s law \\(J_1 = -D_1\\nabla c_1\\) gives \\(l_{11} = D_1/(\\partial\\mu_1/\\partial c_1)\\), which for an ideal solution is \\(l_{11} = D_1c_1/k_BT\\). The off-diagonal coefficients describe species that drag each other along. Onsager showed that the matrix is symmetric, \\(l_{ij} = l_{ji}\\).\n\n\nOsmotic flux and pressure in general\nAcross a membrane we use differences instead of gradients. Let species 1 be water and species 2 the solute, at constant \\(T\\), and let \\(J_1\\) be the flux of water into the cell:\n\\[\nJ_1 = -l_{11}\\,\\Delta\\mu_1 - l_{12}\\,\\Delta\\mu_2, \\qquad J_2 = -l_{21}\\,\\Delta\\mu_1 - l_{22}\\,\\Delta\\mu_2 .\n\\]\nThe solute cannot cross, so \\(J_2 = 0\\) for any forces: \\(l_{21} = l_{22} = 0\\), and by Onsager symmetry \\(l_{12} = 0\\) as well. So only the chemical potential of water matters for the flow of water:\n\\[\nJ_1 = -l_{11}\\,\\Delta\\mu_1 .\n\\]\nTo relate \\(\\Delta\\mu_1\\) to the solute, use the Gibbs–Duhem relation Eq. 2, \\(c_1\\Delta\\mu_1 + c_2\\Delta\\mu_2 = \\Delta P\\):\n\\[\nJ_1 = -\\frac{l_{11}}{c_1}\\left(\\Delta P - c_2\\,\\Delta\\mu_2\\right).\n\\]\nThis holds for any solution. For an ideal solution, \\(\\Delta\\mu_2 = k_BT\\,\\Delta\\ln c_2 \\approx k_BT\\,\\Delta c_2/c_2\\), so\n\\[\nJ_1 = -\\frac{l_{11}}{c_1}\\big(\\Delta P - k_BT\\,\\Delta c_2\\big).\n\\tag{3}\\]\nWater flows into the side with more solute until the pressure there has risen to \\(\\Delta P = k_BT\\,\\Delta c_2\\): the van ’t Hoff relation, now derived without any picture of solute particles hitting a wall. Eq. 3 also says how fast: the volume flux is proportional to \\(k_BT\\Delta c_2 - \\Delta P\\), with a coefficient (the filtration coefficient \\(L_p\\)) set by how easily water gets through the membrane.",
+    "crumbs": [
+      "Notes",
+      "Processes at membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membranes.html#charges-and-screening",
+    "href": "B_entropy/membranes.html#charges-and-screening",
+    "title": "Processes at membranes",
+    "section": "Charges and screening",
+    "text": "Charges and screening\n\n\n\nCharges inside a closed surface and the electric field through it.\n\n\nGauss’s law and the definition of the potential, \\(\\vec E = -\\nabla\\mathcal V\\), give Poisson’s equation:\n\\[\n\\nabla\\cdot\\vec E = \\frac{\\rho}{\\varepsilon}, \\qquad \\nabla^2\\mathcal V = -\\frac{\\rho}{\\varepsilon},\n\\]\nwhere \\(\\rho\\) is the charge density and \\(\\varepsilon = \\varepsilon_r\\varepsilon_0\\) the permittivity. Oils and solids have \\(\\varepsilon_r\\sim 2\\)–10; water has \\(\\varepsilon_r\\approx 80\\), because its molecules are strongly polar and turn to oppose an applied field.\nOne charge. The flux of \\(\\vec E\\) through any sphere around a point charge \\(q\\) is \\(q/\\varepsilon\\), so\n\\[\n\\vec E(r) = \\frac{q}{4\\pi\\varepsilon r^2}\\hat r, \\qquad \\mathcal V(r) = \\frac{q}{4\\pi\\varepsilon r}, \\qquad \\vec F = \\frac{q_1q_2}{4\\pi\\varepsilon r^2}\\hat r .\n\\tag{4}\\]\nA natural length scale is the Bjerrum length \\(\\lambda_B = e^2/(4\\pi\\varepsilon k_BT)\\), the distance at which two unit charges interact with energy \\(k_BT\\). In water at room temperature \\(\\lambda_B\\approx 0.7\\) nm; in oil it is 40 times longer. This is why salts dissolve in water but not in oil, and why ions cannot cross a lipid membrane without help.\n\nDebye screening\nIn salt water the other ions move until they screen a charge, while thermal motion spreads them out. The Boltzmann distribution gives the concentration of ion species \\(i\\) (valence \\(z_i\\)) in a potential \\(\\mathcal V(\\vec r)\\) that vanishes far away:\n\\[\nc_i(\\vec r) = c_i^\\infty\\, e^{-z_ie\\mathcal V(\\vec r)/k_BT}.\n\\]\nThe charge density \\(\\rho = \\sum_i z_ie\\,c_i\\) in Poisson’s equation then gives the Poisson–Boltzmann equation,\n\\[\n\\nabla^2\\mathcal V = -\\frac{e}{\\varepsilon}\\sum_i z_ic_i^\\infty\\, e^{-z_ie\\mathcal V/k_BT}.\n\\]\nWhere \\(e\\mathcal V\\ll k_BT\\) we can expand \\(e^{-x}\\approx 1-x\\). The zeroth-order term vanishes because the bulk is neutral, \\(\\sum_iz_ic_i^\\infty = 0\\), and we get the linear Debye–Hückel equation\n\\[\n\\nabla^2\\mathcal V = \\frac{\\mathcal V}{\\lambda_D^2}, \\qquad\n\\lambda_D = \\left(\\frac{\\varepsilon k_BT}{e^2\\sum_i z_i^2c_i^\\infty}\\right)^{1/2} = \\left(4\\pi\\lambda_B\\sum_iz_i^2c_i^\\infty\\right)^{-1/2}.\n\\tag{5}\\]\n\n\n\nThe potential around a point charge in salt water decays exponentially, over the Debye length.\n\n\nAround a point charge the solution is \\(\\mathcal V(r) = \\dfrac{q}{4\\pi\\varepsilon r}e^{-r/\\lambda_D}\\), and near a flat charged surface \\(\\mathcal V(x) = \\mathcal V_0\\, e^{-x/\\lambda_D}\\). Electrostatic interactions in the cell are short-ranged: in physiological saline (150 mM NaCl) \\(\\lambda_D\\approx 0.8\\) nm, comparable to the size of a small molecule.",
+    "crumbs": [
+      "Notes",
+      "Processes at membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membranes.html#sec-nernst",
+    "href": "B_entropy/membranes.html#sec-nernst",
+    "title": "Processes at membranes",
+    "section": "Charges at membranes: the Nernst potential",
+    "text": "Charges at membranes: the Nernst potential\n\n\n\n\n\n\n\n\n\n\nConsider an electrolyte between two electrodes with a potential difference. How do the ions distribute, and what does the field look like? In the bulk the field is screened; it is only non-zero in charged layers of thickness \\(\\lambda_D\\) at the walls.\nUse the chemical potential of an ion of charge \\(q = ze\\):\n\\[\n\\mu_\\text{tot} = \\mu_0 + k_BT\\ln\\frac{c}{c_0} + q\\mathcal V .\n\\]\nIn equilibrium \\(d\\mu_\\text{tot}/dx = 0\\):\n\\[\nk_BT\\,\\frac{d\\ln c}{dx} = -q\\,\\frac{d\\mathcal V}{dx}\n\\quad\\Rightarrow\\quad k_BT\\ln\\frac{c_\\text{in}}{c_\\text{out}} = -q\\left(\\mathcal V_\\text{in} - \\mathcal V_\\text{out}\\right).\n\\]\nThe potential difference that balances a concentration difference of a permeant ion is the Nernst potential:\n\\[\n\\Delta\\mathcal V = \\mathcal V^\\text{Nernst} = -\\frac{k_BT}{ze}\\ln\\frac{c_\\text{in}}{c_\\text{out}} .\n\\tag{6}\\]\nThe thermal voltage is \\(k_BT/e\\approx 25\\) mV at room temperature, so a factor 10 in concentration gives about 60 mV.\n\n\n\nA salt solution on both sides of a membrane.\n\n\nWhat happens if no ions can cross the membrane? If only one species can? If both can?\nExample: only Na⁺ permeates. Far from the membrane each side is neutral, with equal Na⁺ and Cl⁻ concentrations. Sodium diffuses from high to low concentration. Each ion that crosses carries charge, and a potential difference builds up until it equals the Nernst potential of sodium. Only a tiny number of ions has to cross for this. The excess charges sit in thin layers on each side of the membrane, and chloride rearranges to screen them, within a Debye length.\n\n\n\nConcentrations and potential across a membrane that only Na⁺ can cross. The potential drop \\(\\Delta\\mathcal V^\\text{Nernst}\\) sits across the membrane; the charged layers have thickness \\(\\lambda_D\\).",
+    "crumbs": [
+      "Notes",
+      "Processes at membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membranes.html#sec-donnan",
+    "href": "B_entropy/membranes.html#sec-donnan",
+    "title": "Processes at membranes",
+    "section": "Donnan equilibrium",
+    "text": "Donnan equilibrium\nA cell contains negatively charged macromolecules, mostly proteins, that cannot cross the membrane. The small ions Na⁺, K⁺ and Cl⁻ can.\n\n\n\nA cell with trapped macroions (charge density \\(\\rho_m\\)). Outside: \\(c_{\\text{Na},1}\\) = 140 mM, \\(c_{\\text{K},1}\\) = 10 mM, \\(c_{\\text{Cl},1}\\) = 150 mM; \\(\\rho_m/e\\) = −125 mM.\n\n\nIn equilibrium every permeant ion obeys Eq. 6 with the same \\(\\Delta\\mathcal V\\). With 1 for outside and 2 for inside:\n\\[\n\\frac{e\\,\\Delta\\mathcal V}{k_BT} = -\\ln\\frac{c_{\\text{Na},2}}{c_{\\text{Na},1}} = -\\ln\\frac{c_{\\text{K},2}}{c_{\\text{K},1}} = \\ln\\frac{c_{\\text{Cl},2}}{c_{\\text{Cl},1}},\n\\]\nor, exponentiated, the Donnan relation\n\\[\n\\frac{c_{\\text{Na},2}}{c_{\\text{Na},1}} = \\frac{c_{\\text{K},2}}{c_{\\text{K},1}} = \\frac{c_{\\text{Cl},1}}{c_{\\text{Cl},2}} \\equiv r .\n\\]\nTogether with neutrality inside the cell,\n\\[\nc_{\\text{Na},2} + c_{\\text{K},2} - c_{\\text{Cl},2} + \\frac{\\rho_m}{e} = 0 ,\n\\]\nthis gives three equations for the three unknown concentrations: \\(150r - 150/r - 125 = 0\\), so \\(r = 1.5\\) and\n\\[\nc_{\\text{Na},2} = 210\\ \\text{mM},\\quad c_{\\text{K},2} = 15\\ \\text{mM},\\quad c_{\\text{Cl},2} = 100\\ \\text{mM},\\qquad \\Delta\\mathcal V = -\\frac{k_BT}{e}\\ln 1.5 \\approx -10\\ \\text{mV}.\n\\]\nTrapped macroions alone create a resting potential. But there is a problem. The macroions are few (each carries many charges), so the inside has \\(210 + 15 + 100 = 325\\) mM of osmotically active particles against 300 mM outside. The resulting osmotic pressure is\n\\[\n\\Delta P = RT\\,\\Delta c = 8.3\\cdot 310\\cdot 25\\ \\text{Pa} \\approx 6.4\\times10^4\\ \\text{Pa}\n\\]\n(25 mM = 25 mol/m³), about 0.6 bar. A cell without a cell wall would burst. Plants and bacteria have rigid walls and live with this “turgor” pressure. Animal cells instead pump ions, as described in Membrane potentials and ion pumps.",
+    "crumbs": [
+      "Notes",
+      "Processes at membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/index.html",
+    "href": "B_entropy/index.html",
+    "title": "B: Entropy, ions and membranes",
+    "section": "",
+    "text": "Why does a cell burst in pure water? How can entropy create forces and order? Why is there a voltage across every cell membrane, and why does it cost the cell so much energy to keep it? We build up from multiplicity and the Boltzmann distribution to free energy, entropic forces, osmosis, the Nernst potential, Donnan equilibrium and ion pumps.",
+    "crumbs": [
+      "B: Entropy, ions and membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/index.html#reading",
+    "href": "B_entropy/index.html#reading",
+    "title": "B: Entropy, ions and membranes",
+    "section": "Reading",
+    "text": "Reading\n\nNelson, chapters 6–7 and sections 11.1–11.2\nEntropy, free energy and entropic forces (lecture notes)\nProcesses at membranes: osmosis, osmotic flow, screening, Nernst and Donnan (lecture notes)\nMembrane potentials and ion pumps (lecture notes)\nBackground, not curriculum: J. Liphardt et al., Reversible unfolding of single RNA molecules by mechanical force (2001), a two-state system measured one molecule at a time",
+    "crumbs": [
+      "B: Entropy, ions and membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/index.html#project-2-choose-one-elective",
+    "href": "B_entropy/index.html#project-2-choose-one-elective",
+    "title": "B: Entropy, ions and membranes",
+    "section": "Project 2: choose one elective",
+    "text": "Project 2: choose one elective\nChoose by Sunday 14 March. Kick-off Tuesday 16 March, report due Sunday 25 April, defense Tuesday 27 April.\n\n2A Freezing cells: the physics of cryopreservation\n2B Nerve signals: from Nernst to Hodgkin–Huxley\n2C Active cell layers: from Vicsek to epithelia",
+    "crumbs": [
+      "B: Entropy, ions and membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/index.html#weekly-exercises",
+    "href": "B_entropy/index.html#weekly-exercises",
+    "title": "B: Entropy, ions and membranes",
+    "section": "Weekly exercises",
+    "text": "Weekly exercises\n\n\n\n\nTopic\nDue\n\n\n\n\nE6\nFree energy, equilibration, the polymer as an entropic spring\nWed 17 Mar\n\n\nE7\nOsmotic pressure, oedema, depletion forces\nWed 24 Mar\n\n\nE8\nCell volume, Debye screening, membrane capacitance, Born energy\nWed 7 Apr\n\n\nE9\nDonnan equilibrium in Python, the pump–leak steady state\nWed 14 Apr\n\n\nE10\nRecap in oral-exam style\nWed 21 Apr",
+    "crumbs": [
+      "B: Entropy, ions and membranes"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E8_cell_volume_debye.html",
+    "href": "B_entropy/exercises/E8_cell_volume_debye.html",
+    "title": "E8: Cell volume, screening and why ions need channels",
+    "section": "",
+    "text": "About 2 hours. Theory: Processes at membranes. Use \\(k_BT\\) at 310 K, \\(\\varepsilon_0 = 8.85\\times10^{-12}\\) F/m.",
+    "crumbs": [
+      "Weekly exercises",
+      "E8: Cell volume, screening and why ions need channels"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E8_cell_volume_debye.html#cell-volume-in-a-hypertonic-solution",
+    "href": "B_entropy/exercises/E8_cell_volume_debye.html#cell-volume-in-a-hypertonic-solution",
+    "title": "E8: Cell volume, screening and why ions need channels",
+    "section": "1. Cell volume in a hypertonic solution",
+    "text": "1. Cell volume in a hypertonic solution\nA cell has volume \\(V_0\\) in a solution of osmolarity \\(c_0 = 300\\) mM. A part \\(V_b\\) of its volume (proteins, membranes, organelles) does not take part in osmosis. The rest holds a fixed amount of solute that cannot cross the membrane, while water can.\n\nThe cell is moved to a solution of osmolarity \\(c\\). Show that in equilibrium \\[V = V_b + (V_0 - V_b)\\,\\frac{c_0}{c}.\\] This is the Boyle–van ’t Hoff relation.\nA red blood cell has \\(V_0 = 90\\) fL and \\(V_b\\approx 0.4\\,V_0\\). What is its volume in a 600 mM solution? In a 150 mM solution? What is likely to happen in the second case?\nHow would you measure \\(V_b\\) in the lab? What should you plot to get a straight line?",
+    "crumbs": [
+      "Weekly exercises",
+      "E8: Cell volume, screening and why ions need channels"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E8_cell_volume_debye.html#how-far-do-electric-forces-reach-in-a-cell",
+    "href": "B_entropy/exercises/E8_cell_volume_debye.html#how-far-do-electric-forces-reach-in-a-cell",
+    "title": "E8: Cell volume, screening and why ions need channels",
+    "section": "2. How far do electric forces reach in a cell?",
+    "text": "2. How far do electric forces reach in a cell?\n\nCalculate the Bjerrum length \\(\\lambda_B = e^2/(4\\pi\\varepsilon k_BT)\\) in water (\\(\\varepsilon_r = 80\\)) and in the oily interior of a membrane (\\(\\varepsilon_r = 2\\)).\nCalculate the Debye length in 150 mM NaCl, in 1 mM NaCl and in pure water (H⁺ and OH⁻ at \\(10^{-7}\\) M each).\nWhat do the numbers mean for how proteins in the cytoplasm interact electrostatically?",
+    "crumbs": [
+      "Weekly exercises",
+      "E8: Cell volume, screening and why ions need channels"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E8_cell_volume_debye.html#how-many-ions-make-a-membrane-potential",
+    "href": "B_entropy/exercises/E8_cell_volume_debye.html#how-many-ions-make-a-membrane-potential",
+    "title": "E8: Cell volume, screening and why ions need channels",
+    "section": "3. How many ions make a membrane potential?",
+    "text": "3. How many ions make a membrane potential?\nA cell membrane is a capacitor: two conducting salt solutions separated by a 4 nm thick insulating layer with \\(\\varepsilon_r\\approx 2\\).\n\nCalculate the capacitance per area and compare it with the measured value, about 1 µF/cm².\nUsing 1 µF/cm², how many ions per µm² must be moved across the membrane to create a potential of −70 mV? How many is that for a spherical cell of radius 10 µm?\nCompare with the number of K⁺ ions in the cell (140 mM). Is it a good approximation to treat the inside of the cell as electrically neutral?",
+    "crumbs": [
+      "Weekly exercises",
+      "E8: Cell volume, screening and why ions need channels"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E8_cell_volume_debye.html#why-ions-do-not-cross-lipid-membranes",
+    "href": "B_entropy/exercises/E8_cell_volume_debye.html#why-ions-do-not-cross-lipid-membranes",
+    "title": "E8: Cell volume, screening and why ions need channels",
+    "section": "4. Why ions do not cross lipid membranes",
+    "text": "4. Why ions do not cross lipid membranes\nTo leave water and enter the membrane, an ion has to give up the polarization of the water around it. The electrostatic self-energy of a sphere of radius \\(r\\) and charge \\(q\\) in a medium of permittivity \\(\\varepsilon\\) is \\(E_\\text{self} = q^2/(8\\pi\\varepsilon r)\\) (the Born energy).\n\nCalculate the difference in self-energy for K⁺ (\\(r = 0.133\\) nm) in the membrane (\\(\\varepsilon_r = 2\\)) and in water (\\(\\varepsilon_r = 80\\)), in units of \\(k_BT\\).\nUse the Boltzmann distribution to estimate the ratio of K⁺ concentration inside the membrane to that in water (the partition coefficient). Compare with the partition coefficient of water in a lipid membrane, about \\(4\\times10^{-5}\\).",
+    "crumbs": [
+      "Weekly exercises",
+      "E8: Cell volume, screening and why ions need channels"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E6_free_energy.html",
+    "href": "B_entropy/exercises/E6_free_energy.html",
+    "title": "E6: Free energy and entropic springs",
+    "section": "",
+    "text": "About 2 hours. Theory: Entropy, free energy and entropic forces and Nelson chapter 6.",
+    "crumbs": [
+      "Weekly exercises",
+      "E6: Free energy and entropic springs"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E6_free_energy.html#the-ideal-gas-law-from-the-free-energy",
+    "href": "B_entropy/exercises/E6_free_energy.html#the-ideal-gas-law-from-the-free-energy",
+    "title": "E6: Free energy and entropic springs",
+    "section": "1. The ideal gas law from the free energy",
+    "text": "1. The ideal gas law from the free energy\nA cylinder with cross-section \\(A\\) contains \\(N\\) molecules of an ideal gas in the length \\(x\\) between the bottom and a piston. A spring with potential energy \\(U_s(x)\\) pushes the piston down; there is no gas above the piston. The cylinder stands on a heat reservoir at temperature \\(T\\) (Nelson, Figure 6.4b).\n\nWrite down the Helmholtz free energy \\(F(x)\\) of the system gas + spring. Use that the gas has \\(F_\\text{gas} = -Nk_BT\\ln V + (\\text{terms independent of } V)\\).\nThe system goes to the \\(x\\) that minimizes \\(F\\). Show that at this point the force from the spring per area equals \\(Nk_BT/V\\), so that you have derived the ideal gas law.\nWhich part of the force on the piston is energetic and which is entropic?",
+    "crumbs": [
+      "Weekly exercises",
+      "E6: Free energy and entropic springs"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E6_free_energy.html#entropy-change-when-two-boxes-equilibrate",
+    "href": "B_entropy/exercises/E6_free_energy.html#entropy-change-when-two-boxes-equilibrate",
+    "title": "E6: Free energy and entropic springs",
+    "section": "2. Entropy change when two boxes equilibrate",
+    "text": "2. Entropy change when two boxes equilibrate\nTwo boxes each hold \\(N\\) molecules of an ideal gas in the same volume \\(V\\), at temperatures \\(T_A\\) and \\(T_B\\). They are isolated from the world, and are then put in thermal contact with each other (Nelson, Problem 6.2).\n\nWhat is the final temperature?\nShow that the total entropy changes by \\(\\Delta S = \\tfrac32 Nk_B\\ln\\dfrac{(T_A+T_B)^2}{4T_AT_B}\\). Hint: at fixed \\(V\\) and \\(N\\), the entropy of an ideal gas depends on \\(T\\) as \\(S = \\tfrac32Nk_B\\ln T + \\text{const}\\).\nWrite \\(\\Delta S\\) as a function of \\(X = T_A/T_B\\) and plot it. Show that \\(\\Delta S\\geq0\\). When is it zero, and why?",
+    "crumbs": [
+      "Weekly exercises",
+      "E6: Free energy and entropic springs"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E6_free_energy.html#a-polymer-as-an-entropic-spring",
+    "href": "B_entropy/exercises/E6_free_energy.html#a-polymer-as-an-entropic-spring",
+    "title": "E6: Free energy and entropic springs",
+    "section": "3. A polymer as an entropic spring",
+    "text": "3. A polymer as an entropic spring\nModel a polymer as a chain of \\(N\\) segments of length \\(L\\), each pointing either left (\\(-L\\)) or right (\\(+L\\)) along \\(x\\). Its end-to-end extension is \\(x = \\sum_i \\pm L\\). We pull on the end with a force \\(f\\) in the \\(+x\\) direction, so a segment pointing right has energy \\(-fL\\) and one pointing left \\(+fL\\).\n\nEach segment is a two-state system. Use the Boltzmann distribution to find the probability that a segment points right, and show that \\(\\langle x\\rangle = NL\\tanh(fL/k_BT)\\).\nShow that for small forces the chain is a linear spring, and find its stiffness \\(k\\). How does \\(k\\) depend on temperature? Why is that the opposite of a metal spring?\nCheck (a) numerically: for \\(N = 100\\) and a range of \\(fL/k_BT\\) between 0 and 4, draw many random chains with the right Boltzmann probability for each segment, and compare the mean extension with \\(\\tanh\\). Plot both.\nAt \\(f=0\\), show that \\(\\langle x^2\\rangle = NL^2\\) and that \\(k = k_BT/\\langle x^2\\rangle\\). This is equipartition, \\(\\tfrac12k\\langle x^2\\rangle = \\tfrac12k_BT\\).\nD. Discher measured the stiffness of the polymer network under the membrane of a red blood cell in this way, by tracking a 40 nm bead attached to it (Nelson, Problem 6.6). The rms displacement was \\(\\sqrt{\\langle\\Delta x^2\\rangle} = 35\\) nm at room temperature. What is the spring constant?",
+    "crumbs": [
+      "Weekly exercises",
+      "E6: Free energy and entropic springs"
+    ]
+  },
+  {
+    "objectID": "B_entropy/entropy.html",
+    "href": "B_entropy/entropy.html",
+    "title": "Entropy, free energy and entropic forces",
+    "section": "",
+    "text": "Biological question: if energy is always conserved, how can some devices be more efficient than others? Physical idea: order controls when energy can do useful work, and order is not conserved.",
+    "crumbs": [
+      "Notes",
+      "Entropy, free energy and entropic forces"
+    ]
+  },
+  {
+    "objectID": "B_entropy/entropy.html#what-decides-equilibrium",
+    "href": "B_entropy/entropy.html#what-decides-equilibrium",
+    "title": "Entropy, free energy and entropic forces",
+    "section": "What decides equilibrium?",
+    "text": "What decides equilibrium?\nIn mechanics, a system at rest sits where the forces balance, \\(\\sum_i \\vec F_i = -\\sum_i\\nabla U_i = 0\\): it minimizes its potential energy. In thermodynamics, an isolated system goes to the macrostate with the largest number of microstates: it maximizes its entropy \\(S = k_B\\ln\\Omega\\).\nMost biological systems are not isolated. A protein, a bead or a cell sits in water at fixed temperature \\(T\\); the water is a huge heat reservoir. If the small system takes energy \\(\\Delta U\\) from the reservoir, the reservoir’s entropy changes by \\(-\\Delta U/T\\). The total entropy change is\n\\[\n\\Delta S_\\text{tot} = \\Delta S - \\frac{\\Delta U}{T} = -\\frac{\\Delta(U - TS)}{T} = -\\frac{\\Delta F}{T}.\n\\]\nSo maximizing the total entropy is the same as minimizing the Helmholtz free energy \\(F = U - TS\\) of the small system. At fixed pressure as well (an open test tube, a cell), the work \\(P\\Delta V\\) done on the atmosphere also counts, and the quantity to minimize is the Gibbs free energy \\(G = U + PV - TS\\).\nThe two principles are tied together by the thermodynamic identity.",
+    "crumbs": [
+      "Notes",
+      "Entropy, free energy and entropic forces"
+    ]
+  },
+  {
+    "objectID": "B_entropy/entropy.html#thermodynamic-potentials",
+    "href": "B_entropy/entropy.html#thermodynamic-potentials",
+    "title": "Entropy, free energy and entropic forces",
+    "section": "Thermodynamic potentials",
+    "text": "Thermodynamic potentials\n\n\n\n\n\n\n\n\n\nPotential\nDefinition\nIdentity\nNatural variables\n\n\n\n\nInternal energy\n\\(U\\)\n\\(dU = T\\,dS - P\\,dV + \\mu\\, dN\\)\n\\(S, V, N\\)\n\n\nEnthalpy\n\\(H = U + PV\\)\n\\(dH = T\\,dS + V\\,dP + \\mu\\, dN\\)\n\\(S, P, N\\)\n\n\nHelmholtz free energy\n\\(F = U - TS\\)\n\\(dF = -S\\,dT - P\\,dV + \\mu\\, dN\\)\n\\(T, V, N\\)\n\n\nGibbs free energy\n\\(G = U + PV - TS\\)\n\\(dG = -S\\,dT + V\\,dP + \\mu\\, dN\\)\n\\(T, P, N\\)\n\n\n\nEach identity gives the other variables as derivatives, for example \\(S = -(\\partial F/\\partial T)_{V,N}\\), \\(P = -(\\partial F/\\partial V)_{T,N}\\), and\n\\[\n\\mu = -T\\left(\\frac{\\partial S}{\\partial N}\\right)_{U,V} = \\left(\\frac{\\partial F}{\\partial N}\\right)_{T,V} = \\left(\\frac{\\partial G}{\\partial N}\\right)_{T,P}.\n\\tag{1}\\]\nA useful way to read them: \\(F\\) is the energy needed to create the system, minus what the reservoir supplies as heat; \\(G\\) also includes the work of making room for it.\nWhat can be measured? \\(T\\), \\(V\\), \\(P\\), \\(N\\) (by weighing), heat (from a known dissipation, for example \\(RI^2\\)) and work. \\(U\\) follows from the first law and \\(C_V\\) from \\(\\Delta U/\\Delta T\\). Entropy is never measured directly: it is an integral, \\(S(T_2) - S(T_1) = \\int_{T_1}^{T_2} (C_V/T)\\, dT\\). The chemical potential is a derivative of \\(S\\), and is found from equilibria, for example osmotic or electrical ones.",
+    "crumbs": [
+      "Notes",
+      "Entropy, free energy and entropic forces"
+    ]
+  },
+  {
+    "objectID": "B_entropy/entropy.html#chemical-potential",
+    "href": "B_entropy/entropy.html#chemical-potential",
+    "title": "Entropy, free energy and entropic forces",
+    "section": "Chemical potential",
+    "text": "Chemical potential\n\\(\\mu\\) is the free energy cost of adding one particle. Particles move from high to low \\(\\mu\\), just as heat flows from high to low \\(T\\). In equilibrium, \\(\\mu\\) of every species that can move between two regions is the same in both.\nIdeal gas. At constant \\(T\\) and \\(N\\), \\(dG = V\\,dP = (Nk_BT/P)\\,dP\\), so \\(G - G_0 = Nk_BT\\ln(P/P_0)\\) and\n\\[\n\\mu = \\mu_0 + k_BT \\ln\\frac{P}{P_0} = \\mu_0 + k_BT\\ln\\frac{c}{c_0}.\n\\tag{2}\\]\nStatistical mechanics gives the same result with the constant filled in: \\(F = -Nk_BT\\left[\\ln\\big(V/(N v_Q)\\big) + 1\\right]\\), where \\(v_Q\\) is the quantum volume of one molecule, so \\(\\mu = (\\partial F/\\partial N)_{T,V} = k_BT\\ln(c\\, v_Q)\\).\nIdeal mixtures and dilute solutions. Mixing two ideal gases at equal \\(T\\) and \\(P\\) increases the volume available to species 1 from \\(V_1\\) to \\(V_1 + V_2\\). Then \\(\\Delta\\mu_1 = -k_BT\\ln[(V_1+V_2)/V_1] = k_BT\\ln x_1\\), where \\(x_1 = N_1/(N_1+N_2)\\) is the mole fraction:\n\\[\n\\mu_i(P, T, x_i) = \\mu_i^0(P, T) + k_BT\\ln x_i .\n\\tag{3}\\]\nFor a dilute solute this is the same as Eq. 2 with \\(c\\) the solute concentration. A dilute solute behaves like an ideal gas, with the solvent playing the role of empty space. This is the basis of osmosis (see Processes at membranes).\n\nPotential energy in the chemical potential\nIf each particle also has a potential energy \\(U_\\text{ext}\\) (gravity, a centrifuge, an electric field), adding a particle costs that energy too:\n\\[\n\\mu_\\text{tot} = \\mu_\\text{int} + \\mu_\\text{ext} = \\mu_0 + k_BT\\ln\\frac{c}{c_0} + U_\\text{ext}.\n\\]\nIn equilibrium \\(\\mu_\\text{tot}\\) is the same everywhere. For air in gravity, \\(U_\\text{ext} = mgz\\):\n\\[\n\\mu_0 + k_BT\\ln\\frac{P(z)}{P_0} + mgz = \\mu_0 \\quad\\Rightarrow\\quad \\frac{P(z)}{P_0} = e^{-mgz/k_BT} = e^{-z/z_c},\\quad z_c = \\frac{k_BT}{mg}.\n\\]\nFor nitrogen at 288 K, \\(z_c \\approx 8.7\\) km; on top of Mount Everest the pressure is about a third of that at sea level. The same argument with the buoyant mass of a protein gives sedimentation equilibrium (Nelson 5.1, E4), and with \\(U_\\text{ext} = ze\\mathcal V\\) for an ion it gives the Nernst potential (Processes at membranes).",
+    "crumbs": [
+      "Notes",
+      "Entropy, free energy and entropic forces"
+    ]
+  },
+  {
+    "objectID": "B_entropy/entropy.html#the-boltzmann-distribution",
+    "href": "B_entropy/entropy.html#the-boltzmann-distribution",
+    "title": "Entropy, free energy and entropic forces",
+    "section": "The Boltzmann distribution",
+    "text": "The Boltzmann distribution\nPut a small system in contact with a large reservoir with total energy \\(E_0\\). The probability that the small system is in a particular microstate \\(i\\) with energy \\(\\varepsilon_i\\) is proportional to the number of states the reservoir then has, \\(\\Omega_R(E_0 - \\varepsilon_i) = e^{S_R(E_0-\\varepsilon_i)/k_B}\\). Since \\(\\varepsilon_i \\ll E_0\\), expand \\(S_R\\) to first order, with \\(\\partial S_R/\\partial E = 1/T\\):\n\\[\nP(i) = \\frac{1}{Z}\\, e^{-\\varepsilon_i/k_BT}, \\qquad Z = \\sum_i e^{-\\varepsilon_i/k_BT}.\n\\tag{4}\\]\nThe partition function \\(Z\\) normalizes the probabilities and contains all the thermodynamics of the small system: \\(\\langle E\\rangle = k_BT^2\\, d\\ln Z/dT\\) and \\(F = -k_BT\\ln Z\\).\nEvery quadratic term in the energy, like \\(\\tfrac12 mv_x^2\\) or \\(\\tfrac12 kx^2\\), has average \\(\\tfrac12 k_BT\\) (equipartition). This is how you measure the stiffness of something you cannot pull on: watch its thermal fluctuations, \\(k = k_BT/\\langle\\Delta x^2\\rangle\\).",
+    "crumbs": [
+      "Notes",
+      "Entropy, free energy and entropic forces"
+    ]
+  },
+  {
+    "objectID": "B_entropy/entropy.html#two-state-systems",
+    "href": "B_entropy/entropy.html#two-state-systems",
+    "title": "Entropy, free energy and entropic forces",
+    "section": "Two-state systems",
+    "text": "Two-state systems\nMany molecular switches have two states: a channel is open or closed, a protein folded or unfolded, an RNA hairpin zipped or unzipped. If the two states differ by free energy \\(\\Delta F = \\Delta E - T\\Delta S\\) (each state is itself a group of many microstates, hence the entropy), then\n\\[\n\\frac{P_2}{P_1} = e^{-\\Delta F/k_BT}, \\qquad P_2 = \\frac{1}{1 + e^{\\Delta F/k_BT}}.\n\\]\nPulling on a molecule. If state 2 is longer by \\(\\Delta z\\) and we pull with a force \\(f\\), the force does work \\(f\\Delta z\\) when the molecule opens, so \\(\\Delta F \\to \\Delta F_0 - f\\Delta z\\):\n\\[\nP_\\text{open}(f) = \\frac{1}{1 + e^{(\\Delta F_0 - f\\Delta z)/k_BT}}.\n\\tag{5}\\]\nThe molecule is open half the time at \\(f_{1/2} = \\Delta F_0/\\Delta z\\), and the switch from mostly closed to mostly open happens over a force range of a few \\(k_BT/\\Delta z\\). Optical-tweezer experiments on a single RNA hairpin (Liphardt et al. 2001) find \\(\\Delta z\\approx 18\\) nm and \\(f_{1/2}\\approx 14\\) pN. So \\(\\Delta F_0\\approx 60\\,k_BT\\), and the transition width \\(k_BT/\\Delta z\\approx 0.2\\) pN is sharp, as measured. One fit of a curve to Eq. 5 gives both a length and a free energy of a single molecule.",
+    "crumbs": [
+      "Notes",
+      "Entropy, free energy and entropic forces"
+    ]
+  },
+  {
+    "objectID": "B_entropy/entropy.html#entropic-forces",
+    "href": "B_entropy/entropy.html#entropic-forces",
+    "title": "Entropy, free energy and entropic forces",
+    "section": "Entropic forces",
+    "text": "Entropic forces\nA force is the derivative of a free energy, \\(f = -\\partial F/\\partial x\\), not only of an energy. When the energy does not depend on \\(x\\), all of the force comes from entropy, \\(f = T\\,\\partial S/\\partial x\\).\nThe ideal gas is the simplest example. A gas pushes on a piston although its molecules have no potential energy at all: \\(F = -Nk_BT\\ln V + \\text{const}\\), so \\(P = -\\partial F/\\partial V = Nk_BT/V\\). The gas pushes because larger volume means more microstates. Osmotic pressure is the same force, exerted by solute particles on a membrane they cannot cross.\nA polymer as an entropic spring. Model a chain as \\(N\\) segments of length \\(L\\), each pointing left or right (a one-dimensional random walk, Block A). Pulled with force \\(f\\), each segment is a two-state system with energy \\(\\mp fL\\), so \\(\\langle x\\rangle = NL\\tanh(fL/k_BT)\\). For small forces \\(\\langle x\\rangle \\approx (NL^2/k_BT)\\,f\\): the chain is a spring with stiffness \\(k = k_BT/(NL^2)\\). Unlike a metal spring, it gets stiffer when heated, because the restoring force is the thermal drive back towards the many coiled states. Rubber bands behave this way.\n\nThe depletion force\nLarge objects in a suspension of smaller particles (proteins, polymers, micelles) are pushed together. Small spheres of radius \\(R\\) cannot get closer than \\(R\\) to a surface (their centres are excluded from a layer of thickness \\(R\\)). When two flat surfaces are closer than \\(2R\\), no small particles fit between them. The osmotic pressure \\(ck_BT\\) of the small particles on the outside is then unbalanced, and pushes the surfaces together.\nEquivalently: bringing the surfaces together removes the overlap of their excluded layers and gives the small particles more room. For surfaces of area \\(A\\) at separation \\(d&lt;2R\\) the free volume gained is \\(A(2R-d)\\), so\n\\[\n\\Delta F = -c\\,k_BT\\, A\\,(2R - d), \\qquad d &lt; 2R .\n\\]\nThis is a purely entropic attraction, with range set by the size of the small particles and strength by their concentration. In the crowded cytoplasm, with about 30 % of the volume taken by proteins, it is strong enough to help assemble macromolecular complexes and filament bundles (E7).",
+    "crumbs": [
+      "Notes",
+      "Entropy, free energy and entropic forces"
+    ]
+  },
+  {
+    "objectID": "B_entropy/entropy.html#free-energy-transduction",
+    "href": "B_entropy/entropy.html#free-energy-transduction",
+    "title": "Entropy, free energy and entropic forces",
+    "section": "Free energy transduction",
+    "text": "Free energy transduction\nA stretched spring, a concentration difference and an unequal distribution of ions all store free energy. How much useful work can be recovered depends on how the constraint is released. Releasing a big constraint all at once (the spring snaps back against a small load, the membrane ruptures) wastes most of it as heat. Releasing it in many small, controlled steps (a motor that takes one step per ATP, a pump that moves one ion at a time) can come close to the full \\(\\Delta F\\). Biology uses the second strategy. See Nelson section 6.5.3 and E6.",
+    "crumbs": [
+      "Notes",
+      "Entropy, free energy and entropic forces"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html",
+    "href": "A_walkers/index.html",
+    "title": "A: Passive and active walkers",
+    "section": "",
+    "text": "How do molecules, beads and bacteria move in water? We start from random walks and diffusion, add viscous drag and the Langevin equation, find out why life at low Reynolds number is so different from ours, and end with active particles that propel themselves and flock.",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html#reading",
+    "href": "A_walkers/index.html#reading",
+    "title": "A: Passive and active walkers",
+    "section": "Reading",
+    "text": "Reading\n\nNelson, chapters 1–5\nPhysics of active and passive motion in biology (lecture notes)\nActive matter (lecture notes)\nE. M. Purcell, Life at low Reynolds number (1977)\nT. Vicsek et al., Novel type of phase transition in a system of self-driven particles (1995)\nBackground, not curriculum: Einstein 1905, Langevin 1908",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html#lab-and-project",
+    "href": "A_walkers/index.html#lab-and-project",
+    "title": "A: Passive and active walkers",
+    "section": "Lab and project",
+    "text": "Lab and project\n\nLab: Brownian motion, Tuesday 9 Feb 10–14\nP1: Measuring Boltzmann’s constant with a microscope, report due Sunday 7 Mar, defense Tuesday 9 Mar",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html#weekly-exercises",
+    "href": "A_walkers/index.html#weekly-exercises",
+    "title": "A: Passive and active walkers",
+    "section": "Weekly exercises",
+    "text": "Weekly exercises\n\n\n\n\nTopic\nDue\n\n\n\n\nE1\nOrders of magnitude; Python warm-up\nWed 10 Feb\n\n\nE2\nRandom walks\nWed 17 Feb\n\n\nE3\nDiffusion and tracking on synthetic data\nWed 24 Feb\n\n\nE4\nDrag, Reynolds number, Langevin equation\nWed 3 Mar\n\n\nE5\nActive Brownian particles, Vicsek model\nWed 10 Mar",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/index.html#code",
+    "href": "A_walkers/index.html#code",
+    "title": "A: Passive and active walkers",
+    "section": "Code",
+    "text": "Code\n\nrandomwalk_1d.py, randomwalk_exercise.py: random-walk simulations\nsynthetic_brownian.py: synthetic Brownian movies with known \\(D\\), and a reference tracking pipeline\ntrackpy_anal.ipynb: first steps with trackpy\nvicsek/: Vicsek model simulation",
+    "crumbs": [
+      "A: Passive and active walkers"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html",
+    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html",
+    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "section": "",
+    "text": "About 2 hours. Theory: Viscous drag and Theory of Brownian motion. Read Purcell’s Life at low Reynolds number before Thursday 25 Feb.",
+    "crumbs": [
+      "Weekly exercises",
+      "E4: Drag, Reynolds number and the Langevin equation"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#nelson",
+    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#nelson",
+    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "section": "1. Nelson",
+    "text": "1. Nelson\nNelson: Your Turn 5a, 5b and 5c.",
+    "crumbs": [
+      "Weekly exercises",
+      "E4: Drag, Reynolds number and the Langevin equation"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#swimming-e.-coli",
+    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#swimming-e.-coli",
+    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "section": "2. Swimming E. coli",
+    "text": "2. Swimming E. coli\nAn E. coli bacterium (treat it as a sphere of radius \\(a = 1\\) µm, density \\(\\approx 10^3\\) kg/m³) swims at \\(v = 30\\) µm/s in water.\n\nCalculate its Reynolds number. Compare with you swimming (1 m, 1 m/s).\nCalculate the Stokes drag force and the power needed to swim. Express the power in \\(k_BT\\) per second.\nThe motor stops. Estimate how far the bacterium coasts. (Hint: the velocity relaxes with time constant \\(m/\\xi\\).)",
+    "crumbs": [
+      "Weekly exercises",
+      "E4: Drag, Reynolds number and the Langevin equation"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#the-langevin-equation-for-your-beads",
+    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#the-langevin-equation-for-your-beads",
+    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "section": "3. The Langevin equation for your beads",
+    "text": "3. The Langevin equation for your beads\n\nFor a 0.51 µm polystyrene bead (density 1050 kg/m³) in water, calculate the relaxation time \\(m/(6\\pi\\eta r)\\) in the solution of the Langevin equation. Compare it with the time between frames in the lab. Why can we drop the inertial term?\nShow that the solution of the Langevin equation, with the transient dropped, gives \\(\\langle x^2\\rangle = 2Dt\\) with \\(D = k_BT/(6\\pi\\eta r)\\).\nCalculate the expected \\(D\\) for the beads at 20 °C and at 25 °C (\\(\\eta = 1.00\\) and \\(0.89\\) mPa·s). How precisely must you know the temperature to measure \\(k_B\\) to 5 %?",
+    "crumbs": [
+      "Weekly exercises",
+      "E4: Drag, Reynolds number and the Langevin equation"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E2_random_walk.html",
+    "href": "A_walkers/exercises/E2_random_walk.html",
+    "title": "E2: Random walks",
+    "section": "",
+    "text": "About 2 hours. Theory: Random walks.",
+    "crumbs": [
+      "Weekly exercises",
+      "E2: Random walks"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E2_random_walk.html#a-biased-random-walk",
+    "href": "A_walkers/exercises/E2_random_walk.html#a-biased-random-walk",
+    "title": "E2: Random walks",
+    "section": "1. A biased random walk",
+    "text": "1. A biased random walk\nA walker in 1D takes \\(n\\) steps of length \\(d\\): to the right with probability \\(p\\), to the left with probability \\(1-p\\). The steps are independent.\n\nShow that \\(\\langle x_n - x_0\\rangle = n d (2p-1)\\).\nShow that the variance is \\(\\langle (x_n - x_0)^2\\rangle - \\langle x_n - x_0\\rangle^2 = 4np(1-p)d^2\\).\nCheck that you recover \\(\\langle (x_n-x_0)^2\\rangle = nd^2\\) for \\(p = 1/2\\). What kind of motion does a bias correspond to physically?",
+    "crumbs": [
+      "Weekly exercises",
+      "E2: Random walks"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E2_random_walk.html#from-steps-to-a-diffusion-coefficient",
+    "href": "A_walkers/exercises/E2_random_walk.html#from-steps-to-a-diffusion-coefficient",
+    "title": "E2: Random walks",
+    "section": "2. From steps to a diffusion coefficient",
+    "text": "2. From steps to a diffusion coefficient\nA random walker takes a step of length \\(d\\) in a random direction every \\(\\Delta t\\). Show that in 1D this corresponds to \\(D = d^2/(2\\Delta t)\\). A 0.5 µm bead in water has \\(D\\approx 0.9\\) µm²/s. What step length corresponds to \\(\\Delta t = 1/15\\) s (one video frame)? Is the bead really taking steps of this size?",
+    "crumbs": [
+      "Weekly exercises",
+      "E2: Random walks"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E2_random_walk.html#simulation",
+    "href": "A_walkers/exercises/E2_random_walk.html#simulation",
+    "title": "E2: Random walks",
+    "section": "3. Simulation",
+    "text": "3. Simulation\nRun randomwalk_exercise.py.\n\nWhat slopes do you expect for the three MSD curves (in units of stepsize²)? Why?\nChange numpart and timesteps so that the statistics are similar to your experiment (about 50 particles visible, 300–4500 frames). How large is the scatter of the fitted slope between runs?",
+    "crumbs": [
+      "Weekly exercises",
+      "E2: Random walks"
     ]
   },
   {
@@ -456,177 +715,591 @@
     ]
   },
   {
-    "objectID": "A_walkers/exercises/E2_random_walk.html",
-    "href": "A_walkers/exercises/E2_random_walk.html",
-    "title": "E2: Random walks",
+    "objectID": "A_walkers/P1_brownian.html",
+    "href": "A_walkers/P1_brownian.html",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
     "section": "",
-    "text": "About 2 hours. Theory: Random walks.",
+    "text": "In 1908 Jean Perrin used Brownian motion to measure Avogadro’s number, and with it Boltzmann’s constant. You will do the same with beads in water, a microscope and a camera. Your question is:\n\nHow well can you determine \\(k_B\\) from the Brownian motion of beads, and what limits the accuracy?\n\nThe physics is in the notes on active and passive motion: random walks, the diffusion equation, Stokes drag, the Langevin equation and the Einstein relation \\(\\xi D = k_BT\\). The data come from the Brownian motion lab.",
     "crumbs": [
-      "Weekly exercises",
-      "E2: Random walks"
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
     ]
   },
   {
-    "objectID": "A_walkers/exercises/E2_random_walk.html#a-biased-random-walk",
-    "href": "A_walkers/exercises/E2_random_walk.html#a-biased-random-walk",
-    "title": "E2: Random walks",
-    "section": "1. A biased random walk",
-    "text": "1. A biased random walk\nA walker in 1D takes \\(n\\) steps of length \\(d\\): to the right with probability \\(p\\), to the left with probability \\(1-p\\). The steps are independent.\n\nShow that \\(\\langle x_n - x_0\\rangle = n d (2p-1)\\).\nShow that the variance is \\(\\langle (x_n - x_0)^2\\rangle - \\langle x_n - x_0\\rangle^2 = 4np(1-p)d^2\\).\nCheck that you recover \\(\\langle (x_n-x_0)^2\\rangle = nd^2\\) for \\(p = 1/2\\). What kind of motion does a bias correspond to physically?",
-    "crumbs": [
-      "Weekly exercises",
-      "E2: Random walks"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E2_random_walk.html#from-steps-to-a-diffusion-coefficient",
-    "href": "A_walkers/exercises/E2_random_walk.html#from-steps-to-a-diffusion-coefficient",
-    "title": "E2: Random walks",
-    "section": "2. From steps to a diffusion coefficient",
-    "text": "2. From steps to a diffusion coefficient\nA random walker takes a step of length \\(d\\) in a random direction every \\(\\Delta t\\). Show that in 1D this corresponds to \\(D = d^2/(2\\Delta t)\\). A 0.5 µm bead in water has \\(D\\approx 0.9\\) µm²/s. What step length corresponds to \\(\\Delta t = 1/15\\) s (one video frame)? Is the bead really taking steps of this size?",
-    "crumbs": [
-      "Weekly exercises",
-      "E2: Random walks"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E2_random_walk.html#simulation",
-    "href": "A_walkers/exercises/E2_random_walk.html#simulation",
-    "title": "E2: Random walks",
-    "section": "3. Simulation",
-    "text": "3. Simulation\nRun randomwalk_exercise.py.\n\nWhat slopes do you expect for the three MSD curves (in units of stepsize²)? Why?\nChange numpart and timesteps so that the statistics are similar to your experiment (about 50 particles visible, 300–4500 frames). How large is the scatter of the fitted slope between runs?",
-    "crumbs": [
-      "Weekly exercises",
-      "E2: Random walks"
-    ]
-  },
-  {
-    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html",
-    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html",
-    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "objectID": "A_walkers/P1_brownian.html#the-question",
+    "href": "A_walkers/P1_brownian.html#the-question",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
     "section": "",
-    "text": "About 2 hours. Theory: Viscous drag and Theory of Brownian motion. Read Purcell’s Life at low Reynolds number before Thursday 25 Feb.",
+    "text": "In 1908 Jean Perrin used Brownian motion to measure Avogadro’s number, and with it Boltzmann’s constant. You will do the same with beads in water, a microscope and a camera. Your question is:\n\nHow well can you determine \\(k_B\\) from the Brownian motion of beads, and what limits the accuracy?\n\nThe physics is in the notes on active and passive motion: random walks, the diffusion equation, Stokes drag, the Langevin equation and the Einstein relation \\(\\xi D = k_BT\\). The data come from the Brownian motion lab.",
     "crumbs": [
-      "Weekly exercises",
-      "E4: Drag, Reynolds number and the Langevin equation"
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
     ]
   },
   {
-    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#nelson",
-    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#nelson",
-    "title": "E4: Drag, Reynolds number and the Langevin equation",
+    "objectID": "A_walkers/P1_brownian.html#what-you-deliver",
+    "href": "A_walkers/P1_brownian.html#what-you-deliver",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "What you deliver",
+    "text": "What you deliver\n\nA report (one PDF) with your result, how you got it, and why you believe it. LLM help with writing is allowed and expected. Keep it short: the figures and the argument matter, not the prose.\nAn LLM log as an appendix (one page is enough): what you used an LLM for, where it was wrong or misleading, and how you found out.\nAn oral defense on Tue 9 March: 5 min presentation of your core result, then about 10 min of questions (see below).",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#milestones",
+    "href": "A_walkers/P1_brownian.html#milestones",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "Milestones",
+    "text": "Milestones\n\n\n\n\n\n\n\n\n\nWhen\nWhat you show\n\n\n\n\nM1\nTue 9 Feb (W6, lab)\nYour own image sequence, and particles found in one frame with trackpy.locate\n\n\nM2\nThu 25 Feb (W8)\nValidated core figure: MSD against lag time with a fitted \\(D \\pm \\delta D\\), the same pipeline on a synthetic movie recovering the known \\(D\\), and a first value of \\(k_B\\)\n\n\nM3\nSun 7 Mar\nReport and LLM log submitted on Canvas\n\n\nM4\nTue 9 Mar (W10)\nOral defense",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#what-the-project-should-contain",
+    "href": "A_walkers/P1_brownian.html#what-the-project-should-contain",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "What the project should contain",
+    "text": "What the project should contain\n\n1. Measurement\n\nTrack the beads in your 5 min movie: locate, link, filter out short tracks and stuck particles, and subtract drift.\nPlot the ensemble MSD \\(\\langle \\Delta x^2 + \\Delta y^2\\rangle\\) against lag time on linear axes and fit a straight line. Explain what the slope and the intercept mean.\nFrom the slope get \\(D\\). Then use the Einstein relation with Stokes drag, \\(D = k_BT/(6\\pi\\eta r)\\), to get \\(k_B\\), with an uncertainty.\n\n\n\n2. Three checks that the result is right\nGetting trackpy to give a number is easy, with or without an LLM. Showing that the number is right is the project. Include all three checks:\n\nSynthetic ground truth. Make a synthetic movie with known \\(D\\) and the same pixel size, frame rate, particle size and contrast as your data (use synthetic_brownian.py, or write your own and explain it). Run exactly your pipeline on it. Do you get back the \\(D\\) you put in? If not, your pipeline is wrong on the real data too.\nPhysical expectation. Before you trust a fit, calculate the \\(D\\) you expect from the nominal bead size, the viscosity of water at the lab temperature and the known \\(k_B\\). Is your measured value close? If not, why?\nSensitivity. Show how \\(D\\) changes when you vary the key parameters: minmass, search_range, the minimum track length and the range of lag times in the fit. Argue why your chosen values are defensible.\n\n\n\n3. Model comparison\nCompare with a random-walk simulation (for example randomwalk_exercise.py). What step length and time step must the random walk have to match your experiment? Why does the mass of the bead not appear in the result?\n\n\n4. Physics and biology\n\nShow that the beads are at low Reynolds number and that inertia is irrelevant on the time scale of your frames.\nDiscuss one biological consequence of diffusion, for example how long it takes a protein to cross a cell, or the oxygen supply limit for a bacterium.",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#working-with-an-llm-on-this-project",
+    "href": "A_walkers/P1_brownian.html#working-with-an-llm-on-this-project",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "Working with an LLM on this project",
+    "text": "Working with an LLM on this project\nMany students have struggled to get reasonable results from trackpy. You are now expected to use an LLM to help you through that: to set up Python, to write and debug the pipeline, and to understand what the parameters do. Read Working with LLMs first. Three habits make the difference:\n\nGive it the physics. Tell the LLM the pixel size, frame rate, bead size and expected \\(D\\). Then it can help you choose diameter and search_range sensibly, instead of guessing.\nAsk it to explain, not only to write. For every function call in your pipeline you should be able to say what it does and why that parameter value. You will be asked in the defense.\nTest, don’t trust. The synthetic movie is the test. An LLM can produce code that runs without errors and still gives a \\(D\\) that is wrong by a factor of two.",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/P1_brownian.html#sec-defense",
+    "href": "A_walkers/P1_brownian.html#sec-defense",
+    "title": "P1: Measuring Boltzmann’s constant with a microscope",
+    "section": "The oral defense",
+    "text": "The oral defense\nAbout 15 min per student, in groups of 3–4 so that you hear each other’s questions. Bring your report on a laptop. Typical questions:\n\nDerive \\(\\langle x^2\\rangle = 2Dt\\) from the random walk, or from the diffusion equation.\nWhere does \\(\\xi D = k_BT\\) come from? What does the Langevin equation assume?\nWhat does search_range do? What happens to \\(D\\) if it is too small? Too large?\nYour MSD fit has an intercept. What does it mean physically?\nWhich check convinced you most that your result is right? What did the LLM get wrong?\nIf you repeated the experiment with beads twice as large in glycerol–water, what would change?\n\nThe defense is passed when you can explain your own result and the physics behind it. “The LLM wrote that part” is not an answer to “what does this line do?”. If the defense is not passed, you get one new attempt.",
+    "crumbs": [
+      "Lab and project",
+      "P1: Measuring Boltzmann's constant with a microscope"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html",
+    "href": "A_walkers/activematter.html",
+    "title": "Active matter: lecture notes",
+    "section": "",
+    "text": "Active matter systems consume energy from their environment and use it as fuel to propel themselves and drive themselves far from equilibrium. Examples: living organisms and artificial machines (micro-robots, artificial molecular machines, etc.).\nBecause of their intrinsic activity, these systems can spontaneously show complex patterns of motion, such as swarming or flocking. This is associated with an emergent global order from the self-organization of the constituents of active matter.\nEmergent (self-organized) behaviour occurs at many different scales. Some of these patterns turn out to be robust and universal: they are independent of the type of animal that makes up the swarm.\n\n\n\nSchool of fish\n\nE. coli swarming\n\nCell migration\n\nWe can model the universal swarming behaviour of self-propelled (active) particles with several minimal statistical models.\nIn this lecture we introduce a few minimal models of active particles. If we get to it, we will also discuss different kinds of order (polar versus nematic) that emerge from collective interactions of active particles.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#what-is-active-matter",
+    "href": "A_walkers/activematter.html#what-is-active-matter",
+    "title": "Active matter: lecture notes",
+    "section": "",
+    "text": "Active matter systems consume energy from their environment and use it as fuel to propel themselves and drive themselves far from equilibrium. Examples: living organisms and artificial machines (micro-robots, artificial molecular machines, etc.).\nBecause of their intrinsic activity, these systems can spontaneously show complex patterns of motion, such as swarming or flocking. This is associated with an emergent global order from the self-organization of the constituents of active matter.\nEmergent (self-organized) behaviour occurs at many different scales. Some of these patterns turn out to be robust and universal: they are independent of the type of animal that makes up the swarm.\n\n\n\nSchool of fish\n\nE. coli swarming\n\nCell migration\n\nWe can model the universal swarming behaviour of self-propelled (active) particles with several minimal statistical models.\nIn this lecture we introduce a few minimal models of active particles. If we get to it, we will also discuss different kinds of order (polar versus nematic) that emerge from collective interactions of active particles.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#single-active-particles-self-propelled-brownians",
+    "href": "A_walkers/activematter.html#single-active-particles-self-propelled-brownians",
+    "title": "Active matter: lecture notes",
+    "section": "Single active particles: self-propelled Brownians",
+    "text": "Single active particles: self-propelled Brownians\n\nSelf-propulsion is common in living organisms. It allows a more efficient exploration of the environment when looking for nutrients or running away from toxic substances.\nA paradigmatic example is the swimming of bacteria such as E. coli. It resembles the motion of a passive Brownian particle, but it also has an active component due to self-propulsion.\nWe call them self-propelled Brownians, because they meander but also propel themselves by taking up energy from their environment and converting it into directed motion.\nSelf-propelled Brownians = random meandering + active swimming\n\n\n\n\nSelf-propulsion speed as a function of the size of a microswimmer.\n\n\n\n\n\nRandom trajectory of a run-and-tumble particle (RTP) versus an active Brownian particle (ABP).\n\n\n\nActive Brownian particles\nThis is like an overdamped (no inertia) Brownian particle with two kinds of motion:\n\nrandom meandering like a passive Brownian particle, with a noise amplitude set by the translational diffusivity \\(D_T\\);\nself-propulsion with a constant speed \\(v\\), but in a random direction \\(\\theta\\). The randomness in the orientation of the self-propulsion has a noise amplitude set by the rotational diffusivity \\(D_R\\).\n\nFor motion confined to the \\(xy\\)-plane, the active Brownian particle is modelled by 3 dynamical variables \\((x(t),y(t),\\theta(t))\\): its position and the angle of the self-propulsion velocity. The dynamical equations for these variables are\n\\[\n\\begin{aligned}\n\\dot x &= v\\cos\\theta +\\sqrt{2D_T}\\,\\xi_x, \\quad \\langle\\xi_x\\rangle = 0,\\quad \\langle\\xi_x(t)\\xi_x(t')\\rangle =\\delta(t-t')\\\\\n\\dot y &= v\\sin\\theta +\\sqrt{2D_T}\\,\\xi_y, \\quad \\langle\\xi_y\\rangle = 0,\\quad \\langle\\xi_y(t)\\xi_y(t')\\rangle =\\delta(t-t')\\\\\n\\dot \\theta &= \\sqrt{2D_R}\\,\\xi_\\theta, \\quad \\langle\\xi_\\theta\\rangle = 0,\\quad \\langle\\xi_\\theta(t)\\xi_\\theta(t')\\rangle =\\delta(t-t')\n\\end{aligned}\n\\tag{1}\\]\n\nOverdamped motion\nWe can rewrite the equations of motion in vector form. Then it becomes clearer that this is overdamped motion, with drag coefficient \\(\\gamma\\):\n\\[\n\\gamma\\dot{\\mathbf r} = F\\hat{\\mathbf e} +\\boldsymbol{\\xi}\n\\]\n\n\nFinite-difference equations\nThese equations are usually solved numerically in discrete time, with \\(\\Delta t\\) the time increment between successive times, \\(t_{n+1} = t_n+\\Delta t\\). The corresponding finite-difference equations are\n\\[\n\\begin{aligned}\nx_{n+1} &= x_n+v\\cos\\theta_n\\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{x,n}\\\\\ny_{n+1} &= y_n+v\\sin\\theta_n\\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{y,n}\\\\\n\\theta_{n+1} &= \\theta_n+\\sqrt{2D_R \\Delta t}\\,W_{\\theta,n}\n\\end{aligned}\n\\tag{2}\\]\nwhere \\(W_{x}, W_{y}, W_\\theta\\) are Gaussian random numbers with zero mean and unit standard deviation, drawn independently at each time step.\n\n\n\nRun-and-tumble\nThe run-and-tumble model was inspired by chemotaxis of bacteria, that is, how bacteria move towards or away from a food source.\n\n\n\nRun and tumble modes.\n\n\nThe particle alternates between an active state, where it moves with constant speed \\(v\\) in a given direction (“run”), and a passive state, where its position stays the same but its orientation keeps changing (“tumble”). The change in direction is taken as instantaneous and occurs with a given rate \\(\\lambda/\\Delta t\\), so that the particle moves along a straight line between successive tumbles. The “run” state is punctuated at random times by an instantaneous “tumble” (reorientation). This is modelled as a Poisson point process, characterised by the Poisson distribution\n\\[\nP_\\lambda(n) = \\frac{\\lambda^n}{n!}e^{-\\lambda},\n\\]\nwhere \\(n= 0,1,2,\\ldots\\) is the number of tumbling events observed in a time interval \\(\\Delta t\\), and \\(\\lambda\\) is the average number of tumbling events expected in \\(\\Delta t\\).\nNotice that \\(P(n=0) = e^{-\\lambda}\\) is the probability of no tumbling in a time interval \\(\\Delta t\\). We therefore introduce the probability of tumbling in a time interval \\(\\Delta t\\) as \\(P_{\\rm tumble} = 1-e^{-\\lambda}\\), and the probability of running as \\(P_{\\rm run} = P(n=0) = e^{-\\lambda}\\).\nNow we can model the motion of a single bacterium in the plane with 4 dynamical variables \\((x,y,\\theta,\\rho)\\). The additional variable \\(\\rho\\) keeps track of the state of the bacterium (1: run, 0: tumble).\nThe finite-difference evolution equations for these variables are\n\\[\n\\begin{aligned}\nx_{n+1}&= x_n+\\rho_n v\\cos\\theta_n \\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{x,n}\\\\\ny_{n+1}&= y_n+\\rho_n v\\sin\\theta_n \\Delta t+\\sqrt{2D_T \\Delta t}\\,W_{y,n}\\\\\n\\theta_{n+1}&= \\theta_n+(1-\\rho_n)\\Delta \\theta_n\\\\\n\\rho_{n+1} &= \\begin{cases} 0 & \\text{with probability } 1-e^{-\\lambda} \\\\\n1 & \\text{with probability } e^{-\\lambda}\n\\end{cases}\n\\end{aligned}\n\\tag{3}\\]\nwhere \\(W_{x}, W_{y}\\) are Gaussian random numbers with zero mean and unit standard deviation, drawn independently at each time step, and \\(\\Delta\\theta_n\\) is the random reorientation during a tumble.\n\n\nDiffusive behaviour of self-propelled Brownians\nLet us introduce the characteristic time scale of rotational diffusion (meandering), \\(\\tau_R = 1/D_R\\). \\(D_R\\) has units rad²/s, and since the radian is dimensionless, \\(\\tau_R\\) is a time and \\(v^2\\tau_R\\) has the units of a diffusion coefficient. On time scales much longer than \\(\\tau_R\\), the self-propelled Brownian particle diffuses with an effective diffusivity that is larger than the thermal diffusivity:\n\\[\nD_{\\rm eff} = D_T+ \\frac{v^2\\tau_R}{2}\n\\tag{4}\\]\n\n\n\nThe mean square displacement as a function of time has three characteristic regimes: (i) passive diffusion on very short time scales, (ii) an intermediate ballistic regime, and (iii) diffusion with enhanced diffusivity on long time scales.\n\n\n\\[\n\\begin{aligned}\n\\langle(\\Delta r)^2\\rangle (t)&= \\langle(\\Delta x)^2\\rangle(t)+\\langle(\\Delta y)^2\\rangle(t)\\\\\n\\langle(\\Delta r)^2\\rangle (t)&= \\begin{cases}\n4D_T t+v^2t^2, & t\\ll \\tau_R\\\\\n(4D_T +2v^2\\tau_R)\\,t, & t\\gg \\tau_R\n\\end{cases}\n\\end{aligned}\n\\tag{5}\\]\nThe effective diffusion coefficient is\n\\[\nD_{\\rm eff}= \\lim_{t\\rightarrow\\infty}\\frac{\\langle|\\Delta r|^2\\rangle}{4t} = D_T+\\frac{v^2 \\tau_R}{2}\n\\]",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#interacting-self-propelled-brownians-the-vicsek-model-for-swarming",
+    "href": "A_walkers/activematter.html#interacting-self-propelled-brownians-the-vicsek-model-for-swarming",
+    "title": "Active matter: lecture notes",
+    "section": "Interacting self-propelled Brownians: the Vicsek model for swarming",
+    "text": "Interacting self-propelled Brownians: the Vicsek model for swarming\nVicsek et al. (1995) published a minimal model for flocking due to alignment interactions between neighbouring particles.\nFor simplicity, consider active particles moving in the plane. Each of them is described by its coordinates \\((x^{(i)}, y^{(i)})\\) and its orientation of motion \\(\\theta^{(i)}\\), where \\(i\\) is the particle label.\n\n\n\nReorientation in the Vicsek model.\n\n\n\nFinite-difference equations\nThe finite-difference evolution equations for particle \\(i\\) are\n\\[\n\\begin{aligned}\nx_{n+1}^{(i)} &= x_n^{(i)}+v\\cos\\theta^{(i)}_n\\Delta t\\\\\ny_{n+1}^{(i)} &= y_n^{(i)}+v\\sin\\theta^{(i)}_n\\Delta t\\\\\n\\theta_{n+1}^{(i)} &= \\langle\\theta_n^{(j)}\\rangle_{S_i}+\\sqrt{2D_R\\Delta t}\\, W_{\\theta^{(i)},n}\n\\end{aligned}\n\\tag{6}\\]\nwhere \\(\\langle\\theta_n^{(j)}\\rangle_{S_i}\\) is the average orientation of all the active particles in the neighbourhood \\(S_i\\) of the \\(i\\)-th particle (see the illustration above). In the original paper the noise is uniform, \\(\\eta\\,U(-\\pi,\\pi)\\); the code we use in the lab follows the paper.\n\n\nNumerical examples showing the emergence of polar order (flocking)\n\nVicsek model with interaction radius \\(R_1 = 0.1 L\\) and higher noise.\n\nVicsek model with a larger interaction radius \\(R_2 = 0.2 L\\) and higher noise.\n\nVicsek model with \\(R_1\\) and lower noise.\n\nVicsek model with \\(R_2\\) and higher noise.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#emergent-nematic-order-in-bacterial-colonies",
+    "href": "A_walkers/activematter.html#emergent-nematic-order-in-bacterial-colonies",
+    "title": "Active matter: lecture notes",
+    "section": "Emergent nematic order in bacterial colonies",
+    "text": "Emergent nematic order in bacterial colonies\nBacteria are elongated particles with rod-like shapes. When they are closely packed, they tend to align their principal axes along a preferred orientation. In doing so, they break rotational symmetry (all directions equally accessible) and form an ordered state with a preferred orientation. This is called nematic order.\n\n\n\nSnapshots of a growing bacterial colony in which bacteria self-organise and align their orientation in a preferred direction.\n\n\nNematic order is commonly found in passive systems known as liquid crystals. By analogy, active matter with nematic order is often called an active liquid crystal.\nPolar versus nematic order:\n\n\n\nPolar versus nematic order.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#polar-ordering-of-epithelial-cell-layers",
+    "href": "A_walkers/activematter.html#polar-ordering-of-epithelial-cell-layers",
+    "title": "Active matter: lecture notes",
+    "section": "Polar ordering of epithelial cell layers",
+    "text": "Polar ordering of epithelial cell layers\n\nEpithelial cells\nFrom Wikipedia: a thin, continuous, protective layer of compactly packed cells with little intercellular matrix. Epithelial tissues line the outer surfaces of organs and blood vessels throughout the body, as well as the inner surfaces of cavities in many internal organs.\n\n\n\nTypes of epithelium (Wikimedia Commons).\n\n\n\n\n\nTopological defects\n\n\n\nTypical topological defects observed in a liquid crystal sample. Each defect has a topological charge \\(s\\), defined as the number of times the vector field winds around a loop encircling the defect once in the anticlockwise sense. Hence (a) and (b) have \\(s = +1\\), (c) \\(s = -1\\), (d) \\(s = +1/2\\), (e) \\(s=-1/2\\).\n\n\n\n\nFlow and polar ordering\nInteger topological defect annihilations drive polar ordering of epithelial monolayers, Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Dommersnes, Stig Ove Bøe.\n\n\n\nFrom Lång et al.\n\n\n\na: Time evolution of polar ordering. The colour map represents the angle of the local velocity field relative to the \\(x\\)-axis. The surface of a whole circular monolayer is shown. Scale bar, 1 mm.\nb: Detection and mapping of ±1 topological defects.\nh: Time series showing annihilation of a ±1 topological defect pair. Scale bar, 100 µm.\n\n\n\nActive elastic solid model\n\\[\n\\begin{aligned}\n\\dot{\\mathbf R}_i&=V_c\\mathbf P_i+\\frac{1}{\\xi}\\mathbf F_i\\\\\n\\dot{\\mathbf P}_i&=\\gamma(\\mathbf P_i\\times\\dot{\\mathbf R}_i)\\times\\mathbf P_i\n\\end{aligned}\n\\tag{7}\\]\nHere \\(\\mathbf R_i\\) is the position of cell \\(i\\) and \\(\\mathbf P_i\\) the polarity of cell propulsion (the direction of propulsion). \\(V_c\\) is the cell propulsion speed in the absence of elastic forces, \\(\\mathbf F_i\\) the elastic force on the cell, and \\(\\xi\\) the substrate friction. The first equation expresses the balance of forces. The second gives the polar ordering effect: the direction of propulsion turns towards the direction of motion with rate constant \\(\\gamma\\).",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/activematter.html#suggested-further-reading",
+    "href": "A_walkers/activematter.html#suggested-further-reading",
+    "title": "Active matter: lecture notes",
+    "section": "Suggested further reading",
+    "text": "Suggested further reading\n\nInteger topological defect annihilations drive polar ordering of epithelial monolayers, Emma Lång, Anna Lång, Pernille Blicher, Torbjørn Rognes, Paul Dommersnes, Stig Ove Bøe.\nThe statistical physics of active matter: from self-catalytic colloids to living cells (2018), Étienne Fodor and M. Cristina Marchetti.\nThe mechanics and statistics of active matter (2010), Sriram Ramaswamy.",
+    "crumbs": [
+      "Notes",
+      "Active matter: lecture notes"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html",
+    "href": "A_walkers/exercises/E1_orders_of_magnitude.html",
+    "title": "E1: Orders of magnitude",
+    "section": "",
+    "text": "About 2 hours. Submit one PDF (handwritten and scanned is fine) or a notebook on Canvas. You may use an LLM, but be ready to explain any answer at the board on Thursday.",
+    "crumbs": [
+      "Weekly exercises",
+      "E1: Orders of magnitude"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#nelson",
+    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#nelson",
+    "title": "E1: Orders of magnitude",
     "section": "1. Nelson",
-    "text": "1. Nelson\nNelson: Your Turn 5a, 5b and 5c.",
+    "text": "1. Nelson\nNelson, Biological Physics: Your Turn 1a, Problems 1.3, 2.2 and 2.5.\nThe software and web sites named in Problems 2.2 and 2.5 are from 2002 and mostly gone. Use these instead:\n\n2.2: open each structure in the browser at https://www.rcsb.org/3d-view/&lt;code&gt;, for example rcsb.org/3d-view/1MBN. This is the Mol* viewer. To measure a distance, turn on selection mode, click two atoms, and open Measurements. For the rhinovirus (4rhv), choose the biological assembly, not the asymmetric unit.\n2.5: skip part (a); the micelle file is no longer online. Instead, estimate the radius of a spherical micelle of 65 dodecyl (C12) surfactants. Each tail has volume 0.35 nm³ and is at most 1.67 nm long. For part (b), download the 128-lipid DPPC bilayer (dppc.tar.gz) from the CHARMM-GUI lipid archive and open dppc_n128.pdb in the Mol* viewer (Open Files). Measure the bilayer thickness between the phosphorus atoms of the two leaflets. The simulation box is 6.4 nm × 6.4 nm, with 64 lipids per leaflet: what is the area per lipid?",
     "crumbs": [
       "Weekly exercises",
-      "E4: Drag, Reynolds number and the Langevin equation"
+      "E1: Orders of magnitude"
     ]
   },
   {
-    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#swimming-e.-coli",
-    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#swimming-e.-coli",
-    "title": "E4: Drag, Reynolds number and the Langevin equation",
-    "section": "2. Swimming E. coli",
-    "text": "2. Swimming E. coli\nAn E. coli bacterium (treat it as a sphere of radius \\(a = 1\\) µm, density \\(\\approx 10^3\\) kg/m³) swims at \\(v = 30\\) µm/s in water.\n\nCalculate its Reynolds number. Compare with you swimming (1 m, 1 m/s).\nCalculate the Stokes drag force and the power needed to swim. Express the power in \\(k_BT\\) per second.\nThe motor stops. Estimate how far the bacterium coasts. (Hint: the velocity relaxes with time constant \\(m/\\xi\\).)",
+    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#the-thermal-energy-scale",
+    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#the-thermal-energy-scale",
+    "title": "E1: Orders of magnitude",
+    "section": "2. The thermal energy scale",
+    "text": "2. The thermal energy scale\nCalculate \\(k_BT\\) at body temperature (37 °C) in J, eV, kJ/mol and pN·nm. Compare it with the energy of one ATP hydrolysis (about 20 \\(k_BT\\) in the cell) and with a covalent C–C bond (about 350 kJ/mol). What does the comparison tell you about which structures in the cell are stable against thermal motion?",
     "crumbs": [
       "Weekly exercises",
-      "E4: Drag, Reynolds number and the Langevin equation"
+      "E1: Orders of magnitude"
     ]
   },
   {
-    "objectID": "A_walkers/exercises/E4_drag_reynolds_langevin.html#the-langevin-equation-for-your-beads",
-    "href": "A_walkers/exercises/E4_drag_reynolds_langevin.html#the-langevin-equation-for-your-beads",
-    "title": "E4: Drag, Reynolds number and the Langevin equation",
-    "section": "3. The Langevin equation for your beads",
-    "text": "3. The Langevin equation for your beads\n\nFor a 0.51 µm polystyrene bead (density 1050 kg/m³) in water, calculate the relaxation time \\(m/(6\\pi\\eta r)\\) in the solution of the Langevin equation. Compare it with the time between frames in the lab. Why can we drop the inertial term?\nShow that the solution of the Langevin equation, with the transient dropped, gives \\(\\langle x^2\\rangle = 2Dt\\) with \\(D = k_BT/(6\\pi\\eta r)\\).\nCalculate the expected \\(D\\) for the beads at 20 °C and at 25 °C (\\(\\eta = 1.00\\) and \\(0.89\\) mPa·s). How precisely must you know the temperature to measure \\(k_B\\) to 5 %?",
+    "objectID": "A_walkers/exercises/E1_orders_of_magnitude.html#python-warm-up-fit-a-line-with-an-uncertainty",
+    "href": "A_walkers/exercises/E1_orders_of_magnitude.html#python-warm-up-fit-a-line-with-an-uncertainty",
+    "title": "E1: Orders of magnitude",
+    "section": "3. Python warm-up: fit a line with an uncertainty",
+    "text": "3. Python warm-up: fit a line with an uncertainty\nGenerate synthetic data \\(y = a t + b + \\text{noise}\\) with \\(a = 2\\), \\(b = 0.5\\), 30 points for \\(t\\in[0,10]\\) and Gaussian noise with standard deviation 1. Fit a straight line and report \\(a \\pm \\delta a\\). Repeat 1000 times with new noise and compare the spread of the fitted \\(a\\) with the \\(\\delta a\\) from a single fit. Plot one data set with the fit.\nHint: np.polyfit(t, y, 1, cov=True) returns the covariance matrix of the parameters.",
     "crumbs": [
       "Weekly exercises",
-      "E4: Drag, Reynolds number and the Langevin equation"
+      "E1: Orders of magnitude"
     ]
   },
   {
-    "objectID": "A_walkers/index.html",
-    "href": "A_walkers/index.html",
-    "title": "A: Passive and active walkers",
+    "objectID": "A_walkers/exercises/E3_diffusion.html",
+    "href": "A_walkers/exercises/E3_diffusion.html",
+    "title": "E3: Diffusion and tracking",
     "section": "",
-    "text": "How do molecules, beads and bacteria move in water? We start from random walks and diffusion, add viscous drag and the Langevin equation, find out why life at low Reynolds number is so different from ours, and end with active particles that propel themselves and flock.",
+    "text": "About 2 hours. This exercise feeds directly into milestone M2 of P1.",
     "crumbs": [
-      "A: Passive and active walkers"
+      "Weekly exercises",
+      "E3: Diffusion and tracking"
     ]
   },
   {
-    "objectID": "A_walkers/index.html#reading",
-    "href": "A_walkers/index.html#reading",
-    "title": "A: Passive and active walkers",
-    "section": "Reading",
-    "text": "Reading\n\nNelson, chapters 1–5\nPhysics of active and passive motion in biology (lecture notes)\nActive matter (lecture notes)\nE. M. Purcell, Life at low Reynolds number (1977)\nT. Vicsek et al., Novel type of phase transition in a system of self-driven particles (1995)\nBackground, not curriculum: Einstein 1905, Langevin 1908",
+    "objectID": "A_walkers/exercises/E3_diffusion.html#nelson",
+    "href": "A_walkers/exercises/E3_diffusion.html#nelson",
+    "title": "E3: Diffusion and tracking",
+    "section": "1. Nelson",
+    "text": "1. Nelson\nNelson: Your Turn 4b, 4c, 4d and 4e.",
     "crumbs": [
-      "A: Passive and active walkers"
+      "Weekly exercises",
+      "E3: Diffusion and tracking"
     ]
   },
   {
-    "objectID": "A_walkers/index.html#lab-and-project",
-    "href": "A_walkers/index.html#lab-and-project",
-    "title": "A: Passive and active walkers",
-    "section": "Lab and project",
-    "text": "Lab and project\n\nLab: Brownian motion, Tuesday 9 Feb 10–14\nP1: Measuring Boltzmann’s constant with a microscope, report due Sunday 7 Mar, defense Tuesday 9 Mar",
+    "objectID": "A_walkers/exercises/E3_diffusion.html#diffusion-times-in-the-cell",
+    "href": "A_walkers/exercises/E3_diffusion.html#diffusion-times-in-the-cell",
+    "title": "E3: Diffusion and tracking",
+    "section": "2. Diffusion times in the cell",
+    "text": "2. Diffusion times in the cell\nEstimate the time \\(t\\sim L^2/(2D)\\) it takes to diffuse a distance \\(L\\) for:\n\na protein (\\(D\\approx 10\\) µm²/s) across a bacterium (1 µm) and across a eukaryotic cell (20 µm);\na neurotransmitter (\\(D\\approx 300\\) µm²/s) across a synaptic cleft (20 nm);\nthe same protein along a 1 m long nerve axon.\n\nWhat do the numbers tell you about where cells can rely on diffusion and where they need active transport?",
     "crumbs": [
-      "A: Passive and active walkers"
+      "Weekly exercises",
+      "E3: Diffusion and tracking"
     ]
   },
   {
-    "objectID": "A_walkers/index.html#weekly-exercises",
-    "href": "A_walkers/index.html#weekly-exercises",
-    "title": "A: Passive and active walkers",
-    "section": "Weekly exercises",
-    "text": "Weekly exercises\n\n\n\n\nTopic\nDue\n\n\n\n\nE1\nOrders of magnitude; Python warm-up\nWed 10 Feb\n\n\nE2\nRandom walks\nWed 17 Feb\n\n\nE3\nDiffusion and tracking on synthetic data\nWed 24 Feb\n\n\nE4\nDrag, Reynolds number, Langevin equation\nWed 3 Mar\n\n\nE5\nActive Brownian particles, Vicsek model\nWed 10 Mar",
+    "objectID": "A_walkers/exercises/E3_diffusion.html#test-a-tracking-pipeline-on-synthetic-data",
+    "href": "A_walkers/exercises/E3_diffusion.html#test-a-tracking-pipeline-on-synthetic-data",
+    "title": "E3: Diffusion and tracking",
+    "section": "3. Test a tracking pipeline on synthetic data",
+    "text": "3. Test a tracking pipeline on synthetic data\nRun synthetic_brownian.py. It makes a movie of beads with known \\(D\\), tracks them with trackpy and prints the true and fitted \\(D\\).\n\nRun it with --D 0.5. How close is the fitted value?\nIn track_and_fit, set search_range=5 and run again. What happens to \\(D\\), and why? Estimate the per-axis step in pixels per frame and compare it with the search range.\nSet minmass=None. What happens now, and why?\nIn one sentence: why must you test your own pipeline on synthetic data before you trust it on the lab data?",
     "crumbs": [
-      "A: Passive and active walkers"
+      "Weekly exercises",
+      "E3: Diffusion and tracking"
     ]
   },
   {
-    "objectID": "A_walkers/index.html#code",
-    "href": "A_walkers/index.html#code",
-    "title": "A: Passive and active walkers",
-    "section": "Code",
-    "text": "Code\n\nrandomwalk_1d.py, randomwalk_exercise.py: random-walk simulations\nsynthetic_brownian.py: synthetic Brownian movies with known \\(D\\), and a reference tracking pipeline\ntrackpy_anal.ipynb: first steps with trackpy\nvicsek/: Vicsek model simulation",
-    "crumbs": [
-      "A: Passive and active walkers"
-    ]
-  },
-  {
-    "objectID": "B_entropy/index.html",
-    "href": "B_entropy/index.html",
-    "title": "B: Entropy, ions and membranes",
+    "objectID": "A_walkers/exercises/E5_active_vicsek.html",
+    "href": "A_walkers/exercises/E5_active_vicsek.html",
+    "title": "E5: Active Brownian particles and the Vicsek model",
     "section": "",
-    "text": "Why does a cell burst in pure water? How can entropy create forces and order? Why is there a voltage across every cell membrane, and why does it cost the cell so much energy to keep it? We build up from multiplicity and the Boltzmann distribution to free energy, entropic forces, osmosis, the Nernst potential, Donnan equilibrium and ion pumps."
+    "text": "About 2–3 hours. Theory: Active matter notes. Code: src/vicsek/ (by Harish).",
+    "crumbs": [
+      "Weekly exercises",
+      "E5: Active Brownian particles and the Vicsek model"
+    ]
   },
   {
-    "objectID": "B_entropy/index.html#reading",
-    "href": "B_entropy/index.html#reading",
-    "title": "B: Entropy, ions and membranes",
-    "section": "Reading",
-    "text": "Reading\n\nNelson, chapters 6–7 and 11.1–11.2\nLecture notes: Entropy and entropic forces, Processes at membranes, Membrane potentials, Thermodynamics summary (coming)\n\nThis block is being moved to the new format."
+    "objectID": "A_walkers/exercises/E5_active_vicsek.html#one-active-brownian-particle",
+    "href": "A_walkers/exercises/E5_active_vicsek.html#one-active-brownian-particle",
+    "title": "E5: Active Brownian particles and the Vicsek model",
+    "section": "1. One active Brownian particle",
+    "text": "1. One active Brownian particle\nSimulate 400 independent active Brownian particles with the finite-difference equations in the notes, using \\(v = 1\\), \\(D_T = 0.1\\), \\(D_R = 0.5\\), \\(\\Delta t = 0.01\\) (arbitrary units) and \\(2\\times10^4\\) time steps. Plot the MSD against time on log–log axes.\n\nIdentify the diffusive, ballistic and enhanced-diffusive regimes. At what times do the crossovers happen? Compare with \\(D_T/v^2\\) and \\(\\tau_R = 1/D_R\\).\nCompare the long-time slope with \\(D_{\\rm eff} = D_T + v^2\\tau_R/2\\).",
+    "crumbs": [
+      "Weekly exercises",
+      "E5: Active Brownian particles and the Vicsek model"
+    ]
+  },
+  {
+    "objectID": "A_walkers/exercises/E5_active_vicsek.html#the-flocking-transition",
+    "href": "A_walkers/exercises/E5_active_vicsek.html#the-flocking-transition",
+    "title": "E5: Active Brownian particles and the Vicsek model",
+    "section": "2. The flocking transition",
+    "text": "2. The flocking transition\nUse vicsek_model.generate_vicsek_data (see vicsek_model_exercise.py) with \\(N = 400\\), \\(L = 14\\) (density \\(\\approx 2\\)), \\(r = 1\\), \\(v = 0.1\\) and 500 iterations.\n\nFor noise amplitudes \\(\\eta = 0.1, 0.2, \\ldots, 1.0\\), compute the order parameter \\(\\psi = \\frac{1}{N}\\left|\\sum_i \\mathbf v_i / v\\right|\\), averaged over the last 200 iterations. Plot \\(\\psi\\) against \\(\\eta\\).\nWhere is the transition? Run once more at the \\(\\eta\\) closest to the transition. How much does \\(\\psi\\) fluctuate in time there, compared with far from it?\nWhy is \\(\\psi \\approx 1/\\sqrt{N}\\), not 0, in the disordered phase?",
+    "crumbs": [
+      "Weekly exercises",
+      "E5: Active Brownian particles and the Vicsek model"
+    ]
+  },
+  {
+    "objectID": "A_walkers/lab_brownian.html",
+    "href": "A_walkers/lab_brownian.html",
+    "title": "Lab: Brownian motion",
+    "section": "",
+    "text": "The purpose of this lab is to learn some basic statistical physics, microscopy, imaging and image analysis. The data you take here are the data for Project 1. The theory is in the notes on active and passive motion, sections on random walks, diffusion, viscous drag and the Langevin equation.",
+    "crumbs": [
+      "Lab and project",
+      "Lab: Brownian motion"
+    ]
+  },
+  {
+    "objectID": "A_walkers/lab_brownian.html#background",
+    "href": "A_walkers/lab_brownian.html#background",
+    "title": "Lab: Brownian motion",
+    "section": "Background",
+    "text": "Background\n\nNobel Prize in 2009\nElectronic cameras surround us everywhere and have been used scientifically since they were invented. In 2009, Willard S. Boyle and George E. Smith at Bell Laboratories were awarded the Nobel Prize in Physics “for the invention of an imaging semiconductor circuit, the CCD sensor”.\n\n\nThe optical microscope\nThe microscope is a stable stand that allows small, controlled movements of what you are looking at relative to the light source and the objective. The illumination is at least as important for what you see as the type of objective you use. If the illumination is correct, the resolution of the microscope is set by the numerical aperture (NA) of the objective. The resolution is the radius of the diffraction pattern from point sources, and is at best \\(r=\\lambda/(2\\,\\mathrm{NA})\\), where \\(\\lambda\\) is the wavelength of the light. We have two objectives with NA = 0.4 and NA = 0.65, so the resolutions for green light are \\(D_{20X}=0.7\\) µm and \\(D_{40X}=0.4\\) µm.\n\n\nImaging with electronic cameras\nThe objective sends out an almost parallel beam of rays. This beam must pass through an eyepiece to form an image on the retina, or through an imaging lens to form an image on the sensor of a camera. In an electronic camera, electrons are released where light falls on a semiconductor chip. The chip is divided into many pixels, each of which works as a light sensor.\n\nThe spatial resolution of a camera is set by how many pixels the chip is divided into.\nJust as important is the intensity resolution: how many intensity levels each pixel can distinguish. It depends on the pixel size (larger pixels collect more electrons), the sensor temperature (fewer thermal noise electrons when cold) and the readout noise (usually larger for faster readout). Most simple cameras and image formats use \\(2^8=256\\) levels (8 bit). Good SLR cameras have a raw format with 12 bit (\\(2^{12}=4096\\) levels). Good scientific cameras are cooled to between −80 and −180 °C and have expensive readout electronics giving \\(2^{16}=65536\\) levels. Then each pixel is an accurate, sensitive light meter.\nSquare pixels are an advantage: the conversion from pixels to object size is then the same horizontally and vertically.\nIf you do not need colour information, a greyscale camera is better, because colour filtering costs both spatial and intensity resolution.\nThe last choice is the chip technology, CCD or CMOS.\n\n\n\nImage analysis\n\n\n\n\n\n\nFigure 1: Analysis of an imaged square grid. Top left: monochrome image of a square grid with 50 µm between the lines and 5 µm wide lines. Top right: the same image as a matrix \\(I\\), shown as a colour map. Note that the element \\(I[0,0]\\) is in the upper left corner. Bottom: vertical cross-section I[:, 500] on the left and horizontal cross-section I[500, :] on the right.\n\n\n\nWe only use monochrome cameras here. A monochrome image is a 2D matrix with elements \\(I_{ij}\\), \\(i=1\\ldots N_y\\), \\(j=1\\ldots N_x\\). For an 8-bit image, \\(I_{ij}\\) is between 0 (black) and 255 (white). The pixel coordinates correspond to object coordinates \\(x_j=j s_x\\) and \\(y_i=i s_y\\), where \\(s_x\\) and \\(s_y\\) are the pixel sizes in the object (µm per pixel). One of the first things to do with a new imaging system is to find \\(s_x\\) and \\(s_y\\) by imaging an object of known size and counting how many pixels it covers.\nFigure 1 shows a greyscale image with 1024 × 1280 pixels and intensities between 50 and 240. The positions of the horizontal lines are the 4 minima in the lower left plot, and the positions of the vertical lines are the 5 minima in the lower right plot. Since the lines are 50 µm apart, these minima give \\(s_x\\) and \\(s_y\\).\nIn Python:\nimport matplotlib.pyplot as plt\nimport pims\n\nI = pims.as_gray(pims.open('grid20x.png'))[0]  # greyscale matrix\nplt.imshow(I, cmap='gray'); plt.colorbar()\nplt.figure(); plt.plot(I[:, 500]); plt.plot(I[500, :])\ntrackpy does not read images itself. It uses PIMS, which we use here too, so the calibration image and the movie are read the same way. pims.open reads a single image, a folder of images ('stack/*.png') or a video file, and returns a list of frames. pims.as_gray converts colour frames to greyscale and leaves greyscale frames as they are.",
+    "crumbs": [
+      "Lab and project",
+      "Lab: Brownian motion"
+    ]
+  },
+  {
+    "objectID": "A_walkers/lab_brownian.html#before-the-lab",
+    "href": "A_walkers/lab_brownian.html#before-the-lab",
+    "title": "Lab: Brownian motion",
+    "section": "Before the lab",
+    "text": "Before the lab\n\nInstall Python with numpy, scipy, matplotlib, pandas, trackpy and pims (see Working with LLMs for how to get help with this).\nRun randomwalk_exercise.py a few times. Change timesteps, numpart and stepsize and see how the result changes.\nRun synthetic_brownian.py. It makes a movie of simulated beads with a known \\(D\\), tracks it with trackpy, and prints the true and the fitted \\(D\\). This is the reference you will test your own pipeline against.",
+    "crumbs": [
+      "Lab and project",
+      "Lab: Brownian motion"
+    ]
+  },
+  {
+    "objectID": "A_walkers/lab_brownian.html#in-the-lab",
+    "href": "A_walkers/lab_brownian.html#in-the-lab",
+    "title": "Lab: Brownian motion",
+    "section": "In the lab",
+    "text": "In the lab\n\nImaging quality and calibration\nGet help to place the test slide in the microscope, turn on the light, open the camera program, and set the camera to take pictures continuously and show them on the screen. Never touch the surface of the test slide!\n\nUse the 20X objective, find a field with a square grid, and focus while looking in the eyepiece.\nOpen a window that shows the histogram and a window where you can set the exposure time. The histogram shows how many pixels have each intensity. You should see two peaks, one for the white stripes and one for the black stripes.\nSet a light intensity that is comfortable for the eyes. Then adjust the focus and the exposure time to get the largest possible distance between the two peaks in the histogram. You now have maximum contrast.\nSave a still image of the grid and determine \\(s_x\\) and \\(s_y\\) as in Figure 1.\nRepeat for the 40X objective.\nIs the resolution limited by diffraction or by the camera pixels? Calculate \\(D_{20X}/s_x\\) and \\(D_{40X}/s_x\\) and explain what these ratios tell you.\nOptional: Modulation transfer function (MTF). With the 20X objective, focus on the field with 60 LP/mm (line pairs per millimetre) and optimise contrast. Save an image, plot an intensity profile normal to the stripes, and note \\(I_{\\min}\\) and \\(I_{\\max}\\). Repeat with 380, 500 and 600 LP/mm, and then with the 40X objective. Plot \\(\\mathrm{MTF}(f)=(I_{\\max}(f)-I_{\\min}(f))/(I_{\\max}(60)-I_{\\min}(60))\\) for both objectives.\n\n\n\nBrownian motion\nGet help from a supervisor to prepare a microscope slide with a small volume of liquid containing small particles. Use the 20X objective and normal illumination to find an area with particles. Switch to dark-field illumination if it is difficult to find the particles.\n\nTake one picture of the particles with normal illumination and one with dark-field illumination, with the best contrast you can get. Describe the difference between the two images and how each is produced.\nDetermine the mean particle size in pixels and in micrometres. Compare with the nominal bead size and with the resolution of the objective.\nRecord a 30 s movie at 15 frames per second with the best contrast and focus. Play it a few times (e.g. in ImageJ/Fiji) to see roughly how far the most mobile particles move during the movie.\nBefore you leave: run trackpy.locate on one frame and trackpy.annotate to check that the particles are found (see trackpy_anal.ipynb). It is much easier to fix exposure and focus now than to rescue bad data later.\nRecord a 5 min movie at 15 frames per second with the best possible contrast and focus.\nWrite down: objective, pixel size, frame rate, exposure time, bead size (nominal), temperature in the room, and anything that may cause drift (evaporation, a tilted stage, a warm lamp).\n\n\n\nAfter the lab\nThe analysis is Project 1. A short image sequence from an earlier lab, cropped to 1024 × 1024 pixels, is in src/stack2_crop/ if you want to start testing before you have your own data.",
+    "crumbs": [
+      "Lab and project",
+      "Lab: Brownian motion"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E10_recap.html",
+    "href": "B_entropy/exercises/E10_recap.html",
+    "title": "E10: Block B recap, oral-exam style",
+    "section": "",
+    "text": "About 2 hours. This set rehearses the final oral exam. Choose three of the topics below. For each, prepare a 5-minute explanation at the board, and hand in one page with the figure you would draw, the key equations, and one number you would calculate. On Thursday, a few of you will give your explanation and get questions.\nYou may use an LLM to prepare, as you will before the exam. But check every equation and number yourself: the questions on Thursday go one step further than the prepared answer.",
+    "crumbs": [
+      "Weekly exercises",
+      "E10: Block B recap, oral-exam style"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E10_recap.html#topics",
+    "href": "B_entropy/exercises/E10_recap.html#topics",
+    "title": "E10: Block B recap, oral-exam style",
+    "section": "Topics",
+    "text": "Topics\n\nOsmosis. Derive the van ’t Hoff relation from the picture of a dilute solute as an ideal gas, and then from the chemical potential of water. Why does only the number of particles count? Calculate the osmotic pressure of physiological saline against pure water.\nChemical potential and diffusive equilibrium. What is \\(\\mu\\), and why does it, not concentration, decide where particles go? Show how an external potential enters, using the barometric formula or sedimentation as the example.\nCharges at membranes. A membrane separates two NaCl solutions of different concentration and only Na⁺ can cross it. Draw how the ions, the charge density and the potential are distributed across the membrane. Where is the charge? How thick are the charged layers?\nDonnan equilibrium. Set up and solve the equations for a cell with trapped macroions. Why is the result a problem for animal cells, and how do they solve it?\nEntropic forces. Explain how a force can come from entropy alone, with two examples: the depletion force and the polymer spring. Why does a rubber band get stiffer when heated?\n\\(k_BT\\) and soft matter. Compare \\(k_BT\\) with the energy of a covalent bond, a hydrogen bond, ATP hydrolysis, and the Born energy of an ion in a membrane. What does each comparison tell you about which structures in the cell are stable, which fluctuate, and which processes need a free energy source?",
+    "crumbs": [
+      "Weekly exercises",
+      "E10: Block B recap, oral-exam style"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E7_depletion_osmosis.html",
+    "href": "B_entropy/exercises/E7_depletion_osmosis.html",
+    "title": "E7: Depletion forces and osmotic pressure",
+    "section": "",
+    "text": "About 2 hours. Theory: Entropic forces, Osmosis and Nelson chapter 7.",
+    "crumbs": [
+      "Weekly exercises",
+      "E7: Depletion forces and osmotic pressure"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E7_depletion_osmosis.html#artificial-blood-cells",
+    "href": "B_entropy/exercises/E7_depletion_osmosis.html#artificial-blood-cells",
+    "title": "E7: Depletion forces and osmotic pressure",
+    "section": "1. Artificial blood cells",
+    "text": "1. Artificial blood cells\nYou make lipid bilayer vesicles of radius 10 µm filled with haemoglobin solution. Put in pure water, they burst. In 1 mM NaCl they stay spherical and intact (Nelson, Problem 7.3).\n\nIf 1 mM is good, is 2 mM twice as good? What happens to the vesicles in 2 mM NaCl?\nYou want no salt outside, so that the solution does not conduct electricity. What concentration of glucose should you use instead?",
+    "crumbs": [
+      "Weekly exercises",
+      "E7: Depletion forces and osmotic pressure"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E7_depletion_osmosis.html#molar-mass-from-osmotic-pressure-and-oedema",
+    "href": "B_entropy/exercises/E7_depletion_osmosis.html#molar-mass-from-osmotic-pressure-and-oedema",
+    "title": "E7: Depletion forces and osmotic pressure",
+    "section": "2. Molar mass from osmotic pressure, and oedema",
+    "text": "2. Molar mass from osmotic pressure, and oedema\n\nThe osmotic pressure of the proteins in blood plasma at body temperature (take 303 K) is about 28 mm Hg (752 mm Hg = \\(1.01\\times10^5\\) Pa). The plasma contains about 60 g/L of protein. Assuming a dilute solution, estimate the average molar mass of the plasma proteins (Nelson, Problem 7.4).\nThe capillary walls let water through: a pressure difference \\(\\Delta P\\) across them drives a volume flux (volume per area per time) \\(L_p\\Delta P\\), with \\(L_p = 7\\times10^{-6}\\) cm s⁻¹ atm⁻¹. Normally the osmotic pressure of the plasma proteins roughly balances other forces across the capillaries. In an undernourished person, the plasma proteins are reduced by 10 %. How much fluid accumulates outside the capillaries per day, if their total open area is about 250 m²? Why do starving children get swollen bellies?",
+    "crumbs": [
+      "Weekly exercises",
+      "E7: Depletion forces and osmotic pressure"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E7_depletion_osmosis.html#depletion-forces-in-the-cell",
+    "href": "B_entropy/exercises/E7_depletion_osmosis.html#depletion-forces-in-the-cell",
+    "title": "E7: Depletion forces and osmotic pressure",
+    "section": "3. Depletion forces in the cell",
+    "text": "3. Depletion forces in the cell\nA typical globular protein is a sphere of radius about 10 nm. Suppose such proteins fill about 30 % of the cytoplasm (Nelson, Problem 7.5).\n\nTwo large, flat macromolecular complexes with matching surfaces approach each other face to face. Draw the depletion zones and estimate the separation at which a depletion force begins to act.\nThe contact area is 10 µm². Estimate the free energy gained when the surfaces stick, using the van ’t Hoff relation for the osmotic pressure of the proteins. Compare with \\(k_BT\\).\nIs the van ’t Hoff relation a good approximation here? Would the real depletion attraction be stronger or weaker?",
+    "crumbs": [
+      "Weekly exercises",
+      "E7: Depletion forces and osmotic pressure"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E9_donnan_pumps.html",
+    "href": "B_entropy/exercises/E9_donnan_pumps.html",
+    "title": "E9: Nernst and Donnan, and why cells need pumps",
+    "section": "",
+    "text": "About 2 hours. Theory: Donnan equilibrium and Membrane potentials and ion pumps. Use \\(k_BT/e = 26.7\\) mV (310 K).",
+    "crumbs": [
+      "Weekly exercises",
+      "E9: Nernst and Donnan, and why cells need pumps"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E9_donnan_pumps.html#how-much-trapped-charge-can-a-cell-afford",
+    "href": "B_entropy/exercises/E9_donnan_pumps.html#how-much-trapped-charge-can-a-cell-afford",
+    "title": "E9: Nernst and Donnan, and why cells need pumps",
+    "section": "1. How much trapped charge can a cell afford?",
+    "text": "1. How much trapped charge can a cell afford?\nOutside a cell: 140 mM Na⁺, 10 mM K⁺, 150 mM Cl⁻. Inside, trapped macroions carry a charge density \\(\\rho_m\\) (in mM of elementary charges, negative).\n\nWrite a Python function that solves the Donnan equations for given outside concentrations and \\(\\rho_m\\), and returns the inside concentrations, the membrane potential and the osmotic excess inside. Check that \\(\\rho_m/e = -125\\) mM gives the result in the notes.\nPlot \\(\\Delta\\mathcal V\\) and the osmotic pressure \\(\\Delta P\\) against \\(-\\rho_m/e\\) from 0 to 200 mM.\nA lipid membrane ruptures at a tension of about 10 mN/m. With the Laplace pressure \\(\\Delta P = 2\\gamma/R\\), what pressure can a cell of radius 10 µm withstand? What is the largest trapped charge density it could have without pumping? Compare with the 125 mM of a real cell.\nShow that for small \\(\\rho_m\\) the osmotic excess is \\(\\Delta c\\approx \\rho_m^2/(4c_s)\\), where \\(c_s = 150\\) mM is the outside salt concentration. Why is it quadratic?",
+    "crumbs": [
+      "Weekly exercises",
+      "E9: Nernst and Donnan, and why cells need pumps"
+    ]
+  },
+  {
+    "objectID": "B_entropy/exercises/E9_donnan_pumps.html#the-pumpleak-steady-state",
+    "href": "B_entropy/exercises/E9_donnan_pumps.html#the-pumpleak-steady-state",
+    "title": "E9: Nernst and Donnan, and why cells need pumps",
+    "section": "2. The pump–leak steady state",
+    "text": "2. The pump–leak steady state\nUse the squid axon data in the notes, and \\(g_\\text{K} = 25\\,g_\\text{Na}\\).\n\nDerive the resting potential with a 3 Na⁺ : 2 K⁺ pump (notes) and calculate \\(\\Delta\\mathcal V\\).\nSome pumps exchange one ion for one ion and move no net charge. What would the resting potential be with a 1 Na⁺ : 1 K⁺ pump? Does the stoichiometry matter much for \\(\\Delta\\mathcal V\\)? What does it matter for?\nCalculate the free energy needed for one cycle of the 3:2 pump at \\(\\Delta\\mathcal V = -60\\) mV, in \\(k_BT\\), and compare it with the 19 \\(k_BT\\) from one ATP. What is the thermodynamic efficiency?\nWhy must chloride, which is not pumped in this model, have its Nernst potential equal to the resting potential?",
+    "crumbs": [
+      "Weekly exercises",
+      "E9: Nernst and Donnan, and why cells need pumps"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membrane_potential.html",
+    "href": "B_entropy/membrane_potential.html",
+    "title": "Membrane potentials and ion pumps",
+    "section": "",
+    "text": "The Donnan equilibrium explains how trapped macroions create a membrane potential, but it predicts an osmotic pressure that would burst an animal cell. Real cells are not in equilibrium. They spend a large part of their energy budget keeping themselves away from it.",
+    "crumbs": [
+      "Notes",
+      "Membrane potentials and ion pumps"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membrane_potential.html#the-sodium-anomaly",
+    "href": "B_entropy/membrane_potential.html#the-sodium-anomaly",
+    "title": "Membrane potentials and ion pumps",
+    "section": "The sodium anomaly",
+    "text": "The sodium anomaly\nMeasured ion concentrations in the squid giant axon (Nelson, Table 11.1), with the Nernst potentials from \\(\\mathcal V_i^\\text{Nernst} = -(k_BT/z_ie)\\ln(c_{i,\\text{in}}/c_{i,\\text{out}})\\):\n\n\n\nIon\nInside (mM)\nOutside (mM)\n\\(\\mathcal V_i^\\text{Nernst}\\) (mV)\n\n\n\n\nK⁺\n400\n20\n−75\n\n\nNa⁺\n50\n440\n+54\n\n\nCl⁻\n52\n560\n−59\n\n\n\nThe measured resting potential is \\(\\Delta\\mathcal V\\approx -60\\) mV. Chloride is close to equilibrium and potassium not far from it. Sodium is far from equilibrium: its concentration is lower inside although the inside is negative and should attract it. If all three ions were in Donnan equilibrium, the three Nernst potentials would be equal. They are not, so the resting state is not an equilibrium.",
+    "crumbs": [
+      "Notes",
+      "Membrane potentials and ion pumps"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membrane_potential.html#ion-channels-and-the-ohmic-hypothesis",
+    "href": "B_entropy/membrane_potential.html#ion-channels-and-the-ohmic-hypothesis",
+    "title": "Membrane potentials and ion pumps",
+    "section": "Ion channels and the Ohmic hypothesis",
+    "text": "Ion channels and the Ohmic hypothesis\nIons cross lipid membranes extremely slowly on their own (the Born energy of moving a charge from water into oil is about \\(100\\,k_BT\\), see E8). They cross through ion channels: proteins with a water-filled pore, often selective for one ion species, that open and close in response to voltage, ligands, temperature or mechanical stress. A single open channel passes millions of ions per second, without using metabolic energy. This is passive transport, downhill in electrochemical potential.\nThe driving force on ion species \\(i\\) is its electrochemical potential difference,\n\\[\n\\Delta\\mu_i = k_BT\\,\\Delta\\ln c_i + z_ie\\,\\Delta\\mathcal V = z_ie\\left(\\Delta\\mathcal V - \\mathcal V_i^\\text{Nernst}\\right).\n\\]\nLinear transport, \\(j_i = -g_i'\\,\\Delta\\mu_i\\) as in osmotic flow, then gives the Ohmic hypothesis for the electric current per area carried by species \\(i\\) out of the cell:\n\\[\nj_{q,i} = g_i\\left(\\Delta\\mathcal V - \\mathcal V_i^\\text{Nernst}\\right).\n\\tag{1}\\]\nEach ion species is a battery \\(\\mathcal V_i^\\text{Nernst}\\) in series with a conductance \\(g_i\\), and all of them are in parallel across the membrane capacitance (Nelson, Figure 11.4). For the squid axon at rest,\n\\[\ng_{\\text{K}} \\approx 25\\, g_{\\text{Na}} \\approx 2\\, g_{\\text{Cl}} .\n\\tag{2}\\]\nWithout pumps, a steady potential requires zero net current, \\(\\sum_i j_{q,i} = 0\\), which gives the conductance-weighted average \\(\\Delta\\mathcal V = \\sum_i g_i\\mathcal V_i^\\text{Nernst}/\\sum_i g_i \\approx -66\\) mV. But each ion still leaks, so the concentrations slowly run down towards Donnan equilibrium. Something must push them back.",
+    "crumbs": [
+      "Notes",
+      "Membrane potentials and ion pumps"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membrane_potential.html#active-pumping",
+    "href": "B_entropy/membrane_potential.html#active-pumping",
+    "title": "Membrane potentials and ion pumps",
+    "section": "Active pumping",
+    "text": "Active pumping\nThe sodium–potassium pump (Na⁺/K⁺-ATPase) is a membrane protein that, for each ATP molecule it hydrolyses, moves 3 Na⁺ out and 2 K⁺ in. It drives sodium and potassium uphill, against their electrochemical potentials.\nIn a steady state no ion may accumulate, so every ion is either impermeant, in Nernst equilibrium, or pumped exactly as fast as it leaks. In the simplest model:\n\nCl⁻ is not pumped, so it must be in equilibrium: \\(\\Delta\\mathcal V = \\mathcal V_\\text{Cl}^\\text{Nernst} = -59\\) mV.\nThe leaks of Na⁺ and K⁺ must be in the ratio of the pump, \\(-3/2\\) (the pump pushes sodium out and potassium in). From Eq. 1:\n\n\\[\n2\\,g_\\text{Na}\\left(\\Delta\\mathcal V - \\mathcal V_\\text{Na}^\\text{Nernst}\\right) = -3\\,g_\\text{K}\\left(\\Delta\\mathcal V - \\mathcal V_\\text{K}^\\text{Nernst}\\right)\n\\quad\\Rightarrow\\quad\n\\Delta\\mathcal V = \\frac{2g_\\text{Na}\\mathcal V_\\text{Na}^\\text{Nernst} + 3g_\\text{K}\\mathcal V_\\text{K}^\\text{Nernst}}{2g_\\text{Na} + 3g_\\text{K}} .\n\\tag{3}\\]\nWith Eq. 2 this gives \\(\\Delta\\mathcal V\\approx -72\\) mV, compared with about −60 mV measured. The linear (Ohmic) hypothesis is used for sodium, which is far from equilibrium, and other ions are left out, so moderate agreement is what we can expect. The model gets the essentials right: the resting potential lies between the Nernst potentials of potassium and sodium, much closer to potassium, because \\(g_\\text{K}\\gg g_\\text{Na}\\).\n\nWhat the pump costs and what it buys\nAt \\(\\Delta\\mathcal V = -60\\) mV, pushing one Na⁺ out costs \\(e(60 + 54)\\) meV \\(= 114\\) meV, and pulling one K⁺ in costs \\(e(-60 + 75) = 15\\) meV. One cycle costs \\(3\\cdot 114 + 2\\cdot 15 = 372\\) meV \\(\\approx 15\\,k_BT\\). Hydrolysing one ATP releases about \\(19\\,k_BT\\) under cellular conditions, so the pump works close to its thermodynamic limit, wasting about \\(4\\,k_BT\\) per cycle as heat.\nEach cycle also removes one ion from the cell (3 out, 2 in). This is what solves the osmotic problem of the Donnan equilibrium: by keeping sodium out, the pump lowers the total concentration of small ions inside until the osmotic pressure is close to zero. Animal cells keep their volume, and a resting potential, by continuously spending free energy. In a resting human, roughly a quarter of all ATP goes to this one pump; in neurons it is more.",
+    "crumbs": [
+      "Notes",
+      "Membrane potentials and ion pumps"
+    ]
+  },
+  {
+    "objectID": "B_entropy/membrane_potential.html#towards-nerve-signals",
+    "href": "B_entropy/membrane_potential.html#towards-nerve-signals",
+    "title": "Membrane potentials and ion pumps",
+    "section": "Towards nerve signals",
+    "text": "Towards nerve signals\nThe resting state is a nonequilibrium steady state with stored free energy: the sodium battery \\(\\mathcal V_\\text{Na}^\\text{Nernst}\\) is held at +54 mV, but connected only through a small conductance. If \\(g_\\text{Na}\\) suddenly increases, the membrane potential swings towards +54 mV. In nerve cells, the sodium and potassium channels are voltage-gated: their conductance depends on \\(\\Delta\\mathcal V\\). This nonlinearity turns the leaky membrane into an excitable medium that can regenerate a sharp pulse, the action potential, and send it along an axon at constant speed and shape. That is Nelson chapter 12, the Hodgkin–Huxley model, and elective 2B Nerve signals. See the neuron demo for what it looks like.",
+    "crumbs": [
+      "Notes",
+      "Membrane potentials and ion pumps"
+    ]
+  },
+  {
+    "objectID": "C_morphogenesis/index.html",
+    "href": "C_morphogenesis/index.html",
+    "title": "C: Morphogenesis, mechanobiology and imaging",
+    "section": "",
+    "text": "How do identical cells organise themselves into a tissue with a shape? How do cells feel and respond to forces? We look at active materials that shape themselves, the cytoskeleton and adhesion, the physics of adherent cells, differential adhesion and the Cellular Potts model, Turing patterns versus positional information, and the new microscopy that lets us see living tissue without labels.\nThis block is being moved to the new format."
+  },
+  {
+    "objectID": "electives/2B_nerve.html",
+    "href": "electives/2B_nerve.html",
+    "title": "2B: Nerve signals, from Nernst to Hodgkin–Huxley",
+    "section": "",
+    "text": "Every animal cell has a voltage across its membrane, but nerve cells use it to send signals: a sharp pulse, the action potential, travels along the axon at constant speed and shape. In the brain, neuroscientists often see these pulses only indirectly, as flashes of fluorescence from calcium that enters the cell when it fires. Your question is:\n\nHow do ion gradients and voltage-gated channels produce an action potential, and what can a calcium signal tell us about how a neuron fires?\n\nThe physics is from Block B: the Nernst potential, ion pumps and the resting potential (Membrane potentials and ion pumps), and then Nelson chapter 12. The simulation exercise was written by Geir Halnes (NMBU) and has been used in the course since 2019.\n\n\n\nCalcium imaging: a single action potential, evoked by current injection, raises the intracellular calcium concentration by 50–100 nM, which then decays back to baseline (from Rudolph, Hull and Regehr, J. Neurosci. 2015).",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2B: Nerve signals, from Nernst to Hodgkin–Huxley"
+    ]
+  },
+  {
+    "objectID": "electives/2B_nerve.html#the-question",
+    "href": "electives/2B_nerve.html#the-question",
+    "title": "2B: Nerve signals, from Nernst to Hodgkin–Huxley",
+    "section": "",
+    "text": "Every animal cell has a voltage across its membrane, but nerve cells use it to send signals: a sharp pulse, the action potential, travels along the axon at constant speed and shape. In the brain, neuroscientists often see these pulses only indirectly, as flashes of fluorescence from calcium that enters the cell when it fires. Your question is:\n\nHow do ion gradients and voltage-gated channels produce an action potential, and what can a calcium signal tell us about how a neuron fires?\n\nThe physics is from Block B: the Nernst potential, ion pumps and the resting potential (Membrane potentials and ion pumps), and then Nelson chapter 12. The simulation exercise was written by Geir Halnes (NMBU) and has been used in the course since 2019.\n\n\n\nCalcium imaging: a single action potential, evoked by current injection, raises the intracellular calcium concentration by 50–100 nM, which then decays back to baseline (from Rudolph, Hull and Regehr, J. Neurosci. 2015).",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2B: Nerve signals, from Nernst to Hodgkin–Huxley"
+    ]
+  },
+  {
+    "objectID": "electives/2B_nerve.html#material",
+    "href": "electives/2B_nerve.html#material",
+    "title": "2B: Nerve signals, from Nernst to Hodgkin–Huxley",
+    "section": "Material",
+    "text": "Material\n\nExercise_HHCa.ipynb: the Hodgkin–Huxley model in Python, with the tasks (the instructions are handed out in week 14)\nExercise_HHCa_2019.pdf: the same exercise as a PDF\nca_imaging_mean_intensity.csv: mean fluorescence intensity in one region of a calcium imaging movie, frame by frame\nfluorescence_microscopy.pdf: slides on fluorescence microscopy and calcium indicators\nThe neuron demo",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2B: Nerve signals, from Nernst to Hodgkin–Huxley"
+    ]
+  },
+  {
+    "objectID": "electives/2B_nerve.html#milestones",
+    "href": "electives/2B_nerve.html#milestones",
+    "title": "2B: Nerve signals, from Nernst to Hodgkin–Huxley",
+    "section": "Milestones",
+    "text": "Milestones\n\n\n\n\n\n\n\n\n\nWhen\nWhat you show\n\n\n\n\nM1\nTue 30 Mar (W13)\nA running model of the resting potential: ion concentrations relaxing to the pump–leak steady state, compared with the analytical result\n\n\nM2\nTue 13 Apr (W15)\nValidated core figure: the action potential and calcium response of the extended Hodgkin–Huxley model, with the checks in part 4\n\n\nM3\nSun 25 Apr\nReport and LLM log on Canvas\n\n\nM4\nTue 27 Apr (W17)\nOral defense",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2B: Nerve signals, from Nernst to Hodgkin–Huxley"
+    ]
+  },
+  {
+    "objectID": "electives/2B_nerve.html#what-the-project-should-contain",
+    "href": "electives/2B_nerve.html#what-the-project-should-contain",
+    "title": "2B: Nerve signals, from Nernst to Hodgkin–Huxley",
+    "section": "What the project should contain",
+    "text": "What the project should contain\n\n1. The resting potential (weeks 11–13)\nWrite a small time-dependent model of a cell with Na⁺, K⁺ and Cl⁻ channels (Ohmic leaks, see the notes), a 3:2 sodium–potassium pump and trapped macroions. Let the concentrations and the potential evolve from an initial state to steady state.\n\nShow that the steady state reproduces the analytical pump–leak potential, and that chloride ends up at its Nernst potential.\nWhat happens when you switch the pump off? How long does it take for the cell to run down, and towards what state?\n\n\n\n2. The action potential (from week 14)\nWork through Problems 1 and 2 of the notebook: speed up the gating rates to brain temperature, find the firing rate against input current (the \\(f\\)–\\(I\\) curve) and its threshold, and add a high-voltage-activated calcium channel.\n\n\n3. Calcium dynamics and the data\nWork through Problem 3 of the notebook: add intracellular calcium, and tune its parameters to the experiment. Then analyse the imaging data in ca_imaging_mean_intensity.csv:\n\nFind the individual calcium transients, subtract the background and fit their decay. What is the decay time, and how does it compare with \\(\\tau_\\text{Ca}\\) in the model?\nWhat can and cannot be inferred about the firing rate from the rise of the fluorescence?\n\n\n\n4. Validation\n\nCheck the Nernst potentials in the model by hand from the concentrations.\nShow that the model converges: halve the time step and compare.\nWithout calcium, the original model must fire two action potentials for the default stimulus (as stated in the notebook). Check it before changing anything.\nFor a single spike, the calcium rise should equal \\(k_\\text{Ca}\\) times the integrated calcium current, and the decay should be exponential with time constant \\(\\tau_\\text{Ca}\\). Check both against your simulation.",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2B: Nerve signals, from Nernst to Hodgkin–Huxley"
+    ]
+  },
+  {
+    "objectID": "electives/2B_nerve.html#working-with-an-llm-on-this-project",
+    "href": "electives/2B_nerve.html#working-with-an-llm-on-this-project",
+    "title": "2B: Nerve signals, from Nernst to Hodgkin–Huxley",
+    "section": "Working with an LLM on this project",
+    "text": "Working with an LLM on this project\nThe notebook is written in an old style (from pylab import *, forward Euler). An LLM can modernise it, vectorise it, or replace the integrator. Do so only if you can show that the new version gives the same action potential as the original. When the LLM suggests parameter values for ion channels, ask for the source and check it.",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2B: Nerve signals, from Nernst to Hodgkin–Huxley"
+    ]
+  },
+  {
+    "objectID": "electives/2B_nerve.html#the-oral-defense",
+    "href": "electives/2B_nerve.html#the-oral-defense",
+    "title": "2B: Nerve signals, from Nernst to Hodgkin–Huxley",
+    "section": "The oral defense",
+    "text": "The oral defense\nAbout 15 min per student. Typical questions:\n\nDerive the Nernst potential. Why is the resting potential close to the potassium Nernst potential?\nWhy does a cell need ion pumps? What would happen without them?\nWhat do the gating variables \\(m\\), \\(h\\) and \\(n\\) describe? Why is \\(m\\) fast and \\(h\\) slow, and what would happen if they were equally fast?\nWhy is there a refractory period?\nWhat does the calcium signal tell you about the firing, and what does it not tell you?\nWhat did the LLM get wrong?",
+    "crumbs": [
+      "Round 1 (P2)",
+      "2B: Nerve signals, from Nernst to Hodgkin–Huxley"
+    ]
   },
   {
     "objectID": "electives/index.html",
     "href": "electives/index.html",
     "title": "Elective projects",
     "section": "",
-    "text": "After the common project P1, you choose one elective in each round. Every elective follows the same four milestones as P1 (running, validated core figure, report with LLM log, oral defense). Each one has its own validation step: a way of showing that your result is right."
+    "text": "After the common project P1, you choose one elective in each round. Every elective follows the same four milestones as P1 (running, validated core figure, report with LLM log, oral defense). Each one has its own validation step: a way of showing that your result is right.",
+    "crumbs": [
+      "Elective projects"
+    ]
   },
   {
     "objectID": "electives/index.html#round-1-p2-weeks-1117",
     "href": "electives/index.html#round-1-p2-weeks-1117",
     "title": "Elective projects",
     "section": "Round 1 (P2): weeks 11–17",
-    "text": "Round 1 (P2): weeks 11–17\nChoose by Sunday 14 March. Report due Sunday 25 April, defense Tuesday 27 April.\n2A Freezing cells: the physics of cryopreservation. Osmosis, freezing-point depression and water flow through the membrane during cooling. Find the cooling rate that avoids both ice inside the cell and damage from concentrated solution. Possibly with a wet-lab measurement of cell volume against osmolarity.\n2B Nerve signals: from Nernst to Hodgkin–Huxley. From the resting potential to the action potential and neuronal calcium dynamics, compared with two-photon calcium imaging in mouse cortex.\n2C Active cell layers: from Vicsek to epithelia. Map the flocking transition in the Vicsek model, then measure cell shape, orientation and nematic order in quantitative-phase images of epithelial monolayers, tested against null models."
+    "text": "Round 1 (P2): weeks 11–17\nChoose by Sunday 14 March. Report due Sunday 25 April, defense Tuesday 27 April.\n2A Freezing cells: the physics of cryopreservation. Osmosis, freezing-point depression and water flow through the membrane during cooling. Find the cooling rate that avoids both ice inside the cell and damage from concentrated solution. Possibly with a wet-lab measurement of cell volume against osmolarity.\n2B Nerve signals: from Nernst to Hodgkin–Huxley. From the resting potential to the action potential and neuronal calcium dynamics, compared with two-photon calcium imaging in mouse cortex.\n2C Active cell layers: from Vicsek to epithelia. Map the flocking transition in the Vicsek model, then measure cell shape, orientation and nematic order in quantitative-phase images of epithelial monolayers, tested against null models.",
+    "crumbs": [
+      "Elective projects"
+    ]
   },
   {
     "objectID": "electives/index.html#round-2-p3-weeks-1721",
     "href": "electives/index.html#round-2-p3-weeks-1721",
     "title": "Elective projects",
     "section": "Round 2 (P3): weeks 17–21",
-    "text": "Round 2 (P3): weeks 17–21\nChoose by Thursday 22 April. Report due Sunday 23 May, defense Tuesday 25 May.\n3A Cell sorting and tissue shape with the Cellular Potts model. Reproduce sorting, engulfment and mosaic patterns from contact energies and map the phase diagram.\n3B Mechanics of epithelial monolayers (wet lab). Grow epithelial monolayers, image them live, and measure velocity fields and correlation lengths.\n3C Imaging at the physical limits. Label-free quantitative phase imaging: from phase to dry mass, calibrated on beads and applied to cells. How do shot noise and photodamage limit what we can see, and what could squeezed light gain?\nDetailed project texts will be posted before each elective fair."
+    "text": "Round 2 (P3): weeks 17–21\nChoose by Thursday 22 April. Report due Sunday 23 May, defense Tuesday 25 May.\n3A Cell sorting and tissue shape with the Cellular Potts model. Reproduce sorting, engulfment and mosaic patterns from contact energies and map the phase diagram.\n3B Mechanics of epithelial monolayers (wet lab). Grow epithelial monolayers, image them live, and measure velocity fields and correlation lengths.\n3C Imaging at the physical limits. Label-free quantitative phase imaging: from phase to dry mass, calibrated on beads and applied to cells. How do shot noise and photodamage limit what we can see, and what could squeezed light gain?\nDetailed project texts for round 2 will be posted before the elective fair on 15 April.",
+    "crumbs": [
+      "Elective projects"
+    ]
   },
   {
     "objectID": "llm-guide.html",
