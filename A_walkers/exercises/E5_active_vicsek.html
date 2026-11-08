@@ -262,18 +262,6 @@ window.Quarto = {
           </a> 
       </div>
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../A_walkers/diffusion_friction.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Physics of active and passive motion in biology</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../../A_walkers/activematter.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Active matter: lecture notes</span></a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
@@ -378,10 +366,10 @@ window.Quarto = {
 </header>
 
 
-<p>About 2–3 hours. Theory: <a href="../../A_walkers/activematter.html">Active matter notes</a>. Code: <a href="../src/vicsek/vicsek_model.py"><code>src/vicsek/</code></a> (by Harish).</p>
+<p>About 2–3 hours. Theory: Active matter notes. Code: <a href="../src/vicsek/vicsek_model.py"><code>src/vicsek/</code></a> (by Harish).</p>
 <section id="one-active-brownian-particle" class="level2">
 <h2 class="anchored" data-anchor-id="one-active-brownian-particle">1. One active Brownian particle</h2>
-<p>Simulate 400 independent active Brownian particles with the finite-difference equations in the <a href="../../A_walkers/activematter.html#active-brownian-particles">notes</a>, using <span class="math inline">\(v = 1\)</span>, <span class="math inline">\(D_T = 0.1\)</span>, <span class="math inline">\(D_R = 0.5\)</span>, <span class="math inline">\(\Delta t = 0.01\)</span> (arbitrary units) and <span class="math inline">\(2\times10^4\)</span> time steps. Plot the MSD against time on log–log axes.</p>
+<p>Simulate 400 independent active Brownian particles with the finite-difference equations in the notes, using <span class="math inline">\(v = 1\)</span>, <span class="math inline">\(D_T = 0.1\)</span>, <span class="math inline">\(D_R = 0.5\)</span>, <span class="math inline">\(\Delta t = 0.01\)</span> (arbitrary units) and <span class="math inline">\(2\times10^4\)</span> time steps. Plot the MSD against time on log–log axes.</p>
 <ol type="a">
 <li>Identify the diffusive, ballistic and enhanced-diffusive regimes. At what times do the crossovers happen? Compare with <span class="math inline">\(D_T/v^2\)</span> and <span class="math inline">\(\tau_R = 1/D_R\)</span>.</li>
 <li>Compare the long-time slope with <span class="math inline">\(D_{\rm eff} = D_T + v^2\tau_R/2\)</span>.</li>
